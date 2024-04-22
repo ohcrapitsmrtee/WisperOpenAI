@@ -1,0 +1,5014 @@
+WEBVTT
+
+1
+0:00:00 --> 0:00:02,880000
+All right, good afternoon everyone.
+
+2
+0:00:02,880000 --> 0:00:04,880000
+Thank you so much for choosing to be here with us
+
+3
+0:00:04,880000 --> 0:00:07,200000
+for our presentation titled Changing the Way
+
+4
+0:00:07,200000 --> 0:00:09,400000
+Patients' Access Reproductive Health.
+
+5
+0:00:09,400000 --> 0:00:10,640000
+My name is Jordan Clunen.
+
+6
+0:00:10,640000 --> 0:00:14,240000
+I am currently a PGY2 ambulatory care pharmacy resident
+
+7
+0:00:14,240000 --> 0:00:17,600000
+at the Metro Health System located in Cleveland, Ohio.
+
+8
+0:00:17,600000 --> 0:00:21
+I also have the privilege of introducing my colleagues here,
+
+9
+0:00:21 --> 0:00:22,280000
+my fellow presenters.
+
+10
+0:00:22,280000 --> 0:00:24,360000
+I will first start with Dr. King.
+
+11
+0:00:24,360000 --> 0:00:27,160000
+Dr. King is an ambulatory care pharmacy specialist
+
+12
+0:00:27,160000 --> 0:00:29
+who practices at Metro Health System,
+
+13
+0:00:29 --> 0:00:30,720000
+also in Cleveland, Ohio.
+
+14
+0:00:30,720000 --> 0:00:32,880000
+Dr. King is also an associate professor
+
+15
+0:00:32,880000 --> 0:00:36,440000
+at the Northeast Ohio Medical University College of Pharmacy,
+
+16
+0:00:36,440000 --> 0:00:39,840000
+and she has focused her research both on ambulatory care,
+
+17
+0:00:39,840000 --> 0:00:41,640000
+as well as in women's health.
+
+18
+0:00:41,640000 --> 0:00:44,080000
+It is also my honor to recognize and to introduce
+
+19
+0:00:44,080000 --> 0:00:47,680000
+Dr. Lorenda Anderson, who is a clinical associate professor
+
+20
+0:00:47,680000 --> 0:00:50,760000
+at the Oregon State University College of Pharmacy.
+
+21
+0:00:50,760000 --> 0:00:52,760000
+Her research and advocacy efforts focus on
+
+22
+0:00:52,760000 --> 0:00:54,680000
+pharmacist prescribed contraception,
+
+23
+0:00:54,680000 --> 0:00:56,600000
+where she serves on Oregon State committees
+
+24
+0:00:56,600000 --> 0:00:59,600000
+to develop as well as maintain the statewide protocol.
+
+25
+0:00:59,600000 --> 0:01:04,040000
+None of the authors or the presenters
+
+26
+0:01:04,040000 --> 0:01:07,840000
+of this presentation have anything to disclose.
+
+27
+0:01:07,840000 --> 0:01:09,720000
+In listed here, you'll find our learning objectives
+
+28
+0:01:09,720000 --> 0:01:10,880000
+for this afternoon.
+
+29
+0:01:10,880000 --> 0:01:13,640000
+I will allow you to go through them on your own time
+
+30
+0:01:13,640000 --> 0:01:17,640000
+and refer to them as needed throughout the presentation.
+
+31
+0:01:17,640000 --> 0:01:20,720000
+We also wanted to provide for you a list of definitions,
+
+32
+0:01:20,720000 --> 0:01:22,800000
+as well as commonly used abbreviations,
+
+33
+0:01:22,800000 --> 0:01:25,240000
+not only that will be used throughout this presentation,
+
+34
+0:01:25,240000 --> 0:01:28,120000
+but also that are routinely used in clinical practice,
+
+35
+0:01:28,120000 --> 0:01:30,960000
+so it would be in your best interest to try to familiarize
+
+36
+0:01:30,960000 --> 0:01:33,560000
+yourself with these abbreviations,
+
+37
+0:01:33,560000 --> 0:01:34,880000
+again, throughout the presentation
+
+38
+0:01:34,880000 --> 0:01:37
+and in clinical practice, as well.
+
+39
+0:01:37 --> 0:01:39,040000
+I also wanted to mention that at this time,
+
+40
+0:01:39,040000 --> 0:01:41,160000
+if you plan to participate in our cases
+
+41
+0:01:41,160000 --> 0:01:42,440000
+throughout our presentation,
+
+42
+0:01:42,440000 --> 0:01:45,480000
+that if you could please try to download the slide set now,
+
+43
+0:01:45,480000 --> 0:01:47,560000
+because the cases are located at the end,
+
+44
+0:01:47,560000 --> 0:01:50,560000
+and we will be referring to them throughout the presentation.
+
+45
+0:01:50,560000 --> 0:01:54,560000
+And so to jump right in, we wanted to start with
+
+46
+0:01:54,560000 --> 0:01:56,600000
+what is going to show you the global oral
+
+47
+0:01:56,600000 --> 0:02:00,400000
+contraception availability throughout the entire globe.
+
+48
+0:02:00,400000 --> 0:02:03
+So as you can see here, we have in red,
+
+49
+0:02:03 --> 0:02:05,920000
+what some might consider to be more developed countries
+
+50
+0:02:05,920000 --> 0:02:08,840000
+such as United States, we see Canada on there,
+
+51
+0:02:08,840000 --> 0:02:12,520000
+we see Australia, and then the majority of Europe as well.
+
+52
+0:02:12,520000 --> 0:02:15,720000
+Currently in these countries, a prescription is required
+
+53
+0:02:15,720000 --> 0:02:19,400000
+for patients to have access to hormonal contraception.
+
+54
+0:02:19,400000 --> 0:02:21,480000
+On the other hand here, you'll see that there are also
+
+55
+0:02:21,480000 --> 0:02:24,320000
+a lot of countries that are currently in the light blue,
+
+56
+0:02:24,320000 --> 0:02:27,360000
+as well as the darker blue, indicating that they actually
+
+57
+0:02:27,360000 --> 0:02:30,400000
+have over-the-counter sales of hormonal contraceptives
+
+58
+0:02:30,400000 --> 0:02:32,080000
+that are available in these countries,
+
+59
+0:02:32,080000 --> 0:02:35,440000
+whether that be through informally or formal institutions
+
+60
+0:02:35,440000 --> 0:02:38,120000
+and protocols.
+
+61
+0:02:38,120000 --> 0:02:39,960000
+Narrowing things down into the outlook
+
+62
+0:02:39,960000 --> 0:02:42,480000
+regarding the United States more specifically,
+
+63
+0:02:42,480000 --> 0:02:45,640000
+we'll look at our contraceptive use among women here.
+
+64
+0:02:45,640000 --> 0:02:47,440000
+As you can see here on this diagram
+
+65
+0:02:47,440000 --> 0:02:49,880000
+that around 65% of women are currently
+
+66
+0:02:49,880000 --> 0:02:52,080000
+using some sort of contraceptive method
+
+67
+0:02:52,080000 --> 0:02:53,800000
+within the United States.
+
+68
+0:02:53,800000 --> 0:02:57,120000
+With the most common form being actually female sterilization
+
+69
+0:02:57,120000 --> 0:03:00,200000
+at around 18% of women using this form.
+
+70
+0:03:00,200000 --> 0:03:02,480000
+We also see that oral contraceptive pills
+
+71
+0:03:02,480000 --> 0:03:05,720000
+are the second commonly most used form
+
+72
+0:03:05,720000 --> 0:03:07,320000
+of contraceptive in the United States,
+
+73
+0:03:07,320000 --> 0:03:09,280000
+coming in at around 14%.
+
+74
+0:03:09,280000 --> 0:03:12,200000
+This will be the primary focus of our presentation.
+
+75
+0:03:12,200000 --> 0:03:14,080000
+And then we also here, I wanted to point out
+
+76
+0:03:14,080000 --> 0:03:16,440000
+that there's long-acting reversible contraceptives
+
+77
+0:03:16,440000 --> 0:03:18,520000
+that are used around 10% of women,
+
+78
+0:03:18,520000 --> 0:03:20,520000
+and then also the depro-provera,
+
+79
+0:03:20,520000 --> 0:03:22,520000
+contraceptive rings or patches,
+
+80
+0:03:22,520000 --> 0:03:26,280000
+are also frequently used in around 3% of women.
+
+81
+0:03:26,280000 --> 0:03:27,880000
+So to further break down these statistics
+
+82
+0:03:27,880000 --> 0:03:28,880000
+just a little bit further,
+
+83
+0:03:28,880000 --> 0:03:31,320000
+and all of this is from the CDC and the NIH
+
+84
+0:03:31,320000 --> 0:03:33,520000
+if you're interested in looking at it further.
+
+85
+0:03:33,520000 --> 0:03:35,280000
+But to break it down by race as well,
+
+86
+0:03:35,280000 --> 0:03:37
+we see when looking at the pills
+
+87
+0:03:37 --> 0:03:39,040000
+that non-Hispanic white patients
+
+88
+0:03:39,040000 --> 0:03:42,680000
+are more likely to use oral pill hormonal contraceptive
+
+89
+0:03:42,680000 --> 0:03:44,240000
+when compared to both Hispanic
+
+90
+0:03:44,240000 --> 0:03:46,400000
+as well as non-Hispanic black patients.
+
+91
+0:03:46,400000 --> 0:03:48,600000
+When they come in at are both around 8%,
+
+92
+0:03:48,600000 --> 0:03:51,480000
+compared to about 18% in white patients.
+
+93
+0:03:52,680000 --> 0:03:55,040000
+We also see when we break this down by age
+
+94
+0:03:55,040000 --> 0:03:57,840000
+that there's kind of an inverse relationship with age
+
+95
+0:03:57,840000 --> 0:03:59,600000
+and then oral contraceptive use.
+
+96
+0:03:59,600000 --> 0:04:01,840000
+So as patients tend to get older,
+
+97
+0:04:01,840000 --> 0:04:05,360000
+we see that the rates of patients using oral contraceptive
+
+98
+0:04:05,360000 --> 0:04:08,480000
+kind of tries, starts to go down.
+
+99
+0:04:08,480000 --> 0:04:10,800000
+So as you can see here, our patients in the dark blue,
+
+100
+0:04:10,800000 --> 0:04:13,440000
+so those are our 15 to 19 year old patients,
+
+101
+0:04:13,440000 --> 0:04:17,360000
+are using oral contraceptive at around 20% of those patients.
+
+102
+0:04:17,360000 --> 0:04:20,040000
+Moving on to kind of the light blue grayish color here,
+
+103
+0:04:20,120000 --> 0:04:23,560000
+we see that ages 20 to 29 are our highest users
+
+104
+0:04:23,560000 --> 0:04:27,600000
+of oral hormonal contraceptives at around 22%.
+
+105
+0:04:27,600000 --> 0:04:29,600000
+This starts to decrease in our patients
+
+106
+0:04:29,600000 --> 0:04:32,760000
+who are ages 30 to 39 at around 11%.
+
+107
+0:04:32,760000 --> 0:04:35,640000
+And then lastly, our patients age 40 to 49
+
+108
+0:04:35,640000 --> 0:04:37,680000
+come in at around 6 and a half percent.
+
+109
+0:04:38,920000 --> 0:04:40,400000
+And so I bring all of this up to you
+
+110
+0:04:40,400000 --> 0:04:43
+because understanding the different variations
+
+111
+0:04:43 --> 0:04:45,960000
+in contraceptive use across multiple social
+
+112
+0:04:45,960000 --> 0:04:48,920000
+as well as demographic patterns and characteristics
+
+113
+0:04:48,920000 --> 0:04:50,760000
+can offer some potential insight
+
+114
+0:04:50,760000 --> 0:04:52,920000
+into larger fertility patterns,
+
+115
+0:04:52,920000 --> 0:04:54,520000
+as well as including birth rates
+
+116
+0:04:54,520000 --> 0:04:57,400000
+and then the incidence of unintended pregnancies
+
+117
+0:04:57,400000 --> 0:04:59,080000
+here in the United States.
+
+118
+0:04:59,080000 --> 0:05:01,080000
+So many of you are probably somewhat familiar
+
+119
+0:05:01,080000 --> 0:05:04,440000
+with the statistic, but around 50% of pregnancies
+
+120
+0:05:04,440000 --> 0:05:06,200000
+in the US are unintended.
+
+121
+0:05:06,200000 --> 0:05:09,040000
+That is a rather large number, if you will.
+
+122
+0:05:09,040000 --> 0:05:11,880000
+About 5% of all unintended pregnancies are in women
+
+123
+0:05:11,880000 --> 0:05:14,120000
+who are actively using contraceptives
+
+124
+0:05:14,120000 --> 0:05:16,160000
+both correctly and consistently.
+
+125
+0:05:17,080000 --> 0:05:18,640000
+That then leads us to the conclusion
+
+126
+0:05:18,640000 --> 0:05:21,360000
+that the majority of unintended pregnancies
+
+127
+0:05:21,360000 --> 0:05:24,560000
+are attributed to either contraceptive non-use, right?
+
+128
+0:05:24,560000 --> 0:05:25,920000
+No, they're not using it at all.
+
+129
+0:05:25,920000 --> 0:05:28,320000
+Can't expect a benefit or inconsistent use
+
+130
+0:05:28,320000 --> 0:05:29,480000
+and non-adherence.
+
+131
+0:05:30,920000 --> 0:05:32,080000
+And so with that being said,
+
+132
+0:05:32,080000 --> 0:05:33,840000
+now that we understand some of the statistics
+
+133
+0:05:33,840000 --> 0:05:35,680000
+surrounding the use in our own country
+
+134
+0:05:35,680000 --> 0:05:37,400000
+as well as some of the other countries,
+
+135
+0:05:37,400000 --> 0:05:39,400000
+what do you think are some current barriers
+
+136
+0:05:39,400000 --> 0:05:42,440000
+that could be hindering access to hormonal contraceptives
+
+137
+0:05:42,440000 --> 0:05:44,600000
+within your own patient populations?
+
+138
+0:05:48,640000 --> 0:05:49,480000
+There you go.
+
+139
+0:05:49,480000 --> 0:05:50,800000
+I think you can scan that.
+
+140
+0:06:14,080000 --> 0:06:15,680000
+Give you a few more seconds here.
+
+141
+0:06:15,680000 --> 0:06:16,760000
+I see you guys are typing,
+
+142
+0:06:16,760000 --> 0:06:18,600000
+so I'll let you finish your sentences.
+
+143
+0:06:20,800000 --> 0:06:21,720000
+Or thoughts.
+
+144
+0:06:24,680000 --> 0:06:25,520000
+All right.
+
+145
+0:06:27,200000 --> 0:06:28,040000
+Awesome.
+
+146
+0:06:28,040000 --> 0:06:30,360000
+So it looks like here we've got a myriad of different answers.
+
+147
+0:06:30,360000 --> 0:06:32,120000
+So access, absolutely huge.
+
+148
+0:06:32,120000 --> 0:06:33,880000
+We'll break that down a little bit further.
+
+149
+0:06:33,880000 --> 0:06:38,400000
+Cost, stigma, social, cultural, religious barriers,
+
+150
+0:06:38,400000 --> 0:06:40,080000
+low health literacy.
+
+151
+0:06:40,080000 --> 0:06:41,760000
+The fact that the prescription is required,
+
+152
+0:06:41,760000 --> 0:06:44,840000
+absolutely, you guys are nailing it right on the head
+
+153
+0:06:44,840000 --> 0:06:46,640000
+and you might not even need me,
+
+154
+0:06:46,640000 --> 0:06:48,160000
+but you're exactly right.
+
+155
+0:06:48,160000 --> 0:06:49,240000
+So good job there.
+
+156
+0:06:49,240000 --> 0:06:51,360000
+And we'll try to break these down a little bit further
+
+157
+0:06:51,360000 --> 0:06:53,520000
+as we go throughout the presentation.
+
+158
+0:06:53,520000 --> 0:06:56,040000
+As of the year 2016, there was a survey
+
+159
+0:06:56,040000 --> 0:06:58,520000
+that went out to around 1,400 women.
+
+160
+0:06:58,520000 --> 0:07:01,040000
+Around 68% of these individuals reported
+
+161
+0:07:01,040000 --> 0:07:02,440000
+that at some point in their life,
+
+162
+0:07:02,440000 --> 0:07:05
+they tried to get hormonal contraception.
+
+163
+0:07:05 --> 0:07:09,440000
+Out of the 68% of patients, 29% of them reported problems,
+
+164
+0:07:09,440000 --> 0:07:12,080000
+either accessing the initial fill of that script
+
+165
+0:07:12,080000 --> 0:07:14,200000
+or the refills of the script.
+
+166
+0:07:14,200000 --> 0:07:15,680000
+And it was due to the following reasons.
+
+167
+0:07:15,680000 --> 0:07:18,480000
+So the first one that was seen in 14% of patients
+
+168
+0:07:18,480000 --> 0:07:20,800000
+was cost barriers, like many of you alluded to.
+
+169
+0:07:20,800000 --> 0:07:23,880000
+These can be expensive medications if you're uninsured.
+
+170
+0:07:23,880000 --> 0:07:24,960000
+Even if you have insurance,
+
+171
+0:07:24,960000 --> 0:07:27,120000
+sometimes there are copays required.
+
+172
+0:07:27,120000 --> 0:07:29,080000
+We also know that 13% of the patients
+
+173
+0:07:29,080000 --> 0:07:31,560000
+reported difficulty obtaining actual appointments,
+
+174
+0:07:31,560000 --> 0:07:32,520000
+getting to a clinic,
+
+175
+0:07:32,520000 --> 0:07:33,880000
+where then they could get the prescription.
+
+176
+0:07:33,880000 --> 0:07:37,040000
+So that could be things like transportation,
+
+177
+0:07:37,040000 --> 0:07:38,520000
+where they don't have someone to take them.
+
+178
+0:07:38,520000 --> 0:07:40,640000
+They are using public transportation
+
+179
+0:07:40,640000 --> 0:07:41,720000
+and they missed a bus.
+
+180
+0:07:41,720000 --> 0:07:44,400000
+All of those things are falling into this category.
+
+181
+0:07:44,400000 --> 0:07:46,800000
+We also see 13% of the patients said
+
+182
+0:07:46,800000 --> 0:07:49,400000
+that the clinic visit itself for the physical exam,
+
+183
+0:07:49,400000 --> 0:07:51,280000
+as well as the pap smear requirement,
+
+184
+0:07:51,280000 --> 0:07:54,280000
+deterred them from seeking these medications.
+
+185
+0:07:54,280000 --> 0:07:56,720000
+And then the last ones here, 10% of patients
+
+186
+0:07:56,720000 --> 0:07:58,960000
+said that they didn't have a regular physician
+
+187
+0:07:58,960000 --> 0:08:01,720000
+to go to to even ask for a prescription.
+
+188
+0:08:01,720000 --> 0:08:04,360000
+And the last 4% said it was because they actually
+
+189
+0:08:04,360000 --> 0:08:05,560000
+couldn't access the pharmacy.
+
+190
+0:08:05,560000 --> 0:08:09,040000
+So that now the ball is on our court in regards to that.
+
+191
+0:08:10,080000 --> 0:08:11,880000
+Breaking things down a little bit further,
+
+192
+0:08:11,880000 --> 0:08:14,440000
+we see that adherence ultimately comes
+
+193
+0:08:14,440000 --> 0:08:17,120000
+to be a large barrier for many of our patients.
+
+194
+0:08:17,120000 --> 0:08:20,280000
+One third of women who start using an oral contraceptive
+
+195
+0:08:20,280000 --> 0:08:22,280000
+will have stopped using that exact method
+
+196
+0:08:22,280000 --> 0:08:25,040000
+by the end of the first year of starting it.
+
+197
+0:08:25,040000 --> 0:08:25,880000
+Why?
+
+198
+0:08:25,880000 --> 0:08:27,840000
+So there was a study that was put out by ACOG
+
+199
+0:08:27,840000 --> 0:08:29,600000
+or a statement, if you will.
+
+200
+0:08:29,600000 --> 0:08:32,320000
+And they attributed this to four major reasons.
+
+201
+0:08:32,320000 --> 0:08:34,200000
+With the first one being patients struggle
+
+202
+0:08:34,200000 --> 0:08:36,680000
+with the difficulty of the daily method.
+
+203
+0:08:36,680000 --> 0:08:39,080000
+So it's hard to remember to take a medication every day.
+
+204
+0:08:39,080000 --> 0:08:40,760000
+I don't know if you've ever tried to do it.
+
+205
+0:08:40,760000 --> 0:08:41,360000
+I have.
+
+206
+0:08:41,360000 --> 0:08:42,240000
+It can be difficult.
+
+207
+0:08:42,240000 --> 0:08:43,440000
+You can forget.
+
+208
+0:08:43,440000 --> 0:08:45,360000
+You can get busy with life.
+
+209
+0:08:45,360000 --> 0:08:46,680000
+And things come up.
+
+210
+0:08:46,680000 --> 0:08:49,920000
+The other one that they identified was adverse effects.
+
+211
+0:08:49,920000 --> 0:08:52,320000
+Some of these medications can cause things like acne,
+
+212
+0:08:52,320000 --> 0:08:55,560000
+potentially a decrease in mood, potentially increased
+
+213
+0:08:55,560000 --> 0:08:56,280000
+weight gain.
+
+214
+0:08:56,280000 --> 0:08:59,360000
+Things that a lot of individuals might not necessarily
+
+215
+0:08:59,360000 --> 0:09:02,600000
+consider to be increasing their quality of life.
+
+216
+0:09:02,600000 --> 0:09:04,480000
+And then lastly, we talked about costs
+
+217
+0:09:04,480000 --> 0:09:06
+that plays a large impact.
+
+218
+0:09:06 --> 0:09:08,160000
+And it does impact a lot of our patients.
+
+219
+0:09:08,160000 --> 0:09:10,720000
+And then lastly, the lack of time for a medical visit
+
+220
+0:09:10,720000 --> 0:09:12,040000
+to obtain a prescription.
+
+221
+0:09:12,040000 --> 0:09:14,080000
+Some of the patients in these surveys
+
+222
+0:09:14,080000 --> 0:09:16,240000
+were struggling with getting PTO or sick time
+
+223
+0:09:16,240000 --> 0:09:18,840000
+from their employers and were a fear of getting fired.
+
+224
+0:09:18,840000 --> 0:09:22,320000
+So things that people are trying to balance behind the scenes
+
+225
+0:09:22,320000 --> 0:09:25
+that we might not always be aware of upfront when
+
+226
+0:09:25 --> 0:09:26,240000
+we're dealing with patients.
+
+227
+0:09:30,640000 --> 0:09:32,520000
+So moving on to an additional barrier
+
+228
+0:09:32,520000 --> 0:09:35,360000
+and kind of unburying the cost or the financial aspects that
+
+229
+0:09:35,360000 --> 0:09:37,200000
+can occur for some of our patients.
+
+230
+0:09:37,200000 --> 0:09:40,040000
+On this diagram here is from the 2022,
+
+231
+0:09:40,040000 --> 0:09:43,280000
+it was a survey done that was a national survey done
+
+232
+0:09:43,280000 --> 0:09:45,680000
+on multiple women throughout the country.
+
+233
+0:09:45,680000 --> 0:09:49,800000
+So it included over 6,000 patients, ages 18 to 49,
+
+234
+0:09:49,800000 --> 0:09:51,800000
+all of whom did have private insurance.
+
+235
+0:09:51,800000 --> 0:09:53,920000
+So these are insured individuals, OK?
+
+236
+0:09:53,920000 --> 0:09:57,160000
+And they all had to use contraception in the past 12 months.
+
+237
+0:09:57,160000 --> 0:09:58,640000
+If we look at our diagram here, we
+
+238
+0:09:58,640000 --> 0:10:01,800000
+can see that 70% did report that their insurance kicked in
+
+239
+0:10:01,800000 --> 0:10:03,280000
+and covered the entire prescription.
+
+240
+0:10:03,280000 --> 0:10:06,720000
+So that's fantastic for these 70% of these patients.
+
+241
+0:10:06,720000 --> 0:10:08,880000
+On the other hand, we see in the lighter blue
+
+242
+0:10:08,880000 --> 0:10:10,920000
+that there was around 25% of patients
+
+243
+0:10:10,920000 --> 0:10:13,760000
+who stated that either the insurance only covered some of it
+
+244
+0:10:13,760000 --> 0:10:15,920000
+and then they had to fork out the rest of the cost
+
+245
+0:10:15,920000 --> 0:10:18,440000
+or that the insurance didn't cover it at all
+
+246
+0:10:18,440000 --> 0:10:23,680000
+and that it was fully on the patient to carry that burden.
+
+247
+0:10:23,680000 --> 0:10:25,640000
+We also know that this is going to disproportionately
+
+248
+0:10:25,640000 --> 0:10:27,480000
+affect patients who are uninsured, right?
+
+249
+0:10:27,480000 --> 0:10:28,800000
+So the last one that we looked at were
+
+250
+0:10:28,800000 --> 0:10:30,400000
+patients who have insurance.
+
+251
+0:10:30,400000 --> 0:10:32,960000
+But one out of five uninsured females
+
+252
+0:10:32,960000 --> 0:10:35,480000
+have actually stopped their contraceptive due to cost.
+
+253
+0:10:35,480000 --> 0:10:36,840000
+They can't afford it, right?
+
+254
+0:10:36,840000 --> 0:10:38,320000
+So this is also disproportionately
+
+255
+0:10:38,320000 --> 0:10:40,760000
+affecting patients specifically in this study
+
+256
+0:10:40,760000 --> 0:10:43,160000
+that we looked at patients who were female,
+
+257
+0:10:43,160000 --> 0:10:45,280000
+or, excuse me, Hispanic females, and then those
+
+258
+0:10:45,280000 --> 0:10:48,440000
+who are making less than 200% of the federal poverty level.
+
+259
+0:10:52,200000 --> 0:10:54,160000
+When diving into some of the other barriers,
+
+260
+0:10:54,160000 --> 0:10:55,960000
+we also see that the racial ethnic,
+
+261
+0:10:55,960000 --> 0:10:58,520000
+as well as some of those cultural norms and stigmas,
+
+262
+0:10:58,520000 --> 0:11:01,280000
+like many of you mentioned, when we did our polling question,
+
+263
+0:11:01,280000 --> 0:11:02,720000
+can come to play as well.
+
+264
+0:11:02,720000 --> 0:11:03,680000
+This was a study.
+
+265
+0:11:03,680000 --> 0:11:05,320000
+This was actually done in 2023.
+
+266
+0:11:05,320000 --> 0:11:07,920000
+So earlier this year, there was a survey sent out
+
+267
+0:11:07,920000 --> 0:11:10,160000
+to patients who were either black, indigenous,
+
+268
+0:11:10,160000 --> 0:11:12,320000
+or people of color in the United States.
+
+269
+0:11:12,320000 --> 0:11:15,280000
+We ultimately got the 727 respondents
+
+270
+0:11:15,280000 --> 0:11:18,520000
+and almost half of them reported at least one challenge
+
+271
+0:11:18,520000 --> 0:11:20,840000
+accessing contraception, okay?
+
+272
+0:11:20,840000 --> 0:11:23,840000
+37% reported this as a logistical challenge.
+
+273
+0:11:23,840000 --> 0:11:26
+So going back to some of the transportation issues
+
+274
+0:11:26 --> 0:11:28,640000
+that we discussed earlier, difficulties getting to
+
+275
+0:11:28,640000 --> 0:11:29,840000
+and from appointments.
+
+276
+0:11:29,840000 --> 0:11:33,120000
+And then 20% reported some sort of interpersonal challenge.
+
+277
+0:11:33,120000 --> 0:11:36,520000
+So whether that be with the spouse or parents,
+
+278
+0:11:36,520000 --> 0:11:40,040000
+or having these conversations with people can be difficult.
+
+279
+0:11:40,040000 --> 0:11:43,720000
+And ultimately, 20% of them said that that prevented them
+
+280
+0:11:43,720000 --> 0:11:46,480000
+from getting access to these medications.
+
+281
+0:11:46,480000 --> 0:11:48,600000
+Within the same group of patients,
+
+282
+0:11:48,600000 --> 0:11:51,320000
+we also see that this study asked them,
+
+283
+0:11:51,320000 --> 0:11:54,120000
+if you could get these medications over the counter,
+
+284
+0:11:54,120000 --> 0:11:55,240000
+would you?
+
+285
+0:11:55,240000 --> 0:11:58,800000
+67% said, yeah, if we were likely to use
+
+286
+0:11:58,800000 --> 0:12:00,560000
+and over the counter, prescription,
+
+287
+0:12:00,560000 --> 0:12:02,040000
+or over the counter medication,
+
+288
+0:12:02,040000 --> 0:12:04,840000
+oral contraceptive pill, if it was available.
+
+289
+0:12:04,840000 --> 0:12:07,840000
+We also know that 57% of patients who said
+
+290
+0:12:07,840000 --> 0:12:10,480000
+that they had not used a contraceptive method
+
+291
+0:12:10,480000 --> 0:12:12,680000
+in the past year would use it
+
+292
+0:12:12,680000 --> 0:12:14,560000
+if it was available over the counter.
+
+293
+0:12:14,560000 --> 0:12:15,920000
+So things to consider.
+
+294
+0:12:16,960000 --> 0:12:18,640000
+And to summarize what we talked about,
+
+295
+0:12:18,640000 --> 0:12:21,800000
+and this is certainly not an inclusive list
+
+296
+0:12:21,800000 --> 0:12:24,280000
+in terms of the barriers that all of our patients face.
+
+297
+0:12:24,280000 --> 0:12:26,800000
+There's many more that I could take these two hours
+
+298
+0:12:26,800000 --> 0:12:29,680000
+to go through and dissect all of these barriers
+
+299
+0:12:29,680000 --> 0:12:32,360000
+with multiple studies and multiple things to back them up.
+
+300
+0:12:32,360000 --> 0:12:34,400000
+But to briefly summarize things that our patients
+
+301
+0:12:34,400000 --> 0:12:37,200000
+are likely experiencing are the financial, right,
+
+302
+0:12:37,200000 --> 0:12:38,040000
+the cost.
+
+303
+0:12:38,040000 --> 0:12:40,160000
+It can be difficult to afford medications,
+
+304
+0:12:40,160000 --> 0:12:45,160000
+and hormonal contraception is absolutely included in that.
+
+305
+0:12:45,640000 --> 0:12:47,360000
+We also know access can be difficult.
+
+306
+0:12:47,360000 --> 0:12:50,400000
+Getting transportation to and from visits,
+
+307
+0:12:50,400000 --> 0:12:51,720000
+to and from appointments.
+
+308
+0:12:51,720000 --> 0:12:55,840000
+We also have the ratio as well as the stigma
+
+309
+0:12:55,840000 --> 0:12:58,240000
+and the cultural barriers that can be preventing our patients
+
+310
+0:12:58,480000 --> 0:13:00,560000
+from seeking help in and of itself,
+
+311
+0:13:00,560000 --> 0:13:03
+let alone taking a hormonal contraceptive.
+
+312
+0:13:03 --> 0:13:05,200000
+And then the last one, adherence.
+
+313
+0:13:05,200000 --> 0:13:06,480000
+As you all know, your pharmacists,
+
+314
+0:13:06,480000 --> 0:13:08,800000
+medications don't work so well if we don't take them.
+
+315
+0:13:08,800000 --> 0:13:12
+So that can also be a major barrier for our patients
+
+316
+0:13:12 --> 0:13:14,120000
+in order to receive contraceptive care.
+
+317
+0:13:15,680000 --> 0:13:17,320000
+And I wanted to pose you with one more thought
+
+318
+0:13:17,320000 --> 0:13:18,840000
+or one more question.
+
+319
+0:13:18,840000 --> 0:13:22,200000
+And as a pharmacist, I think that there is a degree
+
+320
+0:13:22,200000 --> 0:13:24,240000
+of hesitation occasionally with us
+
+321
+0:13:24,240000 --> 0:13:26,400000
+when we come across new territory
+
+322
+0:13:26,400000 --> 0:13:28,600000
+that we might not be super familiar with.
+
+323
+0:13:28,600000 --> 0:13:32,560000
+When looking at a study, it was done early in the 2020s
+
+324
+0:13:32,560000 --> 0:13:36,400000
+and 2022 and it looked at around 3,000 pharmacists.
+
+325
+0:13:36,400000 --> 0:13:38,480000
+When they were asked, are you interested
+
+326
+0:13:38,480000 --> 0:13:40,600000
+in prescribing hormonal contraceptive?
+
+327
+0:13:40,600000 --> 0:13:43,560000
+85% of them said, yeah, I'm interested.
+
+328
+0:13:43,560000 --> 0:13:45,040000
+That sounds like it could be a good thing.
+
+329
+0:13:45,040000 --> 0:13:47,440000
+That could be a good thing for my patients.
+
+330
+0:13:47,440000 --> 0:13:49,840000
+But they presented a myriad of concerns, right?
+
+331
+0:13:49,840000 --> 0:13:50,800000
+We're very good at doing that.
+
+332
+0:13:50,800000 --> 0:13:52,840000
+We're critical, we're analytical.
+
+333
+0:13:52,840000 --> 0:13:53,960000
+And those are all great things
+
+334
+0:13:53,960000 --> 0:13:55,720000
+and allow us to be successful.
+
+335
+0:13:55,720000 --> 0:13:57,640000
+But these pharmacists had three major concerns,
+
+336
+0:13:57,640000 --> 0:14:00,200000
+with the first one being safety concern, okay?
+
+337
+0:14:00,200000 --> 0:14:01,840000
+The second one being knowledge gaps.
+
+338
+0:14:01,840000 --> 0:14:03,960000
+So feeling as though I'm not equipped
+
+339
+0:14:03,960000 --> 0:14:06,240000
+to prescribe these agents for people.
+
+340
+0:14:06,240000 --> 0:14:09,040000
+And then also, they also talked about
+
+341
+0:14:09,040000 --> 0:14:10,720000
+the need for additional training, right?
+
+342
+0:14:10,720000 --> 0:14:14
+So all valid concerns that definitely apply to pharmacists,
+
+343
+0:14:14 --> 0:14:16,640000
+both in community, ambulatory care settings.
+
+344
+0:14:16,640000 --> 0:14:20,520000
+But I would challenge you to look forward to opportunity
+
+345
+0:14:20,520000 --> 0:14:22,520000
+because if we aren't taking hold of opportunities
+
+346
+0:14:22,520000 --> 0:14:24,360000
+such as these within legislation
+
+347
+0:14:24,360000 --> 0:14:26,800000
+within laws that could be passed,
+
+348
+0:14:26,800000 --> 0:14:30,480000
+nurse practitioners and physician's assistance are, okay?
+
+349
+0:14:30,480000 --> 0:14:33,720000
+So this is something that we need to try to take hold of.
+
+350
+0:14:33,720000 --> 0:14:36,320000
+And with that, I will step off my soapbox.
+
+351
+0:14:36,320000 --> 0:14:38,720000
+But thank you for listening.
+
+352
+0:14:38,720000 --> 0:14:42,480000
+And that will transition us into our next section here,
+
+353
+0:14:42,480000 --> 0:14:45,320000
+which involves advocacy and pharmacists prescribing
+
+354
+0:14:45,320000 --> 0:14:46,720000
+of hormonal contraception.
+
+355
+0:14:48,160000 --> 0:14:50,480000
+So to start, under the Affordable Care Act here
+
+356
+0:14:50,480000 --> 0:14:52,560000
+in the United States, all women covered
+
+357
+0:14:52,560000 --> 0:14:56,120000
+under Medicaid, marketplace and employer-based plans
+
+358
+0:14:56,120000 --> 0:14:58,480000
+do have access to at least one contraceptive
+
+359
+0:14:58,480000 --> 0:15:00,480000
+for each FDA-approved method
+
+360
+0:15:00,480000 --> 0:15:02,960000
+at a $0 copay and deductible.
+
+361
+0:15:02,960000 --> 0:15:05,680000
+However, as of 2020, the Supreme Court did allow
+
+362
+0:15:05,680000 --> 0:15:07,760000
+for more employers as well as universities
+
+363
+0:15:07,760000 --> 0:15:11,320000
+to opt out of covering different hormonal contraceptives
+
+364
+0:15:11,320000 --> 0:15:14,680000
+due to religious as well as moral objections as well.
+
+365
+0:15:15,960000 --> 0:15:18,200000
+So in effort to combat some of these barriers
+
+366
+0:15:18,200000 --> 0:15:21,440000
+to care, pharmacists, specifically community pharmacists
+
+367
+0:15:21,440000 --> 0:15:24,320000
+and pharmacies, can pose as an extremely accessible
+
+368
+0:15:24,320000 --> 0:15:25,760000
+resource for patients.
+
+369
+0:15:25,760000 --> 0:15:29,320000
+We know that the locations around 90% of Americans
+
+370
+0:15:29,320000 --> 0:15:31,040000
+live within five miles of a pharmacy.
+
+371
+0:15:31,040000 --> 0:15:32,560000
+They're extremely accessible.
+
+372
+0:15:32,560000 --> 0:15:34,160000
+We know that the hours are beneficial
+
+373
+0:15:34,160000 --> 0:15:37,200000
+and that a normal ambulatory clinic might only be open
+
+374
+0:15:37,200000 --> 0:15:40,280000
+from say eight to four, a nine to five.
+
+375
+0:15:40,280000 --> 0:15:42,880000
+Whereas a pharmacy, typically we can get the nine
+
+376
+0:15:42,880000 --> 0:15:45,720000
+to nine hours, potentially 24-hour access.
+
+377
+0:15:47,280000 --> 0:15:49,360000
+We also know that ACOG does support this.
+
+378
+0:15:49,400000 --> 0:15:53,240000
+So ACOG also supports over-the-counter sales
+
+379
+0:15:53,240000 --> 0:15:56,280000
+of hormonal contraception, but they also have a statement
+
+380
+0:15:56,280000 --> 0:15:59,360000
+out supporting pharmacists provided contraception
+
+381
+0:15:59,360000 --> 0:16:02,200000
+as what they consider to be an intermediary step
+
+382
+0:16:02,200000 --> 0:16:05,960000
+to over-the-counter availability of hormonal contraception.
+
+383
+0:16:05,960000 --> 0:16:07,080000
+So that's good.
+
+384
+0:16:07,080000 --> 0:16:08,680000
+You should take it and run with it.
+
+385
+0:16:08,680000 --> 0:16:10,080000
+In terms of pharmacist interest,
+
+386
+0:16:10,080000 --> 0:16:11,720000
+I alluded to this a little bit before,
+
+387
+0:16:11,720000 --> 0:16:14,160000
+but we have around 3,000, this is a survey done
+
+388
+0:16:14,160000 --> 0:16:17,560000
+on almost 3,000 pharmacists who, 85% of them,
+
+389
+0:16:17,600000 --> 0:16:19,280000
+showed interest in this in providing
+
+390
+0:16:19,280000 --> 0:16:22,120000
+the hormonal contraceptive services.
+
+391
+0:16:22,120000 --> 0:16:24,040000
+And not only were pharmacists pretty excited about it,
+
+392
+0:16:24,040000 --> 0:16:26,680000
+but the patients were very excited about it as well.
+
+393
+0:16:26,680000 --> 0:16:30,680000
+So 76% of patients in this survey stated
+
+394
+0:16:30,680000 --> 0:16:32,960000
+that they would benefit from not paying
+
+395
+0:16:32,960000 --> 0:16:35,960000
+for a clinician visit by having access through a pharmacy.
+
+396
+0:16:35,960000 --> 0:16:38,240000
+They also said that 58% of patients stated
+
+397
+0:16:38,240000 --> 0:16:41,520000
+this would be, quote, a big personal advantage.
+
+398
+0:16:41,520000 --> 0:16:45,360000
+85% said that pharmacists provide both convenient hours
+
+399
+0:16:45,360000 --> 0:16:48,920000
+as well as convenient locations for them.
+
+400
+0:16:48,920000 --> 0:16:52,760000
+82% said that pharmacists would help save them time.
+
+401
+0:16:52,760000 --> 0:16:56,240000
+72% said that pharmacists' access would decrease
+
+402
+0:16:56,240000 --> 0:16:58,800000
+the number of unintended pregnancies,
+
+403
+0:16:58,800000 --> 0:17:03
+which if you remember, 50% of unintended pregnancies
+
+404
+0:17:03 --> 0:17:06,600000
+in the United States are unintended.
+
+405
+0:17:08,720000 --> 0:17:11,360000
+And with that, we come to our next polling question.
+
+406
+0:17:11,360000 --> 0:17:12,680000
+Do we have anyone in the room
+
+407
+0:17:12,680000 --> 0:17:15
+who is currently actively prescribing
+
+408
+0:17:15 --> 0:17:16,520000
+hormonal contraceptives?
+
+409
+0:17:32,240000 --> 0:17:33,080000
+All right.
+
+410
+0:17:34,840000 --> 0:17:36,880000
+Awesome, so we do have a decent amount
+
+411
+0:17:36,880000 --> 0:17:39,440000
+who will actively are prescribing around 30%
+
+412
+0:17:39,440000 --> 0:17:41,320000
+compared to 70% who are not.
+
+413
+0:17:41,360000 --> 0:17:43,320000
+So that's awesome, great.
+
+414
+0:17:43,320000 --> 0:17:46,120000
+And then based on this question is still for all of you.
+
+415
+0:17:46,120000 --> 0:17:49,800000
+So even if you don't prescribe hormonal contraceptives,
+
+416
+0:17:49,800000 --> 0:17:53,240000
+do you feel comfortable with your current skill set today?
+
+417
+0:17:53,240000 --> 0:17:55,320000
+If I ask you to go do this tomorrow,
+
+418
+0:17:55,320000 --> 0:17:56,960000
+do you feel comfortable in your skill set
+
+419
+0:17:56,960000 --> 0:17:59,480000
+in prescribing hormonal contraception?
+
+420
+0:18:08,760000 --> 0:18:09,760000
+Awesome, good job, you guys.
+
+421
+0:18:09,800000 --> 0:18:12,240000
+75% and it's okay, the nose, that's okay,
+
+422
+0:18:12,240000 --> 0:18:13,560000
+that's the point of this presentation,
+
+423
+0:18:13,560000 --> 0:18:15,200000
+we're gonna dive into this a little bit more,
+
+424
+0:18:15,200000 --> 0:18:17,440000
+but it seems like the majority of us
+
+425
+0:18:17,440000 --> 0:18:19,480000
+feel relatively comfortable with it,
+
+426
+0:18:19,480000 --> 0:18:22,800000
+but likely could still probably use some refreshers as well.
+
+427
+0:18:22,800000 --> 0:18:23,880000
+And going from that,
+
+428
+0:18:23,880000 --> 0:18:25,880000
+I wanted to show you currently how many states
+
+429
+0:18:25,880000 --> 0:18:27,880000
+are allowing for the prescribing
+
+430
+0:18:27,880000 --> 0:18:31,160000
+of hormonal contraception through pharmacists.
+
+431
+0:18:31,160000 --> 0:18:33,600000
+At to date, we have around 29 states
+
+432
+0:18:33,600000 --> 0:18:34,800000
+who are currently allowing this
+
+433
+0:18:34,800000 --> 0:18:37,720000
+within different regulations and different laws.
+
+434
+0:18:37,720000 --> 0:18:40,880000
+So I would ask it this time that you refer to this diagram
+
+435
+0:18:40,880000 --> 0:18:42,440000
+that we have here and find your state
+
+436
+0:18:42,440000 --> 0:18:45,040000
+and then find what it correlates to in terms of the key,
+
+437
+0:18:45,040000 --> 0:18:48,740000
+what color you are and see kind of what is available
+
+438
+0:18:48,740000 --> 0:18:49,800000
+within your state.
+
+439
+0:18:51,320000 --> 0:18:53,680000
+I will say as well as a little bit of a disclaimer,
+
+440
+0:18:53,680000 --> 0:18:55,440000
+this is an ever-changing list.
+
+441
+0:18:55,440000 --> 0:18:58,280000
+As you know, laws get passed, they don't get passed
+
+442
+0:18:58,280000 --> 0:18:59,280000
+and that sort of a thing.
+
+443
+0:18:59,280000 --> 0:19:02,920000
+So please do not take this as 100% correct
+
+444
+0:19:02,920000 --> 0:19:06,040000
+while we did do our diligence of making sure
+
+445
+0:19:06,040000 --> 0:19:08,200000
+that it was as accurate as we could make it
+
+446
+0:19:08,200000 --> 0:19:10,080000
+for the sake of this presentation.
+
+447
+0:19:10,080000 --> 0:19:13,360000
+And while you are finding your states,
+
+448
+0:19:13,360000 --> 0:19:14,680000
+I'll talk a little bit about mine.
+
+449
+0:19:14,680000 --> 0:19:16,760000
+So I am from the state of Ohio.
+
+450
+0:19:16,760000 --> 0:19:18,440000
+As you can see, it's in a little bit
+
+451
+0:19:18,440000 --> 0:19:20,240000
+of the light blue section there,
+
+452
+0:19:20,240000 --> 0:19:22,440000
+which states that we have widely used
+
+453
+0:19:22,440000 --> 0:19:24,200000
+consult practice agreements.
+
+454
+0:19:24,200000 --> 0:19:26,600000
+And while that's true within the law,
+
+455
+0:19:26,600000 --> 0:19:31,600000
+I would argue that there are not many pharmacists and pharmacies
+
+456
+0:19:32,160000 --> 0:19:34,080000
+actively practicing within that
+
+457
+0:19:34,080000 --> 0:19:38,120000
+or having implemented the law that is allowing us to do so.
+
+458
+0:19:38,120000 --> 0:19:39,880000
+With that being said, on the contrary,
+
+459
+0:19:39,880000 --> 0:19:42,320000
+our friendly neighbor up north, Michigan,
+
+460
+0:19:42,320000 --> 0:19:45,320000
+also in the light blue, has implemented this
+
+461
+0:19:45,320000 --> 0:19:49,480000
+in a numerous amount of pharmacies and pharmacists.
+
+462
+0:19:49,480000 --> 0:19:51,600000
+Over 500 pharmacies are currently doing this
+
+463
+0:19:51,600000 --> 0:19:52,880000
+in the state of Michigan.
+
+464
+0:19:52,880000 --> 0:19:56,680000
+So there are varying levels of implementation
+
+465
+0:19:56,680000 --> 0:19:59,240000
+between states even of the same color.
+
+466
+0:19:59,240000 --> 0:20:01,240000
+So just wanted to point that out for you.
+
+467
+0:20:01,960000 --> 0:20:03,880000
+All right.
+
+468
+0:20:03,880000 --> 0:20:06,200000
+And now, how many of you live in a state
+
+469
+0:20:06,200000 --> 0:20:08,480000
+where pharmacists can prescribe hormonal contraception
+
+470
+0:20:08,480000 --> 0:20:10,080000
+after looking at that chart?
+
+471
+0:20:22,720000 --> 0:20:24,960000
+So the vast majority of us do, 85%.
+
+472
+0:20:24,960000 --> 0:20:28,320000
+It looks like majority of us can do have legislation
+
+473
+0:20:28,840000 --> 0:20:32,200000
+in play allowing us to prescribe hormonal contraception.
+
+474
+0:20:33,480000 --> 0:20:36,200000
+And with that, I will pass things off to Dr. King
+
+475
+0:20:36,200000 --> 0:20:38,080000
+to finish this rest of the presentation.
+
+476
+0:20:38,080000 --> 0:20:38,920000
+Thank you.
+
+477
+0:20:38,920000 --> 0:20:39,760000
+Thank you.
+
+478
+0:20:39,760000 --> 0:20:40,600000
+Thank you.
+
+479
+0:20:40,600000 --> 0:20:41,440000
+Thank you.
+
+480
+0:20:44,440000 --> 0:20:46,040000
+Thank you, Dr. Clinton.
+
+481
+0:20:46,040000 --> 0:20:50,280000
+So as you guys just saw on the graphic of the United States,
+
+482
+0:20:50,280000 --> 0:20:55,280000
+the vast majority of the states have passed legislature,
+
+483
+0:20:55,440000 --> 0:20:57,320000
+specifically allowing pharmacists
+
+484
+0:20:57,320000 --> 0:20:59,840000
+to prescribe hormonal contraceptives,
+
+485
+0:20:59,840000 --> 0:21:02,480000
+either under statewide standing orders
+
+486
+0:21:02,480000 --> 0:21:04,440000
+or statewide protocols,
+
+487
+0:21:04,440000 --> 0:21:06,400000
+with the third most common method
+
+488
+0:21:06,400000 --> 0:21:09,680000
+being through collaborative practice agreements or CPAs.
+
+489
+0:21:09,680000 --> 0:21:11,400000
+So we're gonna spend just a few minutes
+
+490
+0:21:11,400000 --> 0:21:13,320000
+kind of delineating the differences
+
+491
+0:21:13,320000 --> 0:21:15,240000
+between these three methods.
+
+492
+0:21:15,240000 --> 0:21:16,520000
+What are some of the benefits?
+
+493
+0:21:16,520000 --> 0:21:18,560000
+What are some of the challenges
+
+494
+0:21:18,560000 --> 0:21:22,080000
+before we kind of proceed to the next steps?
+
+495
+0:21:22,080000 --> 0:21:23,760000
+So collaborative practice agreements
+
+496
+0:21:23,840000 --> 0:21:26,120000
+are available in all 50 states.
+
+497
+0:21:26,120000 --> 0:21:27,960000
+That was a pretty recent change.
+
+498
+0:21:27,960000 --> 0:21:29,800000
+So that's really amazing
+
+499
+0:21:29,800000 --> 0:21:32,200000
+that this resource is available.
+
+500
+0:21:32,200000 --> 0:21:35,520000
+But this is a voluntary agreement between a pharmacist
+
+501
+0:21:35,520000 --> 0:21:37,840000
+and another provider such as a physician,
+
+502
+0:21:37,840000 --> 0:21:40,480000
+nurse practitioner, physician assistant,
+
+503
+0:21:40,480000 --> 0:21:42,640000
+depending upon your state laws.
+
+504
+0:21:42,640000 --> 0:21:45,320000
+And the CPA laws within each state are different.
+
+505
+0:21:45,320000 --> 0:21:50,320000
+So some dictate which disease states or medications,
+
+506
+0:21:50,360000 --> 0:21:54,120000
+or if you can start or stop or just adjust,
+
+507
+0:21:54,120000 --> 0:21:58,560000
+as well as what labs or tests you're able to order.
+
+508
+0:21:58,560000 --> 0:22:02,160000
+One of the biggest challenges in many states within a CPA
+
+509
+0:22:02,160000 --> 0:22:06,160000
+is this is often challenging for pharmacists to enter into
+
+510
+0:22:06,160000 --> 0:22:08,720000
+if they are not directly working
+
+511
+0:22:08,720000 --> 0:22:12,040000
+with a physician office or health system.
+
+512
+0:22:12,040000 --> 0:22:14,840000
+So especially for our community pharmacy folks,
+
+513
+0:22:14,840000 --> 0:22:17,600000
+this can be a real detriment.
+
+514
+0:22:17,600000 --> 0:22:20,320000
+Statewide standing orders on the other hand
+
+515
+0:22:20,320000 --> 0:22:23,880000
+are available to all pharmacists within the state.
+
+516
+0:22:23,880000 --> 0:22:26,840000
+And the prescribing comes down from the state level
+
+517
+0:22:26,840000 --> 0:22:28,680000
+through a lead physician either through
+
+518
+0:22:28,680000 --> 0:22:32,440000
+the public department of health or other state agency.
+
+519
+0:22:32,440000 --> 0:22:35,320000
+And that physician is the authorizing provider
+
+520
+0:22:35,320000 --> 0:22:40,320000
+on the prescriptions that are being written by the pharmacist.
+
+521
+0:22:40,600000 --> 0:22:43,040000
+So it's great that it's available to more pharmacists
+
+522
+0:22:43,040000 --> 0:22:44,360000
+to be able to utilize.
+
+523
+0:22:44,360000 --> 0:22:47,440000
+But one of the challenges that we can run into
+
+524
+0:22:47,440000 --> 0:22:52,160000
+is if that lead physician leaves or vacates that position,
+
+525
+0:22:52,160000 --> 0:22:56,200000
+the new physician coming in may or may not decide
+
+526
+0:22:56,200000 --> 0:22:59,720000
+to continue to uphold that standing order.
+
+527
+0:22:59,720000 --> 0:23:02,440000
+So it could create a very immediate halt
+
+528
+0:23:02,440000 --> 0:23:05,120000
+in the care that we're providing for our patients
+
+529
+0:23:05,120000 --> 0:23:07,280000
+through these standing orders.
+
+530
+0:23:07,280000 --> 0:23:09,680000
+Lastly, through our statewide protocols,
+
+531
+0:23:09,680000 --> 0:23:12,680000
+again, this is coming from the state level.
+
+532
+0:23:12,680000 --> 0:23:15,040000
+And this is the only one that truly allows
+
+533
+0:23:15,040000 --> 0:23:16,800000
+for autonomous prescribing.
+
+534
+0:23:16,800000 --> 0:23:21
+So as a pharmacist, your name would be on the prescription.
+
+535
+0:23:21 --> 0:23:23,680000
+And the prescribing authority comes
+
+536
+0:23:23,680000 --> 0:23:25,480000
+through the state board of pharmacy.
+
+537
+0:23:25,480000 --> 0:23:28,400000
+So we don't have to worry about people coming in
+
+538
+0:23:28,400000 --> 0:23:31,640000
+and out of political positions or appointments
+
+539
+0:23:31,640000 --> 0:23:33,200000
+or things like that.
+
+540
+0:23:33,200000 --> 0:23:35,280000
+Also because it's coming from the state level,
+
+541
+0:23:35,280000 --> 0:23:37,960000
+it is available to all pharmacists.
+
+542
+0:23:38,880000 --> 0:23:43,880000
+So with this in mind, if I can get it to click, that'd be great.
+
+543
+0:23:44,240000 --> 0:23:45,080000
+Oh, there we go.
+
+544
+0:23:45,240000 --> 0:23:48,400000
+So with this in mind, I want you to take a minute
+
+545
+0:23:48,400000 --> 0:23:52,320000
+with the folks around you before you start entering in and discuss.
+
+546
+0:23:52,320000 --> 0:23:56,160000
+What do you think you would advocate for if you were starting
+
+547
+0:23:56,160000 --> 0:23:59,480000
+from, you know, square one for advocating for pharmacists
+
+548
+0:23:59,480000 --> 0:24:02,960000
+for scribing of hormonal contraceptives in your state
+
+549
+0:24:02,960000 --> 0:24:04,280000
+between these three choices?
+
+550
+0:24:04,280000 --> 0:24:06,920000
+And then also think about the why.
+
+551
+0:24:06,920000 --> 0:24:09,360000
+So spend a minute or so chatting with each other.
+
+552
+0:24:09,360000 --> 0:24:10,880000
+And then once you feel like you're a good spot,
+
+553
+0:24:10,880000 --> 0:24:12,680000
+go ahead and enter in your response.
+
+554
+0:24:45,080000 --> 0:24:45,920000
+Ah.
+
+555
+0:25:04,680000 --> 0:25:07,080000
+I'm hearing some really great discussion.
+
+556
+0:25:07,080000 --> 0:25:09,880000
+Take another second or two to kind of wrap that up
+
+557
+0:25:09,880000 --> 0:25:12,560000
+and then go ahead and enter in your response.
+
+558
+0:25:15,920000 --> 0:25:16,760000
+Okay.
+
+559
+0:25:32,360000 --> 0:25:33,200000
+All righty.
+
+560
+0:25:33,200000 --> 0:25:37,880000
+So it looks like most of you would argue for the statewide protocol
+
+561
+0:25:37,880000 --> 0:25:42,200000
+and then the CPA's and standing orders are a little bit more equivalent.
+
+562
+0:25:42,200000 --> 0:25:45,240000
+And so I was just curious why you guys chose that.
+
+563
+0:25:45,240000 --> 0:25:47,640000
+So if you can type in a couple words to kind of let me know
+
+564
+0:25:47,640000 --> 0:25:50,720000
+what your thoughts were as to why you ended up on that decision,
+
+565
+0:25:50,720000 --> 0:25:51,960000
+whichever one it was.
+
+566
+0:26:12,920000 --> 0:26:14,080000
+All righty.
+
+567
+0:26:14,080000 --> 0:26:17,200000
+So some folks are saying coordinated in the state.
+
+568
+0:26:17,200000 --> 0:26:19,400000
+And so we can do it without a CPA.
+
+569
+0:26:19,400000 --> 0:26:21,400000
+Increased access seems to be common.
+
+570
+0:26:21,400000 --> 0:26:26,800000
+The autonomy, the protocol allows for more pharmacists autonomy,
+
+571
+0:26:26,800000 --> 0:26:29,800000
+ability for immediate implementation,
+
+572
+0:26:29,800000 --> 0:26:32,200000
+stability with the conditions or rules.
+
+573
+0:26:32,200000 --> 0:26:36,800000
+Rule access gives pharmacists and all settings access to prescribe.
+
+574
+0:26:36,800000 --> 0:26:37,400000
+Absolutely.
+
+575
+0:26:37,400000 --> 0:26:38,800000
+These are all the same.
+
+576
+0:26:38,800000 --> 0:26:40,800000
+So thank you so much for sharing.
+
+577
+0:26:40,800000 --> 0:26:44,800000
+So now that we understand where our prescriptive authority comes from,
+
+578
+0:26:44,800000 --> 0:26:50,800000
+I wanted to briefly summarize what is currently out there in the states who are doing this.
+
+579
+0:26:50,800000 --> 0:26:54,800000
+So the majority of the states have focused on pharmacists prescribing
+
+580
+0:26:54,800000 --> 0:26:57,800000
+of hormonal contraceptives that are self-administered.
+
+581
+0:26:57,800000 --> 0:26:59,800000
+So we have a lot of people who are doing this.
+
+582
+0:26:59,800000 --> 0:27:02,800000
+And so I think that's a lot of people who are doing this.
+
+583
+0:27:02,800000 --> 0:27:05,800000
+And so I think that's a lot of people who are doing this.
+
+584
+0:27:05,800000 --> 0:27:32,100000
+So because you say one thing with the
+
+585
+0:27:32,100000 --> 0:27:35,120000
+Meaning of hormonal contraceptives that are self-administered.
+
+586
+0:27:35,120000 --> 0:27:41,760000
+of. With a smaller proportion, maybe closer to 50%, also including the injection or shot
+
+587
+0:27:41,760000 --> 0:27:48,880000
+with the depo-medro. Depro-pervera, sorry.
+
+588
+0:27:48,880000 --> 0:27:53,600000
+Some of the literature regarding the success and challenges of pharmacists prescribing
+
+589
+0:27:53,600000 --> 0:27:57,760000
+hormonal contraceptive, we're going to start with a couple of states focused on statewide
+
+590
+0:27:57,760000 --> 0:28:03,760000
+protocols and then move into some of the other methods. Oregon was the first state to implement
+
+591
+0:28:03,760000 --> 0:28:09,520000
+pharmacists prescribing a hormonal contraceptive through the statewide protocol in 2016. So actually
+
+592
+0:28:09,520000 --> 0:28:16,880000
+not that long ago and they did several studies very quickly after implementation to share the
+
+593
+0:28:16,880000 --> 0:28:24,800000
+results of what they had learned. And so within the first year of implementation, they found that 63
+
+594
+0:28:24,800000 --> 0:28:29,600000
+percent of the zip codes in the state had at least one pharmacist certified to prescribe
+
+595
+0:28:29,600000 --> 0:28:34,880000
+hormonal contraception, which I personally find absolutely amazing for the first year of
+
+596
+0:28:34,880000 --> 0:28:41,520000
+implementation. I know Ohio recently passed a statewide protocol for tobacco cessation and
+
+597
+0:28:42,880000 --> 0:28:49,920000
+we're nowhere close to 63 percent. So that was really awesome to me. And this included 42 percent
+
+598
+0:28:49,920000 --> 0:28:57,360000
+of pharmacies. As we'll see in the next slide, they also did some claims data to further investigate
+
+599
+0:28:57,360000 --> 0:29:03,360000
+their footprint within Medicaid and found that out of Medicaid prescriptions written for the
+
+600
+0:29:04,160000 --> 0:29:10,080000
+contraceptive pills or patches that 10 percent of them were written by pharmacists. Again, in this
+
+601
+0:29:10,080000 --> 0:29:17,200000
+very early stage, that's very impressive. There was also study looking at rural versus urban
+
+602
+0:29:17,200000 --> 0:29:25,280000
+utilization comparing Oregon and New Mexico. And what they found is with Oregon's utilization
+
+603
+0:29:25,360000 --> 0:29:33,200000
+being primarily urban based and New Mexico's being primarily rural based that the proportion
+
+604
+0:29:33,200000 --> 0:29:39,600000
+prescriptions written by a pharmacist were very similar between the two settings. So I think this
+
+605
+0:29:40,400000 --> 0:29:46,480000
+further helps to demonstrate that this is not something that is just needed in one specific
+
+606
+0:29:46,480000 --> 0:29:52,560000
+part of the country or the city versus the county, but really something that is needed
+
+607
+0:29:52,560000 --> 0:29:57,520000
+everywhere. And I think this further supports the information that Dr. Clunen presented a little
+
+608
+0:29:57,520000 --> 0:30:06,640000
+bit earlier. Also in this rural versus urban delineation, they found that nearly 50 percent
+
+609
+0:30:06,640000 --> 0:30:11,600000
+of patients in both of the settings were actually paying for the pharmacist consultative fee.
+
+610
+0:30:12,160000 --> 0:30:18,800000
+And it wasn't necessarily being covered by the insurance. One of the things that did come out of
+
+611
+0:30:18,800000 --> 0:30:25,440000
+it was an overall need for additional understanding and knowledge by the pharmacists and pharmacies
+
+612
+0:30:25,440000 --> 0:30:32,720000
+to know which insurances would cover the consultative fee versus which ones would not. So an area for
+
+613
+0:30:32,720000 --> 0:30:41,520000
+improvement. After that initial year, Oregon went on to do two additional studies that were two-year
+
+614
+0:30:41,520000 --> 0:30:49,840000
+studies each, both from 2016 to 2017. The first study focused on pharmacists utilization and the
+
+615
+0:30:49,840000 --> 0:30:55,840000
+second study focused on the cost effectiveness of pharmacists prescribing hormonal contraceptives.
+
+616
+0:30:56,720000 --> 0:31:01,600000
+Both of these were focused in the Medicaid patient populations, again because it was very
+
+617
+0:31:01,600000 --> 0:31:07,920000
+easy to pull the claims data for this. And so what they found specifically within the Medicaid
+
+618
+0:31:07,920000 --> 0:31:16,320000
+claims data is that for the utilization, most of the claims originated from retail chain
+
+619
+0:31:16,320000 --> 0:31:22,960000
+pharmacies in urban locations. And most patients were receiving a combined hormonal contraceptive
+
+620
+0:31:22,960000 --> 0:31:28,640000
+pill. One of the things that I found really interesting and very kind of inspiring for the
+
+621
+0:31:28,640000 --> 0:31:35,200000
+profession is three out of every four of the patients had no history of contraceptive prescriptions
+
+622
+0:31:35,200000 --> 0:31:42,480000
+in the previous 30 days. So this really gets back to those preventing unintended pregnancies
+
+623
+0:31:42,480000 --> 0:31:49,040000
+and some of the challenges that Dr. Klunen had discussed as far as adherence and barriers to
+
+624
+0:31:49,040000 --> 0:31:55,520000
+transportation and costs and all of those other things that they were really able to reach those
+
+625
+0:31:55,520000 --> 0:32:01,520000
+individuals and help to ultimately prevent those unintended pregnancies would be the goal.
+
+626
+0:32:02,400000 --> 0:32:08,480000
+In the cost analysis study, they looked at again the Medicaid claims from the pharmacists and in
+
+627
+0:32:08,480000 --> 0:32:14,160000
+Oregon the pharmacists were being reimbursed for their consultative fees for any Medicaid patients.
+
+628
+0:32:14,880000 --> 0:32:21,840000
+And so they estimated that there was a $1.6 million cost savings associated with pharmacists
+
+629
+0:32:22,560000 --> 0:32:28,640000
+working in this area. One of the assumptions that was made is that during the pharmacist
+
+630
+0:32:28,640000 --> 0:32:34,160000
+consultation that they were very focused on the patient interview related to the hormonal
+
+631
+0:32:34,160000 --> 0:32:40,080000
+contraceptives. And so likely the visits were more focused and therefore build at a lower level.
+
+632
+0:32:40,640000 --> 0:32:47,120000
+They assumed a level two versus clinician appointments likely were addressing many issues in one
+
+633
+0:32:47,120000 --> 0:32:52,800000
+appointment. And so we're likely being billed at a slightly higher level such as a level three or
+
+634
+0:32:52,800000 --> 0:32:59,040000
+four where the assumptions made in the study. One of the driving take home points from this
+
+635
+0:32:59,040000 --> 0:33:05,200000
+article was you know for a maximal benefit it really does require full implementation
+
+636
+0:33:06,080000 --> 0:33:10,720000
+of the policy. So it's not just enough to have the laws passed. We really need to go forward
+
+637
+0:33:10,720000 --> 0:33:16,320000
+and implement it which I'll talk about more in a few slides. And one of the driving factors
+
+638
+0:33:16,320000 --> 0:33:22
+that they at least felt like helped with implementation was the fact that pharmacists were being reimbursed.
+
+639
+0:33:22,560000 --> 0:33:29,600000
+Around the same time California had also passed a statewide protocol and their implementation
+
+640
+0:33:29,600000 --> 0:33:35,760000
+was significantly lagging that of organs. However pharmacists were not being reimbursed through
+
+641
+0:33:35,760000 --> 0:33:40,800000
+Medicaid for the consultation. And so that was thought to be part of that discussion.
+
+642
+0:33:42,400000 --> 0:33:50,560000
+Now to compare these statewide protocol states to a state that is using a CPA, I pulled a study
+
+643
+0:33:50,560000 --> 0:33:56,800000
+regarding pharmacists prescribing of hormonal contraceptives in Washington. Again this is based
+
+644
+0:33:56,800000 --> 0:34:02,480000
+in our community pharmacies. So 18 pharmacies where they surveyed 26 community pharmacists.
+
+645
+0:34:03,360000 --> 0:34:08,640000
+The objective of this study was to not only look at the impact of pharmacists prescribed
+
+646
+0:34:08,640000 --> 0:34:14,160000
+contraceptive care on initiation and continuation rates but also to look at the effectiveness of
+
+647
+0:34:14,160000 --> 0:34:21,040000
+the patient self-screening and the feasibility of pharmacies to be able to do this. And so their
+
+648
+0:34:21,040000 --> 0:34:27,440000
+intervention was for pharmacists to identify women who were at risk for unintended pregnancies and
+
+649
+0:34:27,440000 --> 0:34:33,600000
+offer to evaluate them to determine if they could safely use a hormonal contraceptive. And they
+
+650
+0:34:33,600000 --> 0:34:40,080000
+could specifically prescribe pills, patch or the ring. And there was some exclusion criteria.
+
+651
+0:34:40,960000 --> 0:34:47,920000
+The results showed that of the patients that were offered the service and screened 90 over
+
+652
+0:34:47,920000 --> 0:34:54,880000
+90 percent of them received a hormonal contraceptive by the pharmacist. A little bit different from
+
+653
+0:34:54,880000 --> 0:35:00,960000
+Oregon or maybe it's also how they reported the information 87 percent of the patients had been
+
+654
+0:35:00,960000 --> 0:35:06,400000
+on a hormonal contraceptive in the past. And the reason why I say it may just be how the data is
+
+655
+0:35:06,400000 --> 0:35:11,840000
+presented is Oregon specifically looked at if they had had a hormonal contraceptive in the past
+
+656
+0:35:11,840000 --> 0:35:17,680000
+30 days. So it was a very isolated time period. The continuation rates were evaluated at one
+
+657
+0:35:17,680000 --> 0:35:23,520000
+month, six months and 12 months. And as you can see over time it does decrease which is what we
+
+658
+0:35:23,520000 --> 0:35:30,800000
+see with usual care and these stats match the ones that Dr. Koonan had covered earlier. Interestingly
+
+659
+0:35:30,880000 --> 0:35:37,600000
+80 percent of the patients paid for these services out of pocket and nearly 100 percent of them
+
+660
+0:35:37,600000 --> 0:35:43,600000
+were satisfied or very satisfied with the pharmacy services and wanted to continue to see the
+
+661
+0:35:43,600000 --> 0:35:49,760000
+pharmacist. So this is something that they found valuable and wanted to continue to seek these
+
+662
+0:35:49,760000 --> 0:35:57,440000
+services. So across the United States we're all in a different spot along this continuum.
+
+663
+0:35:57,440000 --> 0:36:04,560000
+Some of us are still in the you know bills going before the House or the Senate which is more so
+
+664
+0:36:04,560000 --> 0:36:13,440000
+where Ohio is at. We haven't made it to the next step yet. Others have very recently gotten you
+
+665
+0:36:13,440000 --> 0:36:19,680000
+know laws passed and are more in the rulemaking and protocols. And then there's a lot who have
+
+666
+0:36:19,680000 --> 0:36:24,320000
+you know surpassed this and they're working on that training and public awareness. I think one of
+
+667
+0:36:24,320000 --> 0:36:29,440000
+the big things I want to call out is it doesn't stop after number two. After the rulemaking and
+
+668
+0:36:29,440000 --> 0:36:34,800000
+protocols like our work has really just kind of begun at that point and really to be successful
+
+669
+0:36:34,800000 --> 0:36:41,040000
+and to help our patients we need to continue to drive that forward. And so to expand on this a
+
+670
+0:36:41,040000 --> 0:36:46,880000
+little bit more I really wanted to kind of highlight where we're at across the nation in a little bit
+
+671
+0:36:46,880000 --> 0:36:52,880000
+of a different perspective than what was shown earlier. So I looked at not only preterm birth
+
+672
+0:36:52,880000 --> 0:36:59,200000
+rates but also the unintended pregnancy rates. I ultimately decided to put up the graphic of
+
+673
+0:36:59,200000 --> 0:37:05,040000
+preterm birth rates because it has been more recently updated in 2021 versus the graphic of
+
+674
+0:37:05,040000 --> 0:37:13,440000
+unintended pregnancies is a decade outdated from 2013. However we do know that 43 percent of
+
+675
+0:37:13,440000 --> 0:37:19,920000
+pregnancies are unintended and we have a long ways to go to meet our healthy people 2030 target of
+
+676
+0:37:20 --> 0:37:27,600000
+36.5 percent. However when we look at the states who have specifically implemented
+
+677
+0:37:27,600000 --> 0:37:33,520000
+pharmacists prescribing of hormonal contraceptives represented by the states with a star we can see
+
+678
+0:37:34,160000 --> 0:37:39,280000
+some of the states who have been doing this for a long time their preterm birth rates are much lower.
+
+679
+0:37:39,920000 --> 0:37:46,880000
+But also the the laws are passing in a variety of states regardless of preterm birth rates being
+
+680
+0:37:46,880000 --> 0:37:53,360000
+high or low. One of the reasons I chose to look at preterm birth rates is often they are correlated
+
+681
+0:37:53,360000 --> 0:37:59,360000
+with unintended pregnancies because we're having lower rates of prenatal care and so I felt like it
+
+682
+0:37:59,360000 --> 0:38:05,920000
+was a reasonable comparison. But there are many states who have passed laws very recently.
+
+683
+0:38:05,920000 --> 0:38:11,120000
+Approximately a third of the states that have passed for pharmacists to be able to prescribe
+
+684
+0:38:11,120000 --> 0:38:17,280000
+hormonal contraceptives have been in the last three years alone. So we have a large proportion
+
+685
+0:38:17,280000 --> 0:38:24,400000
+of the country who is really in that implementation phase which is really exciting to me and so I
+
+686
+0:38:24,400000 --> 0:38:29,840000
+have some a few resources on the next couple of slides depending upon where you are along the
+
+687
+0:38:29,840000 --> 0:38:36,240000
+continuum. So for those of us who are still advocating for the profession to be able to do this I have
+
+688
+0:38:36,240000 --> 0:38:42,400000
+some key takeaways for our legislators. One it is safe and effective for pharmacists to be able to
+
+689
+0:38:43,040000 --> 0:38:49,120000
+prescribe hormonal contraceptives for our patients. It helps to reduce unintended pregnancies. This is
+
+690
+0:38:49,120000 --> 0:38:56,480000
+a rural equity issue. It's a bipartisan issue and it's supported by the medical community at large
+
+691
+0:38:56,480000 --> 0:39:03,920000
+as Dr. Clinton discussed with a Cog statement. For those of you who have maybe recently had laws
+
+692
+0:39:03,920000 --> 0:39:09,280000
+passed or you're still in the implementation phase these are just some really great resources
+
+693
+0:39:09,280000 --> 0:39:15,280000
+to help with pharmacists training. I do not have an association with any of these but I do find
+
+694
+0:39:15,280000 --> 0:39:21,120000
+them very helpful. So resources that you can take back home to help on your next steps.
+
+695
+0:39:22,640000 --> 0:39:30,640000
+And with that we're going to move into our updates on hormonal contraceptives. For the sake of this
+
+696
+0:39:30,640000 --> 0:39:37,200000
+presentation I'm going to do a very very brief overview of contraceptives in general. But as we
+
+697
+0:39:37,200000 --> 0:39:43,520000
+move throughout I chose not to focus on things that were applicable to basically all hormonal
+
+698
+0:39:43,520000 --> 0:39:48,400000
+contraceptives such as all of the contraindications or all of the side effects that fall within a
+
+699
+0:39:48,400000 --> 0:39:54,320000
+particular group and instead chose to focus in on those things that were very unique to a specific
+
+700
+0:39:54,320000 --> 0:40:01,600000
+product because I didn't want those to get lost in the jumble. Additionally we're going to be
+
+701
+0:40:01,600000 --> 0:40:08,880000
+talking about the CDC's medication eligibility criteria or MEC. This is a great resource that
+
+702
+0:40:08,880000 --> 0:40:16,240000
+really focuses on disease states and conditions and can serve as an excellent resource if you maybe
+
+703
+0:40:16,240000 --> 0:40:22,480000
+don't recall all of those contraindications or relative contraindications when you're working
+
+704
+0:40:22,480000 --> 0:40:29,600000
+with patients. And we'll be going over that more in detail. So to get started very basic review of
+
+705
+0:40:29,600000 --> 0:40:37,920000
+hormones in our contraceptive products estrogen is not a contraceptive but instead helps to stabilize
+
+706
+0:40:37,920000 --> 0:40:43,440000
+our enematial lining and provide cycle control and this would always be in combination with our
+
+707
+0:40:43,440000 --> 0:40:49,840000
+progestin which is actually serving as the contraceptive component which helps to thicken the cervical
+
+708
+0:40:49,840000 --> 0:40:56,320000
+mucus prevent sperm mobility inhibit ovulation most of the time and break down endometrial tissue.
+
+709
+0:40:56,960000 --> 0:41:03,840000
+We should not be using estrogen by itself. It will not help with contraception and can increase
+
+710
+0:41:03,840000 --> 0:41:09,760000
+endometrial hyperplasia and endometrial cancer. We would only use that when treating menopause
+
+711
+0:41:10,400000 --> 0:41:17,040000
+with the vasomotor symptoms. When we look specifically at our contraceptive products I divide them into
+
+712
+0:41:17,040000 --> 0:41:22,480000
+five very large groups and for the sake of today we're going to be focusing on those that have a
+
+713
+0:41:22,480000 --> 0:41:29,440000
+hormonal component with the exclusion of progestin, IUD and progestin implant as those are not self
+
+714
+0:41:29,440000 --> 0:41:37,920000
+administered and therefore are not typically included in the statewide standing orders or protocols.
+
+715
+0:41:39,520000 --> 0:41:46,160000
+As we work with our patients and determining which hormonal contraceptive would be best for them
+
+716
+0:41:46,160000 --> 0:41:51,920000
+there are five main points that we should kind of work through and these will be items that I cover
+
+717
+0:41:51,920000 --> 0:41:56,800000
+and then Dr. Anderson will continue and then we'll kind of pull it all together with our case
+
+718
+0:41:56,800000 --> 0:42:02,880000
+scenarios at the end but we should be considering the hormonal components. The complexity of the
+
+719
+0:42:02,880000 --> 0:42:08,720000
+regimen is Dr. Klunen discussed adherence is one of the biggest barriers to folks taking their
+
+720
+0:42:08,800000 --> 0:42:16,160000
+contraceptives, route of administration, the start of therapy as well as comorbid conditions
+
+721
+0:42:16,160000 --> 0:42:22,400000
+and so we're going to focus on comorbid conditions for a few minutes. As I introduced earlier the
+
+722
+0:42:22,400000 --> 0:42:32
+CDC has a medication eligibility criteria. The CDC also is our guideline that exists for prescribing
+
+723
+0:42:32 --> 0:42:38,800000
+of hormonal contraceptives which Dr. Anderson will go into more detail but the MEK has a plethora
+
+724
+0:42:38,800000 --> 0:42:45,520000
+of disease dates and conditions and then next to those they have a score one through four that
+
+725
+0:42:45,520000 --> 0:42:51,520000
+determines whether or not we should be using specific contraceptive products. So one meaning
+
+726
+0:42:51,520000 --> 0:42:58,800000
+that there are no restrictions on using that so like minimal risk lots of benefit for meaning that
+
+727
+0:42:59,280000 --> 0:43:05,520000
+there are unacceptable health risks with that contraceptive benefit or method so that the
+
+728
+0:43:05,520000 --> 0:43:10,880000
+risk is so much more than the potential benefit and this is what it would actually look like if
+
+729
+0:43:10,880000 --> 0:43:17,680000
+you pull it up on your computer. On the far left hand side is the general condition. The column next
+
+730
+0:43:17,680000 --> 0:43:24,960000
+to it has further descriptors that may help to put your patient into a subgroup and then the right
+
+731
+0:43:24,960000 --> 0:43:32,160000
+half of the document that's all colorful is actually broken down into the different products.
+
+732
+0:43:32,160000 --> 0:43:38,160000
+So if you look at the very top in the dark blue in the middle we're going to start. That's our
+
+733
+0:43:38,160000 --> 0:43:47,200000
+copper IUD. The next group is our levonogestral IUDs and the next is the progestin implant and
+
+734
+0:43:47,280000 --> 0:43:56,480000
+then we go to our depot injection. Next is our progestin only pill. My one caveat with this is
+
+735
+0:43:56,480000 --> 0:44:03,680000
+the MEK was last updated in 2016. At that time the only progestin only pill available was
+
+736
+0:44:03,680000 --> 0:44:09,920000
+Nordestral. I'm going to be talking about a new progestrin only pill. There are differences so I
+
+737
+0:44:10 --> 0:44:17,520000
+would be very cautious applying that column just globally to all progestrin pills but we'll talk
+
+738
+0:44:17,520000 --> 0:44:23,040000
+about some of the differences and then lastly is our combined hormonal contraceptives. So most of
+
+739
+0:44:23,040000 --> 0:44:30,960000
+time as pharmacists we're going to be operating in the FAR 3 columns. Underneath the drug you'll
+
+740
+0:44:30,960000 --> 0:44:37,760000
+see an eye and a C. The eye is if a patient is being initiated on that product versus a C is that
+
+741
+0:44:37,840000 --> 0:44:42,720000
+they're being continued. And so you can see as you kind of go down there's some of those boxes
+
+742
+0:44:42,720000 --> 0:44:48
+that are split and the recommendations vary depending upon whether it's initiation or continuation.
+
+743
+0:44:49,040000 --> 0:44:55,440000
+So if we take this information and we specifically look at smoking. So if we were you know meeting
+
+744
+0:44:55,440000 --> 0:45:00,640000
+with the patient the only thing on their screening tool was smoking we would go to that on our MEK
+
+745
+0:45:00,640000 --> 0:45:06,800000
+and we would see oh there's three subcategories age and how much they're smoking.
+
+746
+0:45:07,280000 --> 0:45:14,240000
+So if my patient was less than 35 as I go across I see okay everything's ones until I get to that
+
+747
+0:45:14,240000 --> 0:45:19,440000
+combined hormonal contraceptive and then it's a two three and four depending upon the age and how
+
+748
+0:45:19,440000 --> 0:45:25,440000
+much you're smoking. So you can very easily see how your patient can fit in there and so if we had
+
+749
+0:45:25,440000 --> 0:45:32,400000
+an older patient who was smoking we probably would not end up using a combined hormonal
+
+750
+0:45:32,480000 --> 0:45:37,360000
+contraceptive because of the risks associated with that. So this is how you would use the tool.
+
+751
+0:45:38,960000 --> 0:45:44,320000
+Other things that we need to consider are failure rates. So these can be due to the
+
+752
+0:45:44,320000 --> 0:45:49,440000
+medications themselves or products themselves as well as the adherence to them really makes up a
+
+753
+0:45:49,440000 --> 0:45:56,960000
+big difference. As you look in literature the the failure rate differs in the drug studies
+
+754
+0:45:56,960000 --> 0:46:04,080000
+compared to usual use as well. So they're divided into three main categories at the top
+
+755
+0:46:04,080000 --> 0:46:09,040000
+being most effective at the bottom being least effective. Our most effective products are going
+
+756
+0:46:09,040000 --> 0:46:15,680000
+to be our implant, our IUDs and sterilization resulting in less than one pregnancy per 100
+
+757
+0:46:15,680000 --> 0:46:22,080000
+patients per year with our least effective being condoms, cervical caps, sponge, fertility awareness
+
+758
+0:46:22,080000 --> 0:46:29,040000
+and spermicides resulting in 18 plus unintended pregnancies per 100 patients per year.
+
+759
+0:46:29,920000 --> 0:46:34,640000
+The majority of the products that we would be prescribing as pharmacists are going to fall in
+
+760
+0:46:34,640000 --> 0:46:42,960000
+the middle category with six to ten unintended pregnancies per year and you know all of them have
+
+761
+0:46:42,960000 --> 0:46:49,440000
+differing adherence challenges with them that we'll be able to discuss with our patients.
+
+762
+0:46:50,320000 --> 0:46:56,240000
+In the CDC guidelines they also go on to call out specific high risk conditions
+
+763
+0:46:57,040000 --> 0:47:03,440000
+for pregnancy. So these are comorbid conditions that if the patient would become pregnant
+
+764
+0:47:03,440000 --> 0:47:10,160000
+that the patient could experience adverse events because of that pregnancy. And based on these
+
+765
+0:47:10,160000 --> 0:47:17,920000
+conditions the CDC has recommended that patients be on a long-acting highly effective medication
+
+766
+0:47:18,640000 --> 0:47:24,880000
+contraceptive and that patient should be counseled that they should not use barrier based or
+
+767
+0:47:26,240000 --> 0:47:32,560000
+behavioral based contraceptive options because of the higher than typical failure rate.
+
+768
+0:47:33,360000 --> 0:47:40,240000
+So it is still possible that we could use like pills or patches or rings but you know kind of the
+
+769
+0:47:40,240000 --> 0:47:45,200000
+highest level of recommendation would be for those long acting highly effectable options such as
+
+770
+0:47:45,280000 --> 0:47:52,400000
+the implant IUD or sterilization. All righty we have finally made it to the new drug update just a
+
+771
+0:47:52,400000 --> 0:48:00,960000
+few more slides before Dr. Anderson takes over. So our first medication is suggest-rown acetate
+
+772
+0:48:00,960000 --> 0:48:08,480000
+ethanol estradiol. This was approved in fall of 2018. It's a ring that's inserted for three weeks
+
+773
+0:48:08,480000 --> 0:48:13,920000
+and removed for one. Its biggest difference from the other product that's already available is
+
+774
+0:48:13,920000 --> 0:48:21,600000
+that this ring is reusable and is used up to 13 cycles so approximately one year versus kind
+
+775
+0:48:21,600000 --> 0:48:28,320000
+of throwing it out after each cycle. The company also created an app to help with adherence.
+
+776
+0:48:29,120000 --> 0:48:35,440000
+One of the things I wanted to point out was the avoid use in BMI greater than 29. So originally
+
+777
+0:48:35,440000 --> 0:48:42,400000
+for the study they were enrolling patients who did have a BMI greater than 29 but they found
+
+778
+0:48:42,480000 --> 0:48:49,040000
+around the 50 percent enrollment mark that there were two episodes of VTE specifically in those
+
+779
+0:48:49,040000 --> 0:48:56,400000
+patients who had a BMI greater than 29 and at that time they made the decision to cease enrolling
+
+780
+0:48:56,400000 --> 0:49:03,840000
+any patients who had a BMI of greater than 29 and to disenroll all existing patients who had a BMI
+
+781
+0:49:03,840000 --> 0:49:11,360000
+of greater than 29. This resulted in 200 plus patients being disenrolled from the study and us
+
+782
+0:49:11,360000 --> 0:49:19,520000
+only having data on 36 patients. Because of that the lack of information, the potential increase
+
+783
+0:49:19,520000 --> 0:49:25,600000
+VTE risk it is not recommended to use this product in patients who have a BMI greater than 29.
+
+784
+0:49:26,320000 --> 0:49:31,440000
+There's also some side effects that are a little bit different with this medication where we can
+
+785
+0:49:31,440000 --> 0:49:37,680000
+see higher expulsion rates of the ring within the first few weeks, higher rates of migraines and
+
+786
+0:49:37,680000 --> 0:49:42,400000
+headaches. I would say particularly with any hormonal contraceptive if your patient
+
+787
+0:49:43,360000 --> 0:49:48,640000
+you know starts having more headaches or migraines after they initiate on it you should likely
+
+788
+0:49:48,640000 --> 0:49:54,560000
+switch them to something else otherwise their adherence is likely to be poor and then we also
+
+789
+0:49:54,560000 --> 0:50:02,640000
+see higher rates of nausea and my my acotic yeast infections. Next we have Drosperinone.
+
+790
+0:50:02,640000 --> 0:50:10,400000
+This is our other progestin only pill. It was approved in May of 2019. This one is different
+
+791
+0:50:10,400000 --> 0:50:16,320000
+than Nordgestrel so as we kind of move through I'm going to compare and contrast the two progestin
+
+792
+0:50:16,320000 --> 0:50:23,520000
+only pills for you. So Drosperinone is a fourth generation progestin versus Nordgestrel is a
+
+793
+0:50:23,520000 --> 0:50:31,600000
+second generation and so with that fourth generation we see that it does help with acne but it does
+
+794
+0:50:31,680000 --> 0:50:42,080000
+come with an increased risk of BTE. Additionally Nordgestrel only has active pills but Drosperinone
+
+795
+0:50:42,080000 --> 0:50:48,400000
+has inactive pills that come along with it so you're going to have more of that normal cycle that
+
+796
+0:50:48,400000 --> 0:50:56,240000
+you would with a combined hormonal contraceptive. The study did include patients with a BMI up to 35
+
+797
+0:50:57,040000 --> 0:51:02,160000
+and it did include about 35 percent of patients with that BMI between 30 to 35 so we do have
+
+798
+0:51:02,160000 --> 0:51:12,080000
+some data for those patients. Next this is one that's probably not included in standing orders
+
+799
+0:51:12,080000 --> 0:51:18,160000
+or state protocols right now but it was a new drug added to our contraceptive tool bag so I didn't
+
+800
+0:51:18,160000 --> 0:51:24,400000
+want to exclude it. This is lactic acid, sictic acid and potassium by tartrate. This is a sperm
+
+801
+0:51:24,400000 --> 0:51:30,640000
+aside but it's only available via prescription. It was approved in May of 2020 and you insert
+
+802
+0:51:30,640000 --> 0:51:36,640000
+five grams vaginally prior to intercourse or up to one hour before. It can be used in combination
+
+803
+0:51:36,640000 --> 0:51:43,520000
+with other hormonal contraceptives except for the ring and it can also be used in combination with
+
+804
+0:51:43,520000 --> 0:51:49,840000
+condoms and diaphragms so that can be really beneficial for some of our patients. We would want to avoid
+
+805
+0:51:49,840000 --> 0:51:57,040000
+use in patients who have UTIs or urinary tract abnormalities and then as we would probably expect
+
+806
+0:51:57,040000 --> 0:52:03,280000
+from the name, most of the side effects are going to be more of that vovovaginal burning,
+
+807
+0:52:03,280000 --> 0:52:10,640000
+pyridus, mycotic infections and discomfort but that's not only for our female patients but also
+
+808
+0:52:10,640000 --> 0:52:21,120000
+their male counterparts. Next we have dresperinone esstral and this was approved in April of 2021.
+
+809
+0:52:21,120000 --> 0:52:27,520000
+This is a combined hormonal contraceptive pill, 24 active pills for inert because it has the
+
+810
+0:52:27,520000 --> 0:52:35,280000
+dresperinone component. We see similar things that we would have expected so in addition to what I
+
+811
+0:52:35,280000 --> 0:52:41,120000
+talked about with the increased VTE risk, dresperinone has anti-mineral corticoid
+
+812
+0:52:41,840000 --> 0:52:49,680000
+activity and so because of that we see increased rates of hyperkalemia. These rates of hyperkalemia
+
+813
+0:52:49,680000 --> 0:52:56,560000
+are very similar to what we see with spironolactone 25 milligrams once a day. So to give you something
+
+814
+0:52:56,560000 --> 0:53:03,760000
+to kind of compare it to, so we would need to be cautious using any products containing dresperinone
+
+815
+0:53:03,840000 --> 0:53:09,760000
+in patients who are on other medications that can increase the risk of hyperkalemia or those
+
+816
+0:53:09,760000 --> 0:53:18,640000
+that are at a predisposition for hyperkalemia or have renal impairment. Okay our last prescription
+
+817
+0:53:18,640000 --> 0:53:25,440000
+new drug is levonodgestral ethanolestradiol. This combination has existed for quite a long time
+
+818
+0:53:25,440000 --> 0:53:32,960000
+in a pill but it's now available as a transdermal patch as well. Again you see this avoid use in
+
+819
+0:53:32,960000 --> 0:53:38,960000
+BMI of 30 or above so that same cutoff that we've seen with some of our earlier studies.
+
+820
+0:53:39,520000 --> 0:53:46
+This one the drugs the manufacturer did enroll patients into their drug studies all the way up
+
+821
+0:53:46 --> 0:53:55,520000
+to a BMI of 35. They actually had 35% of their patients with a BMI of 30 to 35 but they saw that
+
+822
+0:53:55,520000 --> 0:54:01,360000
+there was an increased risk of adverse events and decreased efficacy. So in these studies four
+
+823
+0:54:01,440000 --> 0:54:08,960000
+patients had VTEs and they were all in that BMI group of 30 and above and then we see where the
+
+824
+0:54:08,960000 --> 0:54:15,440000
+efficacy also decreases as the weight goes up. So because of that the manufacturer has recommended
+
+825
+0:54:15,440000 --> 0:54:22,160000
+that we avoid use in patients who have BMI of 30 or above and then also you know as we would see
+
+826
+0:54:22,160000 --> 0:54:28,160000
+with most of them but especially these ones that have this increased VTE risk those cardiovascular
+
+827
+0:54:28,240000 --> 0:54:37,680000
+events and smoking are also recommended to avoid. Lastly is Norgestral as the Opil. This is not a
+
+828
+0:54:37,680000 --> 0:54:44,800000
+new drug but it's the first progestin available over the counter so it made it into the presentation
+
+829
+0:54:44,800000 --> 0:54:52,880000
+because it has a new name. This was approved in July of 2023 so just a couple months ago and it's
+
+830
+0:54:52,880000 --> 0:54:57,840000
+very exciting to kind of have our very first hormonal contraceptive that's available over the
+
+831
+0:54:57,840000 --> 0:55:04,560000
+counter. A few things just to keep in mind with Norgestral is it has a very small forgiveness
+
+832
+0:55:04,560000 --> 0:55:10,560000
+window when it comes to adherence. For any of us in the room who've maybe been on it before you
+
+833
+0:55:10,560000 --> 0:55:17,760000
+at three hours that's it. So if you're more than three hours late taking your pill you do need to
+
+834
+0:55:17,840000 --> 0:55:26,720000
+use a backup barrier method for 48 hours and then the other thing is it can be started at any time
+
+835
+0:55:26,720000 --> 0:55:31,520000
+in the patient's cycle so that can be very convenient for patients they just need to use
+
+836
+0:55:31,520000 --> 0:55:37,760000
+a backup barrier method for the first 48 hours that they start on it. One last thing about
+
+837
+0:55:37,760000 --> 0:55:45,520000
+Norgestral and then I'll turn it over is it doesn't always prevent ovulation so in about 40%
+
+838
+0:55:45,600000 --> 0:55:53,200000
+patients they still continue to ovulate so there is a higher risk of ectopic pregnancy seen with
+
+839
+0:55:53,200000 --> 0:55:59,120000
+Norgestral compared to our combined hormonal contraceptives. So with that I will turn it over
+
+840
+0:55:59,120000 --> 0:56:04,160000
+to Dr. Anderson for the next part of our presentation.
+
+841
+0:56:04,160000 --> 0:56:15,920000
+Alright, hello everybody. Are you awake still?
+
+842
+0:56:19,280000 --> 0:56:27,280000
+Alright so I'm going to dive into I will admit that I'm going to bring a lot of organ specific
+
+843
+0:56:27,280000 --> 0:56:33,280000
+stuff into what I'm going to talk about. As mentioned the Dr. Kluna mentioned I had a lot of
+
+844
+0:56:34,560000 --> 0:56:40,720000
+or I've done a lot of work with Oregon's protocol and you can actually download it right here
+
+845
+0:56:41,680000 --> 0:56:47,520000
+and the reason I'm giving that to you is because if there is anybody who is wanting to be able to
+
+846
+0:56:47,520000 --> 0:56:53,680000
+try and start this type of service and isn't quite sure where to start would like to work
+
+847
+0:56:53,680000 --> 0:56:59,760000
+under a collaborative practice agreement. This protocol is available for free and it is something
+
+848
+0:56:59,840000 --> 0:57:05,680000
+that is free to use even. There are actually a lot of other states that that's kind of where they
+
+849
+0:57:05,680000 --> 0:57:11,520000
+have started with is with Oregon's protocol or some of the others that are out there now. We've
+
+850
+0:57:11,520000 --> 0:57:18,080000
+got a lot to choose from at this point but part of why I put that up there is because when we get
+
+851
+0:57:18,080000 --> 0:57:24,480000
+into the cases you're actually going to see the questionnaire that comes from our protocol and
+
+852
+0:57:24,480000 --> 0:57:30,240000
+so that's where we're going to have you practice. The other thing that I want you to download how
+
+853
+0:57:30,240000 --> 0:57:38,640000
+many have seen this app before? It's awesome isn't it? I load this app. I make my students
+
+854
+0:57:38,640000 --> 0:57:44,800000
+download it and use it when we're practicing and when we get to practicing I highly recommend that
+
+855
+0:57:44,800000 --> 0:57:52,880000
+you use this app. What it will do is go through all of those conditions that Dr. King brought up
+
+856
+0:57:52,880000 --> 0:58:00,640000
+earlier and it will actually help you find what category it is and for the specific type of
+
+857
+0:58:00,640000 --> 0:58:06,800000
+contraceptive contraception that you're looking for. The other thing you'll notice is that there is a
+
+858
+0:58:06,800000 --> 0:58:12,400000
+companion guideline that goes with the MEC called the SPR. Actually I have a slide on it. It's called
+
+859
+0:58:12,400000 --> 0:58:18,720000
+the standard practice recommendations and it goes hand in hand with the MEC to sort of round out
+
+860
+0:58:18,720000 --> 0:58:24,640000
+the guidelines of seeing patients for contraception. So the MEC just goes over disease states. The
+
+861
+0:58:24,640000 --> 0:58:30,880000
+SPR focuses more on management. So how are we going to see patients? What's important that we ask them
+
+862
+0:58:30,880000 --> 0:58:36,880000
+that we look at? So for instance if we're going to prescribe combined hormonal contraceptives the
+
+863
+0:58:36,880000 --> 0:58:43,840000
+SPR recommends that we get a blood pressure. The SPR also is where you go to find a lot of your
+
+864
+0:58:43,920000 --> 0:58:48,960000
+counseling information. They have some really great resources for how to deal with missed pills,
+
+865
+0:58:48,960000 --> 0:58:56,480000
+missed rings, things like that. And then finally there is a really great list of questions that you
+
+866
+0:58:56,480000 --> 0:59:03,520000
+can use to help rule out a pregnancy. So you don't actually have to incorporate like a urine
+
+867
+0:59:03,520000 --> 0:59:08,480000
+pregnancy test into your practice in order to be able to do that. You can actually use those
+
+868
+0:59:08,480000 --> 0:59:15,280000
+questions and nearly all the states have some form of using those questions in their protocols.
+
+869
+0:59:16,800000 --> 0:59:21,280000
+The other thing that we considered when we were developing our protocol was the fact that we
+
+870
+0:59:21,280000 --> 0:59:27,040000
+have also the pharmacist patient care process that is standard everywhere for pharmacists to be able
+
+871
+0:59:27,040000 --> 0:59:31,600000
+to follow. We're going to focus a little bit more on the assess but I'll also talk a little bit about
+
+872
+0:59:31,600000 --> 0:59:38,960000
+the collection of what data we should be getting in order to assess it appropriately. So when we
+
+873
+0:59:38,960000 --> 0:59:45,200000
+think about what we're assessing that ruling out a pregnancy, looking at the USMEC to find any
+
+874
+0:59:46,800000 --> 0:59:52,880000
+medical conditions that might be contraindicated, and then asking a patient about preferences and
+
+875
+0:59:52,880000 --> 1:00:00
+opinions. So what do we need to collect in order to assess that appropriately? So pregnancy, I already
+
+876
+1:00:00 --> 1:00:06,400000
+brought up the urine pregnancy screening but there are these questions. I have them in another
+
+877
+1:00:06,400000 --> 1:00:13,200000
+slide I believe. And then also getting that past medical history. A lot of these protocols have
+
+878
+1:00:13,200000 --> 1:00:19,600000
+some type of questionnaire that we'll get at that. There is also getting blood pressure and if there
+
+879
+1:00:19,600000 --> 1:00:26,080000
+is a medication list that you happen to have in your personal EMR, for that patient that would
+
+880
+1:00:26,080000 --> 1:00:32,400000
+also be something to look at. History of contraception, there are options. What the patient has tried
+
+881
+1:00:32,400000 --> 1:00:38,640000
+before is also going to be super helpful and important to find out. All right. So these are
+
+882
+1:00:38,640000 --> 1:00:44
+some of the big steps on the assessment piece that come from our protocol. The first one is that
+
+883
+1:00:44 --> 1:00:48,640000
+pregnancy screen that I mentioned. If you can rule out a pregnancy, you would go on to the next step
+
+884
+1:00:48,640000 --> 1:00:54,080000
+which is looking at the MEC, looking for any of those contraindications, and then going to the next
+
+885
+1:00:54,080000 --> 1:00:59,120000
+step for that blood pressure. Any of these points might be a place that you might need to refer but
+
+886
+1:00:59,120000 --> 1:01:04,960000
+you'll also notice that for the blood pressure that's very specific to combined hormonal contraceptives.
+
+887
+1:01:05,600000 --> 1:01:11,200000
+And if you do have somebody with a higher blood pressure, you could still consider a different
+
+888
+1:01:11,200000 --> 1:01:21,280000
+progestering method depending because DMPA also has a blood pressure level. All right. So this is
+
+889
+1:01:21,280000 --> 1:01:27,680000
+our example of a questionnaire. And I pulled out, you can hopefully see the dark pink coloration.
+
+890
+1:01:27,680000 --> 1:01:34,240000
+That's our pregnancy screening questions. So these are a set of six questions that the SPR
+
+891
+1:01:35,280000 --> 1:01:39,600000
+has in their guidelines and they have actually been validated to be able to
+
+892
+1:01:40,240000 --> 1:01:46,400000
+rule out a pregnancy if the individual can answer yes to at least one of them. And so we've
+
+893
+1:01:46,560000 --> 1:01:52,720000
+incorporated it into the questionnaire. And if you do have an individual that can answer yes,
+
+894
+1:01:52,720000 --> 1:01:58,560000
+you would just keep going onto your next area. If they can't and you can't rule out a pregnancy,
+
+895
+1:01:58,560000 --> 1:02:06
+that would be an indication to refer. The next one is checking that history. There's that MEC
+
+896
+1:02:06 --> 1:02:12,080000
+table. But again, I'm going to have you guys try and practice with that app to also try and look
+
+897
+1:02:12,080000 --> 1:02:17,120000
+through the MEC that way. If you ever find, at least for us in Oregon, I think this is the case
+
+898
+1:02:17,120000 --> 1:02:23,280000
+for a lot of the statewide protocols, is that if you have somebody who has a condition that is a
+
+899
+1:02:23,280000 --> 1:02:28,160000
+category three or four, that would be a referral. If it's a category one or two, you can go ahead
+
+900
+1:02:28,160000 --> 1:02:35,360000
+and prescribe. All right. I think I'm not going to spend a lot of time on this because Dr. King has
+
+901
+1:02:35,360000 --> 1:02:44,720000
+also considered a lot of these things. And these are just counseling reminders, especially for
+
+902
+1:02:44,720000 --> 1:02:52,160000
+initial oral contraceptive users. Again, this is found in the SPR, but making sure that you're
+
+903
+1:02:52,160000 --> 1:02:56,960000
+counseling your patients on how to take it, that it is something that's taken at the same time
+
+904
+1:02:56,960000 --> 1:03:04,640000
+every day. So there is that big adherence piece of it. And you'll notice kind of at the very end,
+
+905
+1:03:04,640000 --> 1:03:09,760000
+goes and adherence a little bit more. How many of you guys have heard of the 12-month supply,
+
+906
+1:03:09,760000 --> 1:03:19,040000
+if possible? Yeah, a few. A lot of states, Oregon included, have passed legislation that requires
+
+907
+1:03:19,040000 --> 1:03:24,240000
+or mandates insurance companies to cover a full 12-month supply because we have some really great
+
+908
+1:03:24,240000 --> 1:03:30,400000
+evidence that says adherence goes up if you can give a longer supply to individuals. So that's
+
+909
+1:03:30,400000 --> 1:03:35,520000
+where that 12-month comes from. And we actually have incorporated that into our protocol to try
+
+910
+1:03:35,520000 --> 1:03:41,440000
+and say that we should do that. In fact, we have some studies that have said that pharmacists are
+
+911
+1:03:41,440000 --> 1:03:46,320000
+actually much more likely because we've done a lot of education, we included in our protocol.
+
+912
+1:03:46,320000 --> 1:03:52,240000
+We're a lot more likely to dispense a much higher supply to individuals than other prescribers.
+
+913
+1:03:52,800000 --> 1:04:00,720000
+All right, here's some of your adverse effects, broken down by estrogenic versus progestogenic.
+
+914
+1:04:01,680000 --> 1:04:06,080000
+The one big one that you'll see that's common between the two is breakthrough bleeding.
+
+915
+1:04:06,640000 --> 1:04:11,840000
+And so if you don't have enough of one or the other, you might end up seeing breakthrough bleeding.
+
+916
+1:04:11,840000 --> 1:04:18
+That being said, anybody who's initiating on a combined oral contraceptive or progestent,
+
+917
+1:04:18,080000 --> 1:04:22
+any really hormonal contraceptive is going to experience breakthrough bleeding.
+
+918
+1:04:22 --> 1:04:26,480000
+It should get better. And so that's one of those things to talk to your patients about,
+
+919
+1:04:26,480000 --> 1:04:31,360000
+that if they start experiencing that, try to give it some time, try to give it three months.
+
+920
+1:04:31,360000 --> 1:04:38,240000
+And if it doesn't go away at that point, then try to reevaluate. I actually have a slide in just a bit
+
+921
+1:04:38,240000 --> 1:04:45,120000
+on how to deal with that. I put a little question mark after headache under the estrogenic
+
+922
+1:04:45,920000 --> 1:04:51,600000
+because I want you to consider that if you have a patient who has never been experiencing headaches
+
+923
+1:04:51,600000 --> 1:04:57,520000
+before, suddenly starts experiencing them after they've started, especially on a combined oral
+
+924
+1:04:57,520000 --> 1:05:02,960000
+contraceptive, that might be something to dig a little bit deeper into and make sure that we
+
+925
+1:05:02,960000 --> 1:05:12
+don't need to stop that for them. All right, this is actually a chart that I developed with several
+
+926
+1:05:12 --> 1:05:18,480000
+OBGYNs who helped us with developing our protocol and our training in Oregon. And this goes through
+
+927
+1:05:18,480000 --> 1:05:23,840000
+how we would want to deal with somebody who is experiencing continued breakthrough bleeding.
+
+928
+1:05:23,840000 --> 1:05:30
+So this is after that three months of somebody being on the method already, right? So first,
+
+929
+1:05:30 --> 1:05:33,600000
+you're going to check for adherence. If that's something that they're having a problem with,
+
+930
+1:05:33,600000 --> 1:05:39,440000
+then work on improving that with them, you could also talk to them about different methods,
+
+931
+1:05:40 --> 1:05:45,680000
+in particular some long-acting methods. If they're saying that they have really great
+
+932
+1:05:45,680000 --> 1:05:51,760000
+adherence, the other thing to check for is smoking status. And that just turns out to be something
+
+933
+1:05:51,760000 --> 1:05:59,840000
+that interacts with hormonal contraceptives and can cause some spotting. So that would be another
+
+934
+1:05:59,840000 --> 1:06:05,600000
+indication to try and work with your patient, hopefully to get them to stop smoking, especially
+
+935
+1:06:05,680000 --> 1:06:12
+because as was shown earlier, that's a place in the MEC that as soon as they get above 35,
+
+936
+1:06:12,560000 --> 1:06:18,880000
+we want to be stopping combined neural contraceptives anyway. If that is negative as well,
+
+937
+1:06:18,880000 --> 1:06:25,840000
+that might be an indication to refer to the PCP. You don't need to stop the method. And in fact,
+
+938
+1:06:25,840000 --> 1:06:31,600000
+if you want to try and see if they are at one of those lower doses of ethyl esterdyl,
+
+939
+1:06:31,600000 --> 1:06:37,680000
+you could increase that. You could also try changing the progester to see if that will help
+
+940
+1:06:37,680000 --> 1:06:44,320000
+with the breakthrough bleeding. But the reason we kind of put that referral in there, that was
+
+941
+1:06:44,320000 --> 1:06:50,560000
+actually requested by our OBGYNs, they wanted to make sure pharmacists were always sending people
+
+942
+1:06:50,560000 --> 1:06:58,160000
+to get just checked out in case there was anything concerning. All right, I'm going to spend just
+
+943
+1:06:58,240000 --> 1:07:03,200000
+a tiny bit more time on other clinical situations and then we'll dive into our cases. How is everyone
+
+944
+1:07:03,200000 --> 1:07:13,600000
+doing? Still with me? Awesome. All right, Acne, here's a tism, here's a tism is where you have a lot
+
+945
+1:07:13,600000 --> 1:07:21,440000
+of excess androgens and therefore symptoms that occur with that. And it turns out that anything
+
+946
+1:07:21,440000 --> 1:07:29,040000
+that has an estrogen component in it will reduce androgens. So we actually have some combined
+
+947
+1:07:29,040000 --> 1:07:35,920000
+oral contraceptives that have an additional FDA approval to treat Acne. So if you happen to have
+
+948
+1:07:35,920000 --> 1:07:43,200000
+somebody who has Acne wants to be started on a contraceptive method, this may actually be something
+
+949
+1:07:43,200000 --> 1:07:48,640000
+that you move a little bit or are thinking more towards as long as they don't have any other
+
+950
+1:07:48,640000 --> 1:07:54,800000
+contraindications to that estrogen. The other thing is we just talked about how we now have
+
+951
+1:07:54,800000 --> 1:08:01,120000
+several different types of progestinone pills and one of them happens to have an anti-androgen
+
+952
+1:08:01,120000 --> 1:08:07,120000
+progestin, right? So that one is actually going to help with Acne whereas the other one could in
+
+953
+1:08:07,120000 --> 1:08:12,400000
+fact make Acne worse. So that would be the one that you would choose if you're going to go the
+
+954
+1:08:12,480000 --> 1:08:20,320000
+progestin only route. The next one is heavy or painful periods. You may actually see people be
+
+955
+1:08:20,320000 --> 1:08:27,520000
+put on continuous oral contraceptives in order to kind of help with not even having periods so that
+
+956
+1:08:27,520000 --> 1:08:33,920000
+they don't have to deal with those painful heavy periods. The other thing that you might see is a
+
+957
+1:08:33,920000 --> 1:08:40,480000
+progestinone method. For those that know or can think back in school with their pharmacology and
+
+958
+1:08:40,480000 --> 1:08:48,080000
+the mechanism of how progestin works, progestins, and this is actually not a contraceptive
+
+959
+1:08:48,080000 --> 1:08:54
+mechanism piece, it's just something that happens to do, it will thin out the endometrial lining
+
+960
+1:08:54,560000 --> 1:09:01,600000
+over time. And because it does that, it will actually make it so your periods are lighter and
+
+961
+1:09:01,600000 --> 1:09:07,120000
+less painful. So that may also be something or a route that you go. And in fact,
+
+962
+1:09:07,120000 --> 1:09:16,720000
+leavenor gestural IUDs have that as an indication from the FDA. PMDD is something that you see where
+
+963
+1:09:16,720000 --> 1:09:24,160000
+the symptoms occur because of that cycle and changes in hormones. If that's the case, some
+
+964
+1:09:24,160000 --> 1:09:30,560000
+individuals may actually be helped by using continuous contraception. So there's another place where
+
+965
+1:09:30,560000 --> 1:09:38,400000
+you might see continuous contraceptives used. And then the other thing to mention is to avoid
+
+966
+1:09:38,400000 --> 1:09:43,920000
+those phasics. Does anybody know what the phasics are? We didn't kind of go into those at all. But
+
+967
+1:09:43,920000 --> 1:09:51,440000
+that's where the doses of either estrogen or in most cases the progestin changes throughout the month
+
+968
+1:09:51,440000 --> 1:09:58,720000
+or the cycle. And because those are changing and we believe that PMDD is caused by those adjustments
+
+969
+1:09:58,720000 --> 1:10:07,360000
+in hormones, we want to avoid those. The next one is that PCOS, we do often see it used or
+
+970
+1:10:07,360000 --> 1:10:11,680000
+combined hormonal contraceptives. I already talked about the hearsuitism up above. That's
+
+971
+1:10:11,680000 --> 1:10:20,480000
+something you very frequently see in PCOS. And so we often see this used in that condition. If it's
+
+972
+1:10:20,480000 --> 1:10:26,720000
+something that you're using for infertility, especially if you have somebody who is not regular
+
+973
+1:10:26,720000 --> 1:10:34,400000
+or in a cycle at all, you may actually see that they get put onto some type of contraception in
+
+974
+1:10:34,400000 --> 1:10:39,840000
+order to get them into a cycle. Because when you get into those placebo pills, they will get what's
+
+975
+1:10:39,840000 --> 1:10:46,880000
+called a withdrawal bleed and suddenly you have a cycle again. The last one is breastfeeding. This
+
+976
+1:10:46,880000 --> 1:10:54,560000
+actually has its own category within the MEC. And I think we have several cases to be considered
+
+977
+1:10:54,640000 --> 1:11:01,520000
+when it comes to breastfeeding. So I just wanted to mention this real quickly. CHCs and estrogen
+
+978
+1:11:01,520000 --> 1:11:07,040000
+are only thought to affect the initial production of milk. So if you look in the MEC, it actually
+
+979
+1:11:07,040000 --> 1:11:14,880000
+says that after the first month as long as there's no other risks for VTE and that's its other
+
+980
+1:11:14,880000 --> 1:11:23,200000
+separate risk in that first initial month, then you can actually start using CHCs. So after somebody
+
+981
+1:11:23,200000 --> 1:11:32,160000
+has gotten past at least the first month and they don't have other indicators for VTE risk,
+
+982
+1:11:32,160000 --> 1:11:40,480000
+you can go to a combined method if they would like to. All right. Any questions on any of what
+
+983
+1:11:40,480000 --> 1:11:52,400000
+we've talked about so far before I dive into the cases? All right. Has everybody been able to find
+
+984
+1:11:52,400000 --> 1:12:01,280000
+the handout that is along with our for this session? So I don't believe it's in with the schedule
+
+985
+1:12:01,840000 --> 1:12:08,160000
+or itinerary. You have to go into a different section whereas for the resources for this session
+
+986
+1:12:08,160000 --> 1:12:13,840000
+in order to find our slides. And then at the very, very bottom are a whole bunch of different
+
+987
+1:12:13,840000 --> 1:12:20,960000
+questionnaires. Has everybody been able to find them? Give me a thumbs up when you are able to find
+
+988
+1:12:20,960000 --> 1:12:43,600000
+those cases. All right. When you do find those cases, this is what it will look like. So this is
+
+989
+1:12:43,600000 --> 1:12:49,440000
+an example of one of them and there's actually two pages per questionnaire. So this is the
+
+990
+1:12:49,440000 --> 1:12:54,800000
+questionnaire I mentioned earlier that comes from the Oregon statewide protocol. And what we've
+
+991
+1:12:54,800000 --> 1:13:01,200000
+done is kind of given you your cases within these questionnaires. Try to give you more information
+
+992
+1:13:01,200000 --> 1:13:08
+if it's needed. So in some, for instance, you might see that there's like a weight given. Also,
+
+993
+1:13:08 --> 1:13:13,520000
+this one I think there's more information needed if the patient says yes to having diabetes. And then
+
+994
+1:13:14,480000 --> 1:13:22,960000
+what we want you to do in your groups or individually is to go through these patient cases for the next
+
+995
+1:13:22,960000 --> 1:13:28,560000
+10 minutes or so. And then we are going to go through them with sli-do so that you're going to be
+
+996
+1:13:28,560000 --> 1:13:34
+answering the questions. So be thinking through that. And here's sort of the questions that you
+
+997
+1:13:34 --> 1:13:41,760000
+want to be thinking about as you go through these cases. Can pregnancy be ruled out? Do they have a
+
+998
+1:13:41,760000 --> 1:13:48,320000
+preference in method? And if they do, is that a preference or is that method something that we
+
+999
+1:13:48,320000 --> 1:13:56,320000
+can prescribe for them? And then are you able to prescribe what they want in terms of like checking
+
+1000
+1:13:56,320000 --> 1:14:02,480000
+their blood pressure, looking through all of their MEC categories and that sort of thing?
+
+1001
+1:14:03,120000 --> 1:14:05,840000
+Are there questions before I turn you loose?
+
+1002
+1:14:05,840000 --> 1:14:14,160000
+All right. You have about 10 minutes.
+
+1003
+1:14:36,400000 --> 1:14:48
+Sorry to interrupt real quick. I forgot to mention the numbers. So at the top of each
+
+1004
+1:14:48 --> 1:14:54,080000
+questionnaire, you're going to notice a number and they are out of order. So just be aware,
+
+1005
+1:14:54,080000 --> 1:14:58,960000
+we will be going in order through them, but currently in the handout, they're out of order.
+
+1006
+1:14:58,960000 --> 1:15:14,880000
+But there are, I believe, six cases total.
+
+1007
+1:19:59,200000 --> 1:20:04,880000
+All right, everyone. How are we doing? Where are we at? Are you about through? Awesome. Okay.
+
+1008
+1:20:05,440000 --> 1:20:13,280000
+So we will go ahead and get started with the cases. So we'll start with case one. I'm like
+
+1009
+1:20:13,280000 --> 1:20:18,480000
+Dr. Anderson was alluding to. It should be a big black number in the corner of the case. Okay.
+
+1010
+1:20:18,480000 --> 1:20:23,600000
+So this is our 22-year-old female wants to start on an oral hormonal contraceptive.
+
+1011
+1:20:23,600000 --> 1:20:27,920000
+As you see, you have the case in front of you, so I won't read all of it off. But things that
+
+1012
+1:20:27,920000 --> 1:20:33,360000
+are pertinent here, she is single, but dating approximately one sexual partner in the past month
+
+1013
+1:20:33,360000 --> 1:20:38,320000
+does deny any smoking as well as recreational drugs. Her past medical history is consistent
+
+1014
+1:20:38,320000 --> 1:20:44,960000
+with migraines with aura, and she does take stumatryptin as needed for the migraines. Her blood pressure
+
+1015
+1:20:44,960000 --> 1:20:52,640000
+here, 122 over 80, the weight is not non-factor in this equation. So what did you guys recommend
+
+1016
+1:20:52,640000 --> 1:21:00,160000
+for this patient to start? This is a select all that applies situation, so please feel free to
+
+1017
+1:21:00,160000 --> 1:21:02,160000
+pick more than one answer.
+
+1018
+1:21:02,160000 --> 1:21:31,520000
+All right. So it looks like the majority of you said C and D.
+
+1019
+1:21:31,520000 --> 1:21:36,720000
+So just bare known or the north syndrome. Perfect. Very good. We have a couple answers for the
+
+1020
+1:21:36,720000 --> 1:21:41,600000
+sprint tech and a couple answers for the yes. So to kind of break this down, sorry about the
+
+1021
+1:21:41,600000 --> 1:21:46,560000
+boxes that did not come up in the right order. However, if we go and we look at our mech here,
+
+1022
+1:21:46,560000 --> 1:21:51,280000
+we see that the big indicator for this patient is the migraine with aura. Okay. So when looking
+
+1023
+1:21:51,280000 --> 1:21:56,640000
+at our key, we see that this categorizes in terms of our combined hormonal contraceptives as a
+
+1024
+1:21:56,720000 --> 1:22:01,440000
+category four, so an unacceptable health risk. I also want to make sure that we understand what
+
+1025
+1:22:01,440000 --> 1:22:06,480000
+a migraine with aura is. Okay. So it's also called a classic migraine. It's a recurring headache
+
+1026
+1:22:06,480000 --> 1:22:12,080000
+that strikes after or at the same time as a sensory disturbance called the aura. Okay. So that's what
+
+1027
+1:22:12,080000 --> 1:22:15,840000
+we need to be looking at for these patients. If they've ever had it, we really should not be putting
+
+1028
+1:22:15,840000 --> 1:22:20,720000
+them on combined hormonal contraception. With that being said, you guys got it. I don't believe I
+
+1029
+1:22:20,720000 --> 1:22:24,880000
+can go back to the pool slide, but it should be that your spheranone or the north syndrome for
+
+1030
+1:22:24,960000 --> 1:22:29,360000
+this patient. Some other things that we could consider in narrowing down between the two,
+
+1031
+1:22:29,360000 --> 1:22:33,520000
+potentially. If the patient was complaining of things like acne and stuff like that,
+
+1032
+1:22:33,520000 --> 1:22:39,520000
+you might want to go with the drosparanone over the other medication due to some of the anti-entrinergic
+
+1033
+1:22:39,520000 --> 1:22:43,760000
+effects. Yeah.
+
+1034
+1:22:43,760000 --> 1:22:48,080000
+I'm not really quite sure.
+
+1035
+1:22:52 --> 1:22:56,480000
+So we discussed that those two participants only pills would be good options for her. And then we
+
+1036
+1:22:56,480000 --> 1:23:02,480000
+discussed that with a drosparanone, is there that increased risk for clot and therefore stroke
+
+1037
+1:23:02,480000 --> 1:23:08,960000
+with someone with migraine auras? What was that last part? The increased risk of stroke,
+
+1038
+1:23:08,960000 --> 1:23:13,040000
+you know, clot and the subsequent stroke and a person with migraine with auras. Right. And is
+
+1039
+1:23:13,040000 --> 1:23:18,800000
+a drosparanone then not a great option or is it still a safe option?
+
+1040
+1:23:25,120000 --> 1:23:33,360000
+Dr. Anitin there. There you go. So I will say technically if you're looking at the MEC,
+
+1041
+1:23:33,360000 --> 1:23:39,680000
+it would fit under the PLP, but like we were mentioning, that was done in 2016. Drosparanone has
+
+1042
+1:23:39,680000 --> 1:23:45,840000
+been added since then. So I don't think we have a lot of clear guidance on what to do with that.
+
+1043
+1:23:46,640000 --> 1:23:53,360000
+I think you do see though, like remember how there's like an initiating and a continuation.
+
+1044
+1:23:53,360000 --> 1:24:00,160000
+So PLPs, I believe they have like an initiation is okay if there's a history of stroke, but if you
+
+1045
+1:24:00,160000 --> 1:24:08
+experience a stroke while you're on it, you would need to stop it. So I'm not exactly sure if that's
+
+1046
+1:24:08,080000 --> 1:24:13,280000
+going to include drosparanone. I hope in the future we'll have more clarity on that.
+
+1047
+1:24:14,480000 --> 1:24:20,480000
+Sorry. Thank you for the question. So we will move forward to our next case scenario. So this is
+
+1048
+1:24:20,480000 --> 1:24:26,080000
+IJ, our 38 year old female. She also filled out our screening contraception intake form. The last
+
+1049
+1:24:26,080000 --> 1:24:30,960000
+period was two and a half weeks ago. Currently has been taking sprint tech, so an or decimate
+
+1050
+1:24:30,960000 --> 1:24:36,800000
+ethanol estradiol. She states that she's married with the two kids. She does smoke a pack per day,
+
+1051
+1:24:36,800000 --> 1:24:41,280000
+denies any recreational use of drugs and just drinks socially. She doesn't have any
+
+1052
+1:24:41,280000 --> 1:24:46,480000
+past medical history worth mentioning as well as not is not actively on any medications or does
+
+1053
+1:24:46,480000 --> 1:24:52,080000
+not have any allergies. So what do you guys think about this one? What do you think is an
+
+1054
+1:24:52,080000 --> 1:24:57,280000
+appropriate step initially after reviewing her intake for? Would you continue her on the sprint
+
+1055
+1:24:57,280000 --> 1:25:01,440000
+tech? Would you refer her to a primary care physician at this point due to something that
+
+1056
+1:25:01,440000 --> 1:25:04,960000
+alarmed you in the case? Or would you do you think that we would be able to switch her to a
+
+1057
+1:25:04,960000 --> 1:25:09,520000
+different oral hormonal contraceptive that might work better for her in her past medical history
+
+1058
+1:25:09,520000 --> 1:25:13,680000
+or potentially something else that you saw within the case?
+
+1059
+1:25:23,360000 --> 1:25:26,160000
+All right. Awesome. Looks like we have about 18 a.m. So we'll go ahead.
+
+1060
+1:25:26,800000 --> 1:25:31,360000
+And great. So the majority of you said to switch to a different oral hormonal contraception.
+
+1061
+1:25:31,440000 --> 1:25:35,360000
+And I do believe, I do agree with you on all of that. She did state that she would like to stay
+
+1062
+1:25:35,360000 --> 1:25:40,720000
+on an oral formulation. And based on her case, I do believe that within many of our
+
+1063
+1:25:40,720000 --> 1:25:46,080000
+consult agreements or within what we were doing here in terms of our worksheet, it is within a
+
+1064
+1:25:46,080000 --> 1:25:51,120000
+pharmacist scope to switch the medication. So if we look here, we have our options. And I'll go
+
+1065
+1:25:51,120000 --> 1:25:54,720000
+ahead and let you put in your answers for that.
+
+1066
+1:26:10 --> 1:26:14,960000
+All right. Looks like we got about 15 answers. So we'll go ahead. Awesome. Good job. 100%. So
+
+1067
+1:26:14,960000 --> 1:26:20,640000
+North Endrone would be the preferred therapy for this patient. Moving on to our debrief.
+
+1068
+1:26:20,720000 --> 1:26:24,880000
+Again, we see that she was smoking, right? She was smoking over a pack per day. That's equivalent to
+
+1069
+1:26:24,880000 --> 1:26:30,160000
+over 20 cigarettes per day. She also falls into the age category of she's 38 years old. So she's
+
+1070
+1:26:30,160000 --> 1:26:37,200000
+older than 35. Making her fall into the unacceptable health risk category to continue a combined oral
+
+1071
+1:26:37,200000 --> 1:26:42
+contraception. So she preferred to stay on oral therapy. So we do have the options of switching
+
+1072
+1:26:42 --> 1:26:48,720000
+her over to a projection only pill. And with that, I'll hand it off to Dr. King who's going to do the
+
+1073
+1:26:48,720000 --> 1:26:55,760000
+case three and four. Thank you. All right. So for scenario three, we have EF who's a 20-year-old
+
+1074
+1:26:55,760000 --> 1:27:02,400000
+female who filled out the self-screening. And she marked that today was the day of last day,
+
+1075
+1:27:03,120000 --> 1:27:10,480000
+the date of her period. And she reports consistently using condoms. She has preferred contraceptive
+
+1076
+1:27:10,480000 --> 1:27:16,400000
+options of vaginal ring, IUD or implant. She does report changes in vaginal bleeding,
+
+1077
+1:27:16,400000 --> 1:27:22,320000
+no health insurance. Past medical history includes diabetes and migraines but denies ORA's.
+
+1078
+1:27:22,880000 --> 1:27:29,680000
+And her blood pressure is listed there for you. So for our first question for scenario three,
+
+1079
+1:27:29,680000 --> 1:27:42,960000
+based off the self-screening form, which contraceptive best aligns with EF's preferences and is safe?
+
+1080
+1:27:46,400000 --> 1:28:05,360000
+All righty. So a lot of you guys said referring to the gynecologist for an IUD,
+
+1081
+1:28:06,240000 --> 1:28:10,880000
+which is definitely an option as well. If the patient's really looking to work with you as
+
+1082
+1:28:10,960000 --> 1:28:18,400000
+the pharmacist, we could also consider the suggestion as to ethanol estradiol.
+
+1083
+1:28:19,360000 --> 1:28:24,800000
+I'm guessing the reason why more of you did not necessarily pick this option was perhaps because
+
+1084
+1:28:24,800000 --> 1:28:32,240000
+of the migraines or the migraines. But we'll talk about that more in a minute. And then which
+
+1085
+1:28:32,240000 --> 1:28:36,240000
+factors exclude this patient from using the progestant implant?
+
+1086
+1:28:40,880000 --> 1:28:59,120000
+All righty. Great. Most of you got that with the changes in vaginal bleeding.
+
+1087
+1:29:00,080000 --> 1:29:05,840000
+So to focus on, you know, why we were getting to where we were. So first, if we start,
+
+1088
+1:29:06,720000 --> 1:29:12,880000
+the patient has diabetes, but she's not on insulin. So we see where all of those options
+
+1089
+1:29:12,880000 --> 1:29:18,640000
+are available as a one or a two. So that's something we could still consider. She does have migraines,
+
+1090
+1:29:18,640000 --> 1:29:24,480000
+but does not have ORA's. So again, that leaves kind of everything open for us. And then lastly,
+
+1091
+1:29:24,480000 --> 1:29:32,800000
+we have that unexplained vaginal bleeding. And so that does exclude the implants and then the
+
+1092
+1:29:32,800000 --> 1:29:41,040000
+initiation of the IUDs as well. So for those reasons, based off of the options that were selected,
+
+1093
+1:29:42,080000 --> 1:29:48,960000
+it would be reasonable to try the anavirring for the patient. If the migraines worsened or
+
+1094
+1:29:48,960000 --> 1:29:54,800000
+the headache's worsened, then that would absolutely be a time for for sure a referral.
+
+1095
+1:29:55,360000 --> 1:29:58,640000
+It looks like we have a question. Just have a question. So one of the things we were talking
+
+1096
+1:29:58,640000 --> 1:30:05,520000
+about was the fact that it said she didn't have insurance. And so how does the anavirra
+
+1097
+1:30:05,520000 --> 1:30:11,040000
+become a cost effective option for her? Where our thought process was maybe we could refer her to
+
+1098
+1:30:11,040000 --> 1:30:17,760000
+a local title 10 clinic, where the cost for the IUD may be a bit more reasonable over the length
+
+1099
+1:30:17,760000 --> 1:30:23,840000
+of therapy. Also the fact that she does have that vaginal bleeding that's concerning to her,
+
+1100
+1:30:24,320000 --> 1:30:28,720000
+we would want to investigate that a little bit further. So if you could just add any thoughts
+
+1101
+1:30:28,720000 --> 1:30:35,120000
+related to those points, we'd appreciate it. Yeah. So my point, my thought process as far as the
+
+1102
+1:30:35,120000 --> 1:30:41,920000
+insurance goes is, you know, likely whether it's an IUD, the implant or even the anavirra, there
+
+1103
+1:30:41,920000 --> 1:30:48
+is going to be an upfront cost associated with that. The nice thing with the anavirring is it is
+
+1104
+1:30:48 --> 1:30:53,600000
+only a one-time cost per year. So it's not something where she's going to be having to pay for it.
+
+1105
+1:30:53,600000 --> 1:30:58,560000
+Every month, like it would be with, let's say, the anavirring or one of the patches or something
+
+1106
+1:30:58,560000 --> 1:31:03,680000
+like that. As far as the vaginal bleeding, I think it would be something to kind of dig in a little
+
+1107
+1:31:03,680000 --> 1:31:11,280000
+bit more. But it doesn't necessarily preclude you as a pharmacist from at least starting a
+
+1108
+1:31:11,280000 --> 1:31:16,560000
+contraceptive. It doesn't mean that you still wouldn't also refer the patient for further work
+
+1109
+1:31:16,560000 --> 1:31:21,040000
+up and evaluation, but it doesn't necessarily prevent you from being able to start her on
+
+1110
+1:31:21,040000 --> 1:31:27,440000
+something initially. And Dr. Anderson can add. I thought I'd also mention something about the
+
+1111
+1:31:27,440000 --> 1:31:34,240000
+vaginal bleeding piece. We actually originally, in our very first protocol and questionnaire,
+
+1112
+1:31:34,240000 --> 1:31:42
+iteration did not have that question being asked because of the fact that the methods at the time
+
+1113
+1:31:42 --> 1:31:49,200000
+that we could use, which were only the pills in the patch, were not contraindicated. And so when
+
+1114
+1:31:49,280000 --> 1:31:56
+we got depot or the DMPA injection, we had to go back through the MEC to see if there was anything
+
+1115
+1:31:56 --> 1:32:03,200000
+we were missing. And that was it. So we then therefore started including that question in the
+
+1116
+1:32:03,200000 --> 1:32:10,720000
+questionnaire. So you're, but I will say, I think your concern is completely warranted. And I would
+
+1117
+1:32:10,720000 --> 1:32:16,240000
+say anybody that answers yes to that question, I would always refer. It doesn't mean that you
+
+1118
+1:32:16,240000 --> 1:32:22,240000
+can't give them something, but please refer if they have any concerns about vaginal bleeding at
+
+1119
+1:32:22,240000 --> 1:32:31,040000
+all, they should go get that checked out. Thank you. All right. So for scenario four, we have
+
+1120
+1:32:31,040000 --> 1:32:38,080000
+VW who's a 29 year old female who filled out the screening form. Her last visit to the reproductive
+
+1121
+1:32:38,080000 --> 1:32:44,960000
+clinic was two years ago. She has been on hormonal contraceptives in the past. She does have diabetes
+
+1122
+1:32:44,960000 --> 1:32:52,160000
+and she had a ruined why. And I have her vitals and weight, including BMI of 31 listed there.
+
+1123
+1:32:53,600000 --> 1:33:00,880000
+Based off of the screening form is VW able to start on a hormonal contraceptive pill.
+
+1124
+1:33:01,040000 --> 1:33:19,360000
+All right. So everybody said no. That is correct. And we'll go into why in just a minute,
+
+1125
+1:33:20 --> 1:33:25,680000
+which alternative hormonal contraceptive would be appropriate for VW and you can select all that
+
+1126
+1:33:25,680000 --> 1:33:27,680000
+apply.
+
+1127
+1:33:27,680000 --> 1:33:57,360000
+Okay. So we got a wide array, mostly focused on IUD
+
+1128
+1:33:57,360000 --> 1:34:06,160000
+implant and the DMPI. So specifically for this patient, she does have a BMI greater than 30.
+
+1129
+1:34:06,160000 --> 1:34:12
+So we do need to be aware of that with some of our products. And then she also had a ruined
+
+1130
+1:34:12 --> 1:34:19,600000
+why procedure, which is a malabsorptive procedure, gastric bypass, which does list our progesterone
+
+1131
+1:34:19,600000 --> 1:34:26,160000
+only pills as well as our combined oral contraceptives as a level three.
+
+1132
+1:34:28,080000 --> 1:34:34,800000
+So because of this, we would not necessarily be able to initiate any of our pill options,
+
+1133
+1:34:34,800000 --> 1:34:40,240000
+which everybody got. And then as far as the ring and the implant, there is data out there
+
+1134
+1:34:40,800000 --> 1:34:46,480000
+similar to what we have discussed with a lot of the products today, where we are either lacking
+
+1135
+1:34:46,480000 --> 1:34:54
+information regarding patients with a BMI above 30 or there's decreased efficacy or increased risk
+
+1136
+1:34:54 --> 1:35:00,480000
+of BTE. And so that is what we're seeing with both of our combined hormonal contraceptive rings,
+
+1137
+1:35:00,480000 --> 1:35:06,160000
+as well as the implant, which I know we didn't go over today since it wasn't a newer product,
+
+1138
+1:35:06,160000 --> 1:35:12,160000
+but it does have decreased efficacy when patients have an ideal body weight less than 100 or over
+
+1139
+1:35:12,560000 --> 1:35:18,960000
+130% of their ideal body weight. So just a few kind of unique aspects when it comes to selecting
+
+1140
+1:35:18,960000 --> 1:35:24,160000
+these products that we may need to think through. And with that, I'll turn it over to Dr. Anderson
+
+1141
+1:35:24,160000 --> 1:35:25,760000
+for our last two scenarios.
+
+1142
+1:35:32,240000 --> 1:35:37,920000
+All right. Scenario five was a 20-year-old who filled out
+
+1143
+1:35:38,560000 --> 1:35:47,520000
+that her last period has been a little while since she gave birth to a baby 14 days ago and has been breastfeeding.
+
+1144
+1:35:47,520000 --> 1:35:53,840000
+She reports that she's not currently using contraception but has used it in the past and that her preferred
+
+1145
+1:35:53,840000 --> 1:36:00,960000
+method is the vaginal ring. No health insurance, so that may play into it. Past medical history is not
+
+1146
+1:36:01,040000 --> 1:36:08,640000
+significant. It has prenatal vitamins, omega-3s. Blood pressure today is 118 number 68.
+
+1147
+1:36:09,200000 --> 1:36:14,160000
+All right. So based on the screening form, K.L. would like to be started on a vaginal ring.
+
+1148
+1:36:14,160000 --> 1:36:23,040000
+Is this an appropriate option?
+
+1149
+1:36:31,520000 --> 1:36:35,440000
+All right. The answer is in fact no.
+
+1150
+1:36:37,600000 --> 1:36:42,240000
+We'll go over wine just a bit. As the pharmacist with the clinic, you work under collaborative
+
+1151
+1:36:42,240000 --> 1:36:49,760000
+practice agreement to be able to prescribe or and or administer the different methods that are listed.
+
+1152
+1:36:50,320000 --> 1:36:56,800000
+So select all the methods that could be prescribed for K.L. at this time.
+
+1153
+1:37:00,960000 --> 1:37:23,520000
+All right.
+
+1154
+1:37:23,520000 --> 1:37:30,480000
+So it is just our progester only method. So anything that has estrogen in it, we would want to avoid
+
+1155
+1:37:30,480000 --> 1:37:36,800000
+for this individual. And here is your reasons why we have actually two things that we're looking
+
+1156
+1:37:36,800000 --> 1:37:46
+at. It's that breastfeeding piece, but there's also an area right after birth within especially
+
+1157
+1:37:46 --> 1:37:54,960000
+the first 21 days where individuals are really high risk for getting VTEs way more than you see
+
+1158
+1:37:54,960000 --> 1:38:01,360000
+with combined hormonal contraceptives more than you see with even pregnancy. And so they
+
+1159
+1:38:01,360000 --> 1:38:08,400000
+should not be on any kind of combined method at least for 21 days. And there's even like a debate
+
+1160
+1:38:08,400000 --> 1:38:17,360000
+between a little bit after that if there are any risk factors. So this would pose an unacceptable
+
+1161
+1:38:17,360000 --> 1:38:25,120000
+risk right at this moment. All right. Scenario six and then we'll be we're getting close. RS is
+
+1162
+1:38:25,680000 --> 1:38:33,360000
+27 and she doesn't remember the last day she had a period. She has a three and a half month old
+
+1163
+1:38:33,360000 --> 1:38:38,160000
+baby that she's been fully or nearly fully breastfeeding. So another breastfeeding situation,
+
+1164
+1:38:38,160000 --> 1:38:44,880000
+but we're much further out from when the baby has been born. And she has not started having
+
+1165
+1:38:44,880000 --> 1:38:50
+periods again. She purrs that she is not currently using contraception and has never been on a
+
+1166
+1:38:50 --> 1:38:56
+hormonal method before. RS's preferred method would be to start on a pill. Her past medical
+
+1167
+1:38:56 --> 1:39:01,520000
+history when she goes through the questionnaire includes gestational diabetes, migraine headaches
+
+1168
+1:39:01,520000 --> 1:39:09,600000
+without Ora's and bipolar. So she takes the motrogen does not have any allergies and her blood pressure
+
+1169
+1:39:09,600000 --> 1:39:18,720000
+today is 128 over 76. All right. So in clarifying what type of oral pill RS would like to start,
+
+1170
+1:39:18,720000 --> 1:39:24,320000
+she indicates that she would like one that contains both estrogen and progestin. So a combined oral
+
+1171
+1:39:24,320000 --> 1:39:36,960000
+pill. Given this information, would it be appropriate to prescribe a COC for RS?
+
+1172
+1:39:40,480000 --> 1:39:56,640000
+All right. Nice job. All right. We'll get into the reasons in just a bit. So here's your methods
+
+1173
+1:39:56,640000 --> 1:40:11,520000
+again. Mark all that you would be able to prescribe for RS.
+
+1174
+1:40:27,280000 --> 1:40:48,320000
+Nice. Good job. You guys did get the progestin only pill. And is the progestin injection. So
+
+1175
+1:40:49,360000 --> 1:40:54,640000
+the big things on here that we actually had quite a few, right? We're starting to get a lot more
+
+1176
+1:40:54,640000 --> 1:40:58,720000
+things that they're saying yes to. Does that mean we add them up? Does anybody know?
+
+1177
+1:40:59,920000 --> 1:41:05,360000
+Correct. Yeah. No, we don't. They're each their own individual thing that you would just look at
+
+1178
+1:41:05,360000 --> 1:41:12
+to see if you ever run into a category three or four. And so here's our different conditions
+
+1179
+1:41:12 --> 1:41:16,960000
+that we were looking over. The first one was diabetes. She had the history of diabetes,
+
+1180
+1:41:16,960000 --> 1:41:23,600000
+so no longer does. And so in that case, we're not concerned. Next one was breastfeeding. She's
+
+1181
+1:41:23,680000 --> 1:41:30
+passed that 42 days postpartum that we were discussing. So that's not a concern either.
+
+1182
+1:41:30 --> 1:41:36,480000
+The headaches, the migraines, she doesn't have auras. So again, not concerned. But the big one
+
+1183
+1:41:36,480000 --> 1:41:43,040000
+that started popping up was the lomotrigine, right? Does anybody know what the interaction is there?
+
+1184
+1:41:43,520000 --> 1:41:55,760000
+So in nearly every one of the cases for medications, and you can kind of see a little bit above it,
+
+1185
+1:41:55,760000 --> 1:42:02,480000
+where it talks about fenetone, carbon-masipine, barbiturates, that sort of thing, those actually
+
+1186
+1:42:02,480000 --> 1:42:08,960000
+all decrease the efficacy of hormonal contraceptives. And you'll actually see that that goes for both
+
+1187
+1:42:08,960000 --> 1:42:16,400000
+the POP and the CHC. But for whatever reason, the mochrigine does not interact with the
+
+1188
+1:42:16,400000 --> 1:42:23,280000
+progesterone only pill or progesterone only methods in general. It actually gets decreased. So it
+
+1189
+1:42:23,280000 --> 1:42:30,160000
+has no effect on the CHC. What it's doing is decreasing the levels of the lomotrigine in that
+
+1190
+1:42:30,160000 --> 1:42:34,880000
+case. So it's doing the opposite of what the others were doing, which was decreasing levels of the
+
+1191
+1:42:35,760000 --> 1:42:43,200000
+contraceptives, which would give us concern. We don't want to have any efficacy reduced with our
+
+1192
+1:42:43,200000 --> 1:42:50
+contraceptives. But lomotrigine, you actually, I mean, as the pharmacist, if you are working under
+
+1193
+1:42:50 --> 1:42:54,640000
+like a statewide protocol or even a protocol that just says you're not allowed to prescribe for three
+
+1194
+1:42:54,640000 --> 1:43:00,800000
+or four, then in that case, you wouldn't be able to use a CHC. But you actually will see some groups
+
+1195
+1:43:00,880000 --> 1:43:06,400000
+or doctors out there that will just increase the dose of the lomotrigine and still give them a CHC.
+
+1196
+1:43:07,120000 --> 1:43:12,160000
+So just kind of keep that in mind that that's what the interaction is doing. You as a pharmacist
+
+1197
+1:43:12,160000 --> 1:43:17,200000
+wouldn't be able to do the CHC, but a POP would be appropriate in this case. Does that make sense?
+
+1198
+1:43:18,400000 --> 1:43:27,840000
+Okay. Awesome. All right. And now we are down to questions. Looks like we've got some. All right,
+
+1199
+1:43:27,840000 --> 1:43:33,920000
+so our first one is CDC, MEC, and SPR does not include weight in their guidance. They do.
+
+1200
+1:43:36 --> 1:43:43,840000
+I would be willing to bet, however, that we are going to see more in this space because we didn't
+
+1201
+1:43:43,840000 --> 1:43:50,640000
+have a lot of good evidence. And we're starting to get a lot more studies that are indicating that
+
+1202
+1:43:50,640000 --> 1:43:57,200000
+there may be concerns, that there may be recommendations with that. I think you had one of the slides
+
+1203
+1:43:57,200000 --> 1:44:06,480000
+that brought up the obesity part. Yeah. So with the weight, you know, it seems like a lot of the
+
+1204
+1:44:06,480000 --> 1:44:16,880000
+drug studies are starting to look at that kind of on an individual basis. And so I would expect
+
+1205
+1:44:16,880000 --> 1:44:23,840000
+that there may be additional information coming, you know, for right now with the obesity data that
+
+1206
+1:44:23,920000 --> 1:44:30,480000
+is included in the US MEC, it is just a level two. So I mean, I think at that point you would need
+
+1207
+1:44:30,480000 --> 1:44:38,240000
+to look at the individual product. From what I found, the package inserts are specific to each
+
+1208
+1:44:38,240000 --> 1:44:45,280000
+individual drug and very clearly lay out, you know, why it is that recommendation. So then you could
+
+1209
+1:44:45,280000 --> 1:44:50,400000
+determine with your patient, you know, whether or not that's something that is, is it concerned
+
+1210
+1:44:50,400000 --> 1:44:57,920000
+for them or not? And you will notice, I'm sure you probably did, that the questionnaire that we
+
+1211
+1:44:57,920000 --> 1:45:04,480000
+have in Oregon doesn't actually have a section for weight, which is kind of interesting. And I think
+
+1212
+1:45:04,480000 --> 1:45:11,360000
+that is because there are no contraindications based on weight, that being said, like we've kind of
+
+1213
+1:45:11,360000 --> 1:45:16
+talked over today, I do think it's something that we're going to start seeing more and more of. And
+
+1214
+1:45:16 --> 1:45:23,040000
+I do think it's a consideration. It's not necessarily included in the protocols though. All right,
+
+1215
+1:45:23,040000 --> 1:45:30,880000
+what contraceptive options exist for someone who is AFAB, which I believe stands for assigned
+
+1216
+1:45:30,880000 --> 1:45:38,400000
+female at birth and taking testosterone for gender affirming care. And that's an absolutely great
+
+1217
+1:45:38,400000 --> 1:45:44,800000
+question. We didn't get into that today. So apologies that we didn't get into transgender care. But
+
+1218
+1:45:45,520000 --> 1:45:54
+what I think a lot of those individuals are concerned about is taking the estrogen-progestion type
+
+1219
+1:45:54 --> 1:46:01,360000
+components, right, with that testosterone. So I do believe a lot of individuals or health care
+
+1220
+1:46:01,360000 --> 1:46:08,560000
+providers will steer more towards your non-hormonal options. So maybe a copper IUD would be a fabulous
+
+1221
+1:46:08,560000 --> 1:46:14,400000
+option for that. The leave-and-orgestral IUDs, I would actually say those are also an option because
+
+1222
+1:46:14,480000 --> 1:46:20,720000
+they have that localized effect and they don't get systemic. So that would also be another option.
+
+1223
+1:46:21,440000 --> 1:46:25,760000
+And they don't have interactions because of the fact that it doesn't get systemic.
+
+1224
+1:46:28,080000 --> 1:46:33,120000
+Yeah, I was going to echo that because with most of the leave-and-orgestral IUDs,
+
+1225
+1:46:33,840000 --> 1:46:40,320000
+there's a high rate of amenorrhea that develops, especially in the third and fourth and fifth year
+
+1226
+1:46:40,320000 --> 1:46:45,200000
+that an individual would have an IUD. So that could be potentially very beneficial
+
+1227
+1:46:46,240000 --> 1:46:54,320000
+for a patient who isn't looking to have a cycle versus the copper IUD I agree is another common
+
+1228
+1:46:54,320000 --> 1:47:00,560000
+choice. But patients can actually see increased bleeding a lot of times. And so that could be
+
+1229
+1:47:02,400000 --> 1:47:08,160000
+something that's of a concern for somebody who's looking to not have a cycle at all.
+
+1230
+1:47:09,040000 --> 1:47:15,040000
+And I do, and I'm really grateful somebody brought this up because these individuals
+
+1231
+1:47:15,600000 --> 1:47:22,400000
+may in fact have the abilities to still get pregnant. So testosterone is not going to always
+
+1232
+1:47:22,400000 --> 1:47:29,120000
+provide a contraceptive effect for them. So they do still need contraception and to be thinking
+
+1233
+1:47:29,120000 --> 1:47:34,160000
+about that. So thank you for whoever brought that one up. All right, next question, any secure
+
+1234
+1:47:34,160000 --> 1:47:39,520000
+apps that you recommend to patients to track cycles, medication adherence given fears related
+
+1235
+1:47:39,520000 --> 1:47:44,720000
+to who has access to the data? I don't know of any personally. Does anybody out there know?
+
+1236
+1:47:44,720000 --> 1:47:52,400000
+Do you know of any great cycle tracking apps? I mean, I have the one that I use that I don't know
+
+1237
+1:47:52,400000 --> 1:48:03,360000
+we are. Does anybody have any other that they recommend? Sorry, I'm not able to give you one.
+
+1238
+1:48:04,960000 --> 1:48:10,160000
+And let's see, can you take self-reported blood pressure reading from the patient or
+
+1239
+1:48:10,960000 --> 1:48:15,600000
+obtain the most recent reading from their prescriber? And I'm guessing that's kind of
+
+1240
+1:48:15,600000 --> 1:48:23,600000
+getting at a telehealth sort of situation. I will say we are not quite there yet in Oregon to be
+
+1241
+1:48:23,600000 --> 1:48:30,400000
+able to do this over telehealth. But we did actually include it in our protocols so that maybe in
+
+1242
+1:48:30,480000 --> 1:48:35,840000
+the future when all the protocols are allowed to be telehealth, that that is what we could do.
+
+1243
+1:48:35,840000 --> 1:48:40,880000
+What we would do is we would have the patient take their own blood pressure at home and then
+
+1244
+1:48:40,880000 --> 1:48:46,800000
+report that to us so that we could count that as their blood pressure. So I personally think that's
+
+1245
+1:48:46,800000 --> 1:48:52,880000
+fine. I'm not saying that that's necessarily in a lot of those statewide protocols though.
+
+1246
+1:48:52,880000 --> 1:48:58,800000
+So you definitely need to stick to whatever your protocol is saying, regardless of like if it's CPA
+
+1247
+1:48:58,880000 --> 1:49:04,080000
+or your statewide protocol. So I think it would depend on that. I think it's personally fine.
+
+1248
+1:49:04,080000 --> 1:49:08,640000
+I don't know what you guys. Any other thoughts on that? Does anybody in the audience have thoughts?
+
+1249
+1:49:09,520000 --> 1:49:11,520000
+Yes.
+
+1250
+1:49:24,400000 --> 1:49:29,760000
+Awesome. I love that. No, that's another piece of information. Thank you.
+
+1251
+1:49:31,040000 --> 1:49:35,600000
+Since this session is being recorded, we should use the microphones just because it is being
+
+1252
+1:49:35,600000 --> 1:49:42,240000
+recorded for future use. But the comment was that the planned parent hit does take self-reported
+
+1253
+1:49:43,040000 --> 1:49:45,360000
+blood pressure. So that's a great resource. Thank you.
+

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Audio Recorder</title>
+<link rel="stylesheet" type="text/css" href="/static/css/style.css">
+</head>
+<body>
+<h1>Web-based Audio Recorder</h1>
+<button id="recordButton">Record</button>
+<button id="stopButton" disabled>Stop</button>
+<audio id="audioPlayback" controls></audio>
+<div id="transcript" style="margin-top: 20px; font-size: 16px; color: #333;"></div>
+<script src="https://cdn.jsdelivr.net/npm/recordrtc@5.6.2/RecordRTC.js"></script>
+<script src="/static/js/app.js"></script>
+</body>
+</html>

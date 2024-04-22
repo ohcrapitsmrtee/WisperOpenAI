@@ -1,0 +1,1738 @@
+WEBVTT
+
+1
+0:00:00 --> 0:00:02
+Hey, how's it guys?
+
+2
+0:00:02 --> 0:00:05,700000
+All right, so I think this is going to be another pretty
+
+3
+0:00:05,700000 --> 0:00:07,500000
+long tutorial.
+
+4
+0:00:07,500000 --> 0:00:11,800000
+For this video, I'm going to show you how to build a Google
+
+5
+0:00:11,800000 --> 0:00:15,200000
+Cloud transcription desktop using Python.
+
+6
+0:00:15,200000 --> 0:00:17,440000
+Now, here's going to be the stuff
+
+7
+0:00:17,440000 --> 0:00:19,500000
+that we're going to build.
+
+8
+0:00:19,500000 --> 0:00:23
+Now, despite that, this application looks very basic.
+
+9
+0:00:23 --> 0:00:26,900000
+The actual couple pretty useful features building.
+
+10
+0:00:26,900000 --> 0:00:29,800000
+So for example, now here if I click on
+
+11
+0:00:29,800000 --> 0:00:36,700000
+open files, let me put these windows on the lock-in set.
+
+12
+0:00:36,700000 --> 0:00:41
+So if I've used a Google's transcription API,
+
+13
+0:00:41 --> 0:00:46,100000
+the inner GCP has a 10 limit on how big the audio file can
+
+14
+0:00:46,100000 --> 0:00:49,500000
+be transcribed if the file is uploaded locally.
+
+15
+0:00:49,500000 --> 0:00:52,100000
+And to bypass the duration limit,
+
+16
+0:00:52,100000 --> 0:00:58,300000
+you need to upload the audio files onto Google Cloud Storage.
+
+17
+0:00:58,300000 --> 0:00:59,600000
+So let me go back.
+
+18
+0:00:59,600000 --> 0:01:02,500000
+So here we have this open files button.
+
+19
+0:01:02,500000 --> 0:01:07,400000
+If I click on the button, it's going to launch a separate window.
+
+20
+0:01:07,400000 --> 0:01:09,700000
+Then it's going to list all the audio files
+
+21
+0:01:09,700000 --> 0:01:13,300000
+that you can only have in your Google Cloud Storage.
+
+22
+0:01:13,300000 --> 0:01:16,800000
+And currently, I only have four audio files.
+
+23
+0:01:16,800000 --> 0:01:21,300000
+Now, if I go ahead and select one of the files,
+
+24
+0:01:21,300000 --> 0:01:24
+and I'll click on transcribe audio.
+
+25
+0:01:24 --> 0:01:26,200000
+Now it's going to show transcribing.
+
+26
+0:01:26,200000 --> 0:01:31,200000
+And once the transcription is finished,
+
+27
+0:01:31,200000 --> 0:01:34,200000
+we're going to see that for this audio file,
+
+28
+0:01:34,200000 --> 0:01:37,200000
+we got built for 74 seconds.
+
+29
+0:01:37,200000 --> 0:01:40,200000
+And the transcription language is going to be in English.
+
+30
+0:01:40,200000 --> 0:01:46,200000
+And here from the file menu, we can save the transcription text file
+
+31
+0:01:46,200000 --> 0:01:48,200000
+or as a SRT file.
+
+32
+0:01:48,200000 --> 0:01:50,200000
+If I were you to come to create a thing,
+
+33
+0:01:50,200000 --> 0:01:55,200000
+you know, an SRT file is such an important file to create captions.
+
+34
+0:01:55,200000 --> 0:02:00,200000
+Then we can clear the text to clear the transcription.
+
+35
+0:02:00,200000 --> 0:02:06,200000
+Now, this basically all the functionalities are built into the subcation.
+
+36
+0:02:06,200000 --> 0:02:10,200000
+And for this lesson, I'll go through every single step
+
+37
+0:02:10,200000 --> 0:02:12,200000
+from how to set up a Google Cloud project,
+
+38
+0:02:12,200000 --> 0:02:15,200000
+all the way to the app development.
+
+39
+0:02:15,200000 --> 0:02:21,200000
+All right, so me create a Python version by my first.
+
+40
+0:02:21,200000 --> 0:02:23,200000
+Oh, and here I have a note.
+
+41
+0:02:25,200000 --> 0:02:31,200000
+So the tutorial is going to be breakdown into six different steps.
+
+42
+0:02:31,200000 --> 0:02:35,200000
+All right, so let's go ahead and create the Python version environment.
+
+43
+0:02:39,200000 --> 0:02:41,200000
+And I'll name the environment,
+
+44
+0:02:41,200000 --> 0:02:43,200000
+tutorial, gck,
+
+45
+0:02:44,200000 --> 0:02:46,200000
+transcription app.
+
+46
+0:02:51,200000 --> 0:02:56,200000
+Now I want to jump into the step five to install the Python packages.
+
+47
+0:02:56,200000 --> 0:03:00,200000
+Let me see the into the directory first.
+
+48
+0:03:02,200000 --> 0:03:05,200000
+I'm going to activate the environment.
+
+49
+0:03:05,200000 --> 0:03:11,200000
+For this subcation, I'm going to be using this for Python packages.
+
+50
+0:03:11,200000 --> 0:03:14,200000
+Google Cloud speech and Google Cloud Storage.
+
+51
+0:03:14,200000 --> 0:03:19,200000
+So those are the APIs you use to work with Google Cloud speech
+
+52
+0:03:19,200000 --> 0:03:21,200000
+and Google Cloud Storage services.
+
+53
+0:03:21,200000 --> 0:03:24,200000
+And to transcribe the audio file,
+
+54
+0:03:24,200000 --> 0:03:27,200000
+we'll be using Google Cloud speech service.
+
+55
+0:03:27,200000 --> 0:03:31,200000
+All right, so here let me go ahead and install all the libraries.
+
+56
+0:03:34,200000 --> 0:03:39,200000
+PyQD6 is going to be the framework that I'm going to be using
+
+57
+0:03:39,200000 --> 0:03:41,200000
+to help in the desktop cation.
+
+58
+0:03:51,200000 --> 0:03:53,200000
+Now, here we move my resource files.
+
+59
+0:03:55,200000 --> 0:03:58,200000
+So this is going to be the desktop cation icon.
+
+60
+0:04:00,200000 --> 0:04:05,200000
+Then we have the CSS style sheet template to apply the color scheme.
+
+61
+0:04:06,200000 --> 0:04:09,200000
+And the GCP module.
+
+62
+0:04:12,200000 --> 0:04:15,200000
+This module contains several helper functions.
+
+63
+0:04:17,200000 --> 0:04:21,200000
+This function is going to list all the files in your Google Cloud Storage bucket.
+
+64
+0:04:23,200000 --> 0:04:26,200000
+And to create the SRT file,
+
+65
+0:04:26,200000 --> 0:04:32,200000
+this is the function to combine every single transcription record
+
+66
+0:04:32,200000 --> 0:04:34,200000
+into a SRT file.
+
+67
+0:04:36,200000 --> 0:04:40,200000
+And this function is used to transcribe the audio file.
+
+68
+0:04:41,200000 --> 0:04:46,200000
+And you can download the GCP.py file and the skin1.css file
+
+69
+0:04:47,200000 --> 0:04:49,200000
+from the link in the description below.
+
+70
+0:04:55,200000 --> 0:04:58,200000
+Now, here we go ahead and launch my VS code.
+
+71
+0:05:03,200000 --> 0:05:05,200000
+And I'll create a file called App.py.
+
+72
+0:05:06,200000 --> 0:05:09,200000
+Oh, should we touch the App.py?
+
+73
+0:05:14,200000 --> 0:05:16,200000
+All right, so let's see.
+
+74
+0:05:17,200000 --> 0:05:21,200000
+So what finished with item five in item one?
+
+75
+0:05:22,200000 --> 0:05:24,200000
+I'm going to...
+
+76
+0:05:25,200000 --> 0:05:28,200000
+Let's go back to Google Cloud Council.
+
+77
+0:05:28,200000 --> 0:05:32,200000
+If I'm new user, simply create account in its free.
+
+78
+0:05:33,200000 --> 0:05:38,200000
+On the home page from the dropdown, you want to create new project.
+
+79
+0:05:40,200000 --> 0:05:46,200000
+I'm going to name this project GCP transcription tutorial.
+
+80
+0:05:48,200000 --> 0:05:52,200000
+I'll show us the GCP transcription app tutorial.
+
+81
+0:05:54,200000 --> 0:05:56,200000
+Then create the project.
+
+82
+0:05:59,200000 --> 0:06:03,200000
+And once the project is created, you want to select the project.
+
+83
+0:06:03,200000 --> 0:06:08,200000
+Or you can go back to the dropdown and select the project.
+
+84
+0:06:09,200000 --> 0:06:11,200000
+Now, let's enable the API services.
+
+85
+0:06:12,200000 --> 0:06:14,200000
+So click on navigation menu.
+
+86
+0:06:14,200000 --> 0:06:17,200000
+They want to go to APIs and services.
+
+87
+0:06:17,200000 --> 0:06:19,200000
+Then click on library.
+
+88
+0:06:21,200000 --> 0:06:24,200000
+Now, search for Cloud Storage.
+
+89
+0:06:29,200000 --> 0:06:31,200000
+Oh, and should we go back?
+
+90
+0:06:31,200000 --> 0:06:34,200000
+It should be Google Cloud Storage.
+
+91
+0:06:36,200000 --> 0:06:39,200000
+And go ahead and enable the first two APIs.
+
+92
+0:06:39,200000 --> 0:06:43,200000
+Cloud Storage and Google Cloud Storage JSON API.
+
+93
+0:06:45,200000 --> 0:06:48,200000
+And I account these two APIs that already enable.
+
+94
+0:06:48,200000 --> 0:06:51,200000
+So I'm going to close both tabs.
+
+95
+0:06:53,200000 --> 0:06:56,200000
+And the other one is going to be Google Cloud.
+
+96
+0:06:56,200000 --> 0:07:01,200000
+Let's try Google Cloud speech.
+
+97
+0:07:03,200000 --> 0:07:06,200000
+It will be the Cloud speech to text API.
+
+98
+0:07:07,200000 --> 0:07:11,200000
+And the Cloud speech to text API is project-specific.
+
+99
+0:07:11,200000 --> 0:07:13,200000
+So I'm going to enable the API.
+
+100
+0:07:15,200000 --> 0:07:17,200000
+I'm going to enable billing.
+
+101
+0:07:18,200000 --> 0:07:23,200000
+And I believe that I would exceed the project element.
+
+102
+0:07:23,200000 --> 0:07:26,200000
+Now, let's assume that we create a project.
+
+103
+0:07:26,200000 --> 0:07:30,200000
+And you set up your billing information that tied to the project.
+
+104
+0:07:30,200000 --> 0:07:35,200000
+And I'll go ahead and select my Google Cloud demo project.
+
+105
+0:07:35,200000 --> 0:07:40,200000
+And under this project, the Cloud speech to text API is already enabled.
+
+106
+0:07:40,200000 --> 0:07:47,200000
+Now, I need to create a service account and download the JSON file of the service account.
+
+107
+0:07:47,200000 --> 0:07:49,200000
+So go back to navigation menu.
+
+108
+0:07:49,200000 --> 0:07:53,200000
+I want to go back to APIs and services.
+
+109
+0:07:53,200000 --> 0:07:55,200000
+And here, click on credentials.
+
+110
+0:08:02,200000 --> 0:08:05,200000
+On the top, click on create.
+
+111
+0:08:05,200000 --> 0:08:07,200000
+And choose service account.
+
+112
+0:08:12,200000 --> 0:08:14,200000
+Now, here, give the account a name.
+
+113
+0:08:14,200000 --> 0:08:17,200000
+Our name is GCP subscription demo.
+
+114
+0:08:17,200000 --> 0:08:19,200000
+And create and continue.
+
+115
+0:08:19,200000 --> 0:08:24,200000
+Now, here, you can assign a road to this account.
+
+116
+0:08:24,200000 --> 0:08:26,200000
+And you can also create a site.
+
+117
+0:08:26,200000 --> 0:08:28,200000
+And you can also create a site.
+
+118
+0:08:29,200000 --> 0:08:31,200000
+And create and continue.
+
+119
+0:08:31,200000 --> 0:08:35,200000
+Now, here, you can assign a road to this account.
+
+120
+0:08:35,200000 --> 0:08:39,200000
+But for demonstration purpose, I'm going to choose owner.
+
+121
+0:08:39,200000 --> 0:08:42,200000
+Which gives me full access.
+
+122
+0:08:42,200000 --> 0:08:45,200000
+And continue.
+
+123
+0:08:45,200000 --> 0:08:49,200000
+And click on done to finish the setup.
+
+124
+0:08:49,200000 --> 0:08:56,200000
+Now, from the service accounts list, I'm going to click into the account that I just created.
+
+125
+0:08:58,200000 --> 0:09:00,200000
+Now, here, I want to click on keys.
+
+126
+0:09:00,200000 --> 0:09:02,200000
+And click on the key.
+
+127
+0:09:02,200000 --> 0:09:05,200000
+Then, I want to create a new key.
+
+128
+0:09:05,200000 --> 0:09:09,200000
+For the key, type choose JSON and create.
+
+129
+0:09:09,200000 --> 0:09:15,200000
+Now, I'm going to ask you to save the file.
+
+130
+0:09:15,200000 --> 0:09:20,200000
+And I'm going to save the file in our project folder.
+
+131
+0:09:20,200000 --> 0:09:27,200000
+And I will name the file to service account demo.
+
+132
+0:09:28,200000 --> 0:09:33,200000
+Now, we need to create an environment variable.
+
+133
+0:09:33,200000 --> 0:09:40,200000
+So, I'm going to first create an environment variable file called .env.
+
+134
+0:09:40,200000 --> 0:09:51,200000
+Then, I'm going to create an environment variable code.
+
+135
+0:09:52,200000 --> 0:09:55,200000
+Then, I'm going to create an environment variable code.
+
+136
+0:09:55,200000 --> 0:09:59,200000
+Google application credentials.
+
+137
+0:09:59,200000 --> 0:10:08,200000
+I'm going to assign the file path pointing to the service account demo.json file.
+
+138
+0:10:08,200000 --> 0:10:11,200000
+And save the file.
+
+139
+0:10:11,200000 --> 0:10:15,200000
+Now, we can dive into the app development.
+
+140
+0:10:15,200000 --> 0:10:19,200000
+All right, so let me go ahead and import the libraries.
+
+141
+0:10:20,200000 --> 0:10:23,200000
+So, first, I'm going to import the system module.
+
+142
+0:10:23,200000 --> 0:10:27,200000
+Then, I'm going to import all the PyQT packages.
+
+143
+0:10:27,200000 --> 0:10:32,200000
+And all these will be the libraries that I'll be using to create the application.
+
+144
+0:10:32,200000 --> 0:10:34,200000
+And they should climb in.
+
+145
+0:10:34,200000 --> 0:10:39,200000
+And from GCP module, I'm going to import transcribe GCS,
+
+146
+0:10:39,200000 --> 0:10:41,200000
+with language detection,
+
+147
+0:10:41,200000 --> 0:10:44,200000
+list files in GCP bucket with UI,
+
+148
+0:10:44,200000 --> 0:10:47,200000
+and convert response to SRT.
+
+149
+0:10:47,200000 --> 0:10:52,200000
+This tree function is going to be the core functions to power out the application.
+
+150
+0:10:52,200000 --> 0:10:55,200000
+Now, here, let's create the application window.
+
+151
+0:10:55,200000 --> 0:10:58,200000
+Now, if we look at the constructor,
+
+152
+0:10:58,200000 --> 0:11:01,200000
+the recessed method is going to recize the window,
+
+153
+0:11:01,200000 --> 0:11:03,200000
+we'll launch the application,
+
+154
+0:11:03,200000 --> 0:11:05,200000
+and it's going to be window title,
+
+155
+0:11:05,200000 --> 0:11:08,200000
+and it's going to set the window icon.
+
+156
+0:11:08,200000 --> 0:11:12,200000
+And I'm going to insert my ng-point.
+
+157
+0:11:13,200000 --> 0:11:18,200000
+I'm going to create two variables to set the font size,
+
+158
+0:11:18,200000 --> 0:11:22,200000
+as well as the location where the icon is located.
+
+159
+0:11:22,200000 --> 0:11:25,200000
+They will need to create this in a QR-cation instance
+
+160
+0:11:25,200000 --> 0:11:28,200000
+to keep the process running in the background.
+
+161
+0:11:28,200000 --> 0:11:31,200000
+So, this is basically the event loop.
+
+162
+0:11:31,200000 --> 0:11:35,200000
+And when we close the application, we need to terminate the process
+
+163
+0:11:35,200000 --> 0:11:39,200000
+by using system.exe, and we'll pass the process ID.
+
+164
+0:11:39,200000 --> 0:11:42,200000
+And to set the global fonts.
+
+165
+0:11:42,200000 --> 0:11:47,200000
+So, here we need to grab the font property from the application first.
+
+166
+0:11:47,200000 --> 0:11:50,200000
+Then we can modify the font size,
+
+167
+0:11:50,200000 --> 0:11:54,200000
+and we apply the font setting to the application instance.
+
+168
+0:11:54,200000 --> 0:11:59,200000
+And these two lines is going to be used to create the application window instance
+
+169
+0:11:59,200000 --> 0:12:02,200000
+and to display the application.
+
+170
+0:12:02,200000 --> 0:12:06,200000
+Now, if we go in the round script,
+
+171
+0:12:06,200000 --> 0:12:08,200000
+and that's your launch the application.
+
+172
+0:12:08,200000 --> 0:12:15,200000
+Oh, and in set style, it's going to basically set the overall look
+
+173
+0:12:15,200000 --> 0:12:18,200000
+based on one of the default styles.
+
+174
+0:12:18,200000 --> 0:12:20,200000
+And I can remember what styles are available.
+
+175
+0:12:20,200000 --> 0:12:24,200000
+But I know future is going to be the one where it's going to make the application
+
+176
+0:12:24,200000 --> 0:12:28,200000
+look more modern.
+
+177
+0:12:28,200000 --> 0:12:34,200000
+Now, here I'm going to create an attribute to store the transcription results.
+
+178
+0:12:34,200000 --> 0:12:37,200000
+I'm going to set the default to none.
+
+179
+0:12:37,200000 --> 0:12:40,200000
+I'm going to create a method code in that UI.
+
+180
+0:12:40,200000 --> 0:12:45,200000
+And this method is going to be used to insert the widgets.
+
+181
+0:12:45,200000 --> 0:12:51,200000
+Now, here we need to code the in that UI method.
+
+182
+0:12:51,200000 --> 0:12:54,200000
+Now, if we look at the in that UI method,
+
+183
+0:12:54,200000 --> 0:12:58,200000
+so here I'm creating a dictionary to save different layouts.
+
+184
+0:12:58,200000 --> 0:13:03,200000
+And 12 the lesson, I'll be using different layouts to organize my widgets.
+
+185
+0:13:03,200000 --> 0:13:09,200000
+And the main layout is going to be the layer organize that I'll be using as the base.
+
+186
+0:13:09,200000 --> 0:13:11,200000
+Now, let me do this.
+
+187
+0:13:11,200000 --> 0:13:18,200000
+I'm going to put the app and code editor side by side.
+
+188
+0:13:18,200000 --> 0:13:24,200000
+transcription output is going to be this output text box right here.
+
+189
+0:13:24,200000 --> 0:13:27,200000
+I'm going to set that to read only.
+
+190
+0:13:28,200000 --> 0:13:35,200000
+And Q line editor and the upload push button is going to be the file input text.
+
+191
+0:13:35,200000 --> 0:13:40,200000
+So this text box right here is going to be the file path editor widget.
+
+192
+0:13:40,200000 --> 0:13:46,200000
+And the upload button is going to be this a transcribed audio button.
+
+193
+0:13:46,200000 --> 0:13:52,200000
+And from the upload button that click signal, I want to run this function here.
+
+194
+0:13:52,200000 --> 0:13:54,200000
+Open GCS files window.
+
+195
+0:13:54,200000 --> 0:13:57,200000
+And I haven't created the window yet.
+
+196
+0:13:57,200000 --> 0:14:00,200000
+So let me go ahead and mark this as to do.
+
+197
+0:14:00,200000 --> 0:14:08,200000
+And to place both the file path at a Q line editor widget and the upload button.
+
+198
+0:14:08,200000 --> 0:14:10,200000
+And actually, this is a typo.
+
+199
+0:14:10,200000 --> 0:14:16,200000
+This should be open GCS file button.
+
+200
+0:14:16,200000 --> 0:14:18,200000
+So actually, let's do bucket.
+
+201
+0:14:19,200000 --> 0:14:26,200000
+I'm going to create a horizontal bus layer manager.
+
+202
+0:14:26,200000 --> 0:14:30,200000
+And I'll name this as self dial layer, while upload.
+
+203
+0:14:30,200000 --> 0:14:35,200000
+I'm going to stack the layer on top of the main layer.
+
+204
+0:14:35,200000 --> 0:14:46,200000
+I'm going to insert both file path editor Q line editor widget and open GCS bucket button widget to the file upload layer.
+
+205
+0:14:47,200000 --> 0:14:54,200000
+When you insert both widgets, the file upload manager is going to resize both widgets evenly.
+
+206
+0:14:54,200000 --> 0:15:00,200000
+And I want the text bus to be much wider than the push button.
+
+207
+0:15:00,200000 --> 0:15:10,200000
+So here using set stretch method, I can use this method to control the ratio of each widget in the layer manager.
+
+208
+0:15:10,200000 --> 0:15:17,200000
+So basically, I'm setting the first widget, which is going to be the first widget got inserted to be 90%.
+
+209
+0:15:17,200000 --> 0:15:22,200000
+So basically, it's going to be the total ratio allocation that you assign.
+
+210
+0:15:22,200000 --> 0:15:27,200000
+In this case, I'm using 90 plus 10 to add out to 100.
+
+211
+0:15:27,200000 --> 0:15:34,200000
+And for the second widget, I'm going to set this to 10% of the total allocation.
+
+212
+0:15:34,200000 --> 0:15:43,200000
+Then I'm going to insert the output text bus to the main widget directly, which is going to be the control right in the middle.
+
+213
+0:15:43,200000 --> 0:15:49,200000
+Then I'm going to create both the transcription button and the clear text push button.
+
+214
+0:15:49,200000 --> 0:15:58,200000
+Now, if I need to pike QD framework, you can assign a shortcut key by inserting the emphasis symbol next to the ladder that you want to assign.
+
+215
+0:15:58,200000 --> 0:16:03,200000
+And here I'm setting the minimum width of the clear button to 120.
+
+216
+0:16:03,200000 --> 0:16:18,200000
+And because I don't want to resize the clear button, when I resize the window, and here we can use this set size power to set how the widget is going to get resized when we resizing a window.
+
+217
+0:16:18,200000 --> 0:16:25,200000
+So now this in that here, the clear text button dengue resize.
+
+218
+0:16:25,200000 --> 0:16:31,200000
+Then I'm going to create another horizontal bus layer, and I'm going to name the layer as button layer.
+
+219
+0:16:31,200000 --> 0:16:36,200000
+Then I'm going to insert both buttons to the button layer.
+
+220
+0:16:36,200000 --> 0:16:40,200000
+And for the ratio, I'm going to set that to 60, 40.
+
+221
+0:16:40,200000 --> 0:16:44,200000
+Then I'm going to stack the layer to the main layer.
+
+222
+0:16:44,200000 --> 0:16:47,200000
+And finally, I'm going to create the studs bar.
+
+223
+0:16:47,200000 --> 0:16:54,200000
+Now, to create the menu, I'm using Q-men window as the base widget.
+
+224
+0:16:54,200000 --> 0:16:59,200000
+So the Q-men window widget, you can see Q-men window class.
+
+225
+0:16:59,200000 --> 0:17:07,200000
+This is a template that already has menu and studs bar built in.
+
+226
+0:17:07,200000 --> 0:17:14,200000
+And here I see I can reference the studs bar widget directly.
+
+227
+0:17:14,200000 --> 0:17:16,200000
+Yeah, let me put that back.
+
+228
+0:17:17,200000 --> 0:17:20,200000
+Actually, let me take out these two lines.
+
+229
+0:17:20,200000 --> 0:17:28,200000
+Emi, try, sell the studs bar.
+
+230
+0:17:28,200000 --> 0:17:32,200000
+Emi run the application.
+
+231
+0:17:32,200000 --> 0:17:34,200000
+Emi do this.
+
+232
+0:17:34,200000 --> 0:17:40,200000
+So I'm going to display a dummy message online.
+
+233
+0:17:40,200000 --> 0:17:42,200000
+Okay, so it's there.
+
+234
+0:17:43,200000 --> 0:17:48,200000
+So I'm going to reference the studs bar that is already building.
+
+235
+0:17:48,200000 --> 0:17:53,200000
+And I'll name this studs.
+
+236
+0:17:53,200000 --> 0:18:00,200000
+Then I'm going to create the menu bar by referencing sub-dom menu bar.
+
+237
+0:18:00,200000 --> 0:18:03,200000
+And I'll name the references sub-dom menu.
+
+238
+0:18:03,200000 --> 0:18:10,200000
+Then we can add the file menu to the menu bar.
+
+239
+0:18:10,200000 --> 0:18:14,200000
+And I think that will basically create everything.
+
+240
+0:18:14,200000 --> 0:18:20,200000
+And I don't see the push button get created.
+
+241
+0:18:20,200000 --> 0:18:28,200000
+Okay, so here I create the base layout.
+
+242
+0:18:28,200000 --> 0:18:34,200000
+But I forgot to apply the base layout.
+
+243
+0:18:34,200000 --> 0:18:39,200000
+Now using Q-men window class, I'm going to create a blank window.
+
+244
+0:18:39,200000 --> 0:18:42,200000
+Using Q-widget widget.
+
+245
+0:18:42,200000 --> 0:18:45,200000
+And can synthesis a blank window.
+
+246
+0:18:45,200000 --> 0:18:50,200000
+And to be able to apply my base layout here.
+
+247
+0:18:50,200000 --> 0:18:53,200000
+And just go to the bottom.
+
+248
+0:18:53,200000 --> 0:19:00,200000
+From the base window, I can use the set layer method to apply the layer measure.
+
+249
+0:19:00,200000 --> 0:19:06,200000
+And the reason why I'm doing this because Q-men window class does not have set layer
+
+250
+0:19:06,200000 --> 0:19:10,200000
+or method to allow me to directly organize the widgets.
+
+251
+0:19:10,200000 --> 0:19:16,200000
+Alright, so if I launch the application, now here's my application interface.
+
+252
+0:19:16,200000 --> 0:19:21,200000
+Now so far so good I guess.
+
+253
+0:19:21,200000 --> 0:19:27,200000
+Now let's create the window to display the files.
+
+254
+0:19:27,200000 --> 0:19:32,200000
+Alright, so here I'm going to create a class called class storage files window.
+
+255
+0:19:32,200000 --> 0:19:35,200000
+And I'll use Q-widget class as the base class.
+
+256
+0:19:35,200000 --> 0:19:41,200000
+So this is going to be a blank window that does not have a built-in file meaning or start
+
+257
+0:19:41,200000 --> 0:19:42,200000
+bar.
+
+258
+0:19:42,200000 --> 0:19:48,200000
+Now inside the class, I want to create a single code file select.
+
+259
+0:19:48,200000 --> 0:19:55,200000
+Now inside the constructor, I'm going to set the window title, window icon, window size.
+
+260
+0:19:56,200000 --> 0:20:03,200000
+And we can use set style shimmy fit to apply the CSS style sheet.
+
+261
+0:20:03,200000 --> 0:20:08,200000
+Then I'm going to create a layout using Q-fee box layer class.
+
+262
+0:20:08,200000 --> 0:20:17,200000
+And to display the files, I'm going to create a list box using Q-list widget.
+
+263
+0:20:17,200000 --> 0:20:23,200000
+Now here the reason why I'm giving the list widget object a name called file list widget
+
+264
+0:20:23,200000 --> 0:20:28,200000
+is that I can directly apply CSS style sheet to that object only.
+
+265
+0:20:28,200000 --> 0:20:35,200000
+Now if you have multiple list box widgets, if you change the object name to the class name,
+
+266
+0:20:35,200000 --> 0:20:41,200000
+then it's going to apply the CSS style sheet to every single list widget.
+
+267
+0:20:41,200000 --> 0:20:48,200000
+And by using object name, I can only apply my CSS style sheet to a specific list widget.
+
+268
+0:20:49,200000 --> 0:20:59,200000
+And these two properties are used to apply CSS style sheet to here let me show you.
+
+269
+0:20:59,200000 --> 0:21:07,200000
+So for example, when you select item, and that's going to be item select property.
+
+270
+0:21:07,200000 --> 0:21:12,200000
+And the item property is going to set the bottom border to one pixel.
+
+271
+0:21:13,200000 --> 0:21:22,200000
+And I don't know why I have this right here, me, come out style sheet and use the CSS style sheet directly.
+
+272
+0:21:28,200000 --> 0:21:37,200000
+Then I'm going to add the list box to the layer object, which is going to be this layer object right here.
+
+273
+0:21:38,200000 --> 0:21:41,200000
+Followed by the push button and the close button.
+
+274
+0:21:41,200000 --> 0:21:46,200000
+Then we need to use set layer method to apply the layer.
+
+275
+0:21:46,200000 --> 0:21:54,200000
+Now to configure the signals, I'm going to create a method called config signals.
+
+276
+0:21:54,200000 --> 0:21:57,200000
+So you can see a signal is a trigger.
+
+277
+0:21:57,200000 --> 0:22:05,200000
+For example, from the sled button, I have this click trigger that when I click on the push button,
+
+278
+0:22:05,200000 --> 0:22:07,200000
+the trigger is going to fire.
+
+279
+0:22:07,200000 --> 0:22:10,200000
+They want to run this function right here.
+
+280
+0:22:10,200000 --> 0:22:16,200000
+And the item double click trigger is going to run this method right here.
+
+281
+0:22:16,200000 --> 0:22:21,200000
+So basically we have two different triggers that close the same function.
+
+282
+0:22:21,200000 --> 0:22:24,200000
+And the close button is going to close the window.
+
+283
+0:22:24,200000 --> 0:22:28,200000
+Now I'm going to create the sled file method.
+
+284
+0:22:28,200000 --> 0:22:31,200000
+And it's a pretty straightforward method.
+
+285
+0:22:31,200000 --> 0:22:34,200000
+And the procedure is pretty straightforward.
+
+286
+0:22:34,200000 --> 0:22:42,200000
+So basically I'm getting the text from the sled item from the list widget.
+
+287
+0:22:42,200000 --> 0:22:54,200000
+Then I'm going to pass the file name by referencing the file sled signal in which I created in the beginning.
+
+288
+0:22:54,200000 --> 0:22:59,200000
+And to populate the file list,
+
+289
+0:22:59,200000 --> 0:23:03,200000
+I'm going to create a method called populate file list.
+
+290
+0:23:03,200000 --> 0:23:11,200000
+In instance, my family going to hard code the bargaining as well as the extensions that I want to display.
+
+291
+0:23:11,200000 --> 0:23:20,200000
+Then using the list files in GCS bucket with your eye, I'm going to supply the bargaining and the extension list.
+
+292
+0:23:20,200000 --> 0:23:29,200000
+And once I have the list, I'm going to add the list to the file list widget right here.
+
+293
+0:23:29,200000 --> 0:23:38,200000
+Right. So yeah, when we launched the second window, we need to configure the signals first.
+
+294
+0:23:38,200000 --> 0:23:44,200000
+And we're going to populate the file list.
+
+295
+0:23:44,200000 --> 0:23:53,200000
+And we're basically done with the way this class right here.
+
+296
+0:23:53,200000 --> 0:24:02,200000
+So I'm going to go back and I'll finish this method here, open GCS files window.
+
+297
+0:24:02,200000 --> 0:24:07,200000
+So we go in the bookmark right here.
+
+298
+0:24:07,200000 --> 0:24:10,200000
+Now, to launch the window, there are the files.
+
+299
+0:24:10,200000 --> 0:24:14,200000
+I'll create my cloud storage files windows object first.
+
+300
+0:24:14,200000 --> 0:24:17,200000
+And this file slide the trigger.
+
+301
+0:24:17,200000 --> 0:24:22,200000
+Now remember that trigger is going to receive the file path.
+
+302
+0:24:23,200000 --> 0:24:28,200000
+Where the audio file is located.
+
+303
+0:24:28,200000 --> 0:24:38,200000
+So we need to create another method to populate the file path in the text field right here.
+
+304
+0:24:38,200000 --> 0:24:41,200000
+So let's create the set file path method.
+
+305
+0:24:41,200000 --> 0:24:45,200000
+Now, this method takes file path as an argument.
+
+306
+0:24:45,200000 --> 0:24:48,200000
+So we're going to reference the file path at the option.
+
+307
+0:24:48,200000 --> 0:24:52,200000
+Then using the set text, we're going to consider a file path.
+
+308
+0:24:52,200000 --> 0:24:55,200000
+Then close the second window.
+
+309
+0:24:55,200000 --> 0:24:58,200000
+Now I can uncomly this line here.
+
+310
+0:24:58,200000 --> 0:25:00,200000
+And this one's finished.
+
+311
+0:25:00,200000 --> 0:25:03,200000
+All right, so let's give it a try.
+
+312
+0:25:03,200000 --> 0:25:14,200000
+I can open the file and I'll display all the audio files in my Google cloud storage bucket.
+
+313
+0:25:14,200000 --> 0:25:18,200000
+Now, if I go in the add a new file.
+
+314
+0:25:18,200000 --> 0:25:28,200000
+So I just add a new file code change AWS account in VS.mp3.
+
+315
+0:25:28,200000 --> 0:25:37,200000
+Now, if I open the window again and the new file is now added to my list.
+
+316
+0:25:37,200000 --> 0:25:44,200000
+So I want to test out the functionalities of sliding a file.
+
+317
+0:25:44,200000 --> 0:25:54,200000
+Okay, so everything was pretty good so far.
+
+318
+0:25:54,200000 --> 0:25:59,200000
+Now I'm going to close the other app.
+
+319
+0:25:59,200000 --> 0:26:05,200000
+Now we need to work on the functionality of transcribing audio.
+
+320
+0:26:05,200000 --> 0:26:10,200000
+Now to transcribe the audio, I'm going to use a thread.
+
+321
+0:26:10,200000 --> 0:26:13,200000
+All right, so go to the top.
+
+322
+0:26:13,200000 --> 0:26:16,200000
+I'm going to create a classical transcription thread.
+
+323
+0:26:16,200000 --> 0:26:20,200000
+And I'll pass QDRA class as the base class.
+
+324
+0:26:20,200000 --> 0:26:25,200000
+Now inside the transcription DRA class, I'm going to create two signals.
+
+325
+0:26:25,200000 --> 0:26:32,200000
+One signal is going to be used to pass the infection when the transcription is complete.
+
+326
+0:26:32,200000 --> 0:26:35,200000
+And the other signal is going to pass the infection.
+
+327
+0:26:35,200000 --> 0:26:40,200000
+In this case will be the exception class when the transcription fail.
+
+328
+0:26:40,200000 --> 0:26:43,200000
+You can see the transcription DRA class as a function.
+
+329
+0:26:43,200000 --> 0:26:49,200000
+And with the class, we're going to pass the audio UI as the argument.
+
+330
+0:26:49,200000 --> 0:26:57,200000
+Then we're going to create this a run method to perform the transcription using transcribed GCS with language detection method.
+
+331
+0:26:57,200000 --> 0:27:01,200000
+Using transcribed GCS with language detection function.
+
+332
+0:27:01,200000 --> 0:27:04,200000
+It will pass the audio files UI.
+
+333
+0:27:04,200000 --> 0:27:10,200000
+And once the transcription is complete and the response is going to be a dictionary.
+
+334
+0:27:10,200000 --> 0:27:15,200000
+And we're going to pass the dictionary to the transcription down trigger.
+
+335
+0:27:15,200000 --> 0:27:21,200000
+Now if the transcription fail, then it's going to happen in the exception block.
+
+336
+0:27:21,200000 --> 0:27:26,200000
+Then we can pass the exception using transcription fail trigger.
+
+337
+0:27:26,200000 --> 0:27:32,200000
+And this one will have two triggers because it's easier to identify the events.
+
+338
+0:27:32,200000 --> 0:27:39,200000
+Now we can go back to the app.
+
+339
+0:27:39,200000 --> 0:27:43,200000
+And here I can create the transcribed voice method.
+
+340
+0:27:43,200000 --> 0:27:48,200000
+So first we're going to grab the files UI.
+
+341
+0:27:48,200000 --> 0:27:55,200000
+Now if the UI is empty or it's not available, then we're going to display a message using a start spot.
+
+342
+0:27:55,200000 --> 0:27:58,200000
+Please select a file to transcribe.
+
+343
+0:27:58,200000 --> 0:28:03,200000
+Otherwise, we're going to disable the buttons.
+
+344
+0:28:03,200000 --> 0:28:12,200000
+So let's go ahead and insert the disabled buttons and enable buttons methods.
+
+345
+0:28:12,200000 --> 0:28:15,200000
+Now if we look at these two methods, they work very similar.
+
+346
+0:28:15,200000 --> 0:28:21,200000
+So basically I'm aerating each push button object in the application.
+
+347
+0:28:21,200000 --> 0:28:26,200000
+Then I can use set disabled method to disable the buttons.
+
+348
+0:28:26,200000 --> 0:28:31,200000
+And to enable the buttons, we'll basically set the value to false.
+
+349
+0:28:31,200000 --> 0:28:39,200000
+Now going back, and once we disable the buttons, I'm going to show a message transcribing.
+
+350
+0:28:39,200000 --> 0:28:43,200000
+Then I'm going to create a thread and I'll pass the audio files UI.
+
+351
+0:28:43,200000 --> 0:28:50,200000
+Then I'm going to assign transcription down method to the transcription down trigger.
+
+352
+0:28:50,200000 --> 0:28:56,200000
+So basically I have two methods to handle these two different events individually.
+
+353
+0:28:56,200000 --> 0:29:03,200000
+And for the transcription failed trigger, I'm going to run this transcription failed method.
+
+354
+0:29:03,200000 --> 0:29:07,200000
+And it starts going to run the thread function.
+
+355
+0:29:07,200000 --> 0:29:16,200000
+So basically the start method is going to trigger the run method in the QDWA class.
+
+356
+0:29:21,200000 --> 0:29:26,200000
+Now let's go ahead and create these two methods.
+
+357
+0:29:26,200000 --> 0:29:33,200000
+So if we look at the transcription down method, when the transcription is complete, we want
+
+358
+0:29:33,200000 --> 0:29:37,200000
+to measure that we have enabled all the buttons.
+
+359
+0:29:37,200000 --> 0:29:42,200000
+Now in case if the transcription response is not stationary,
+
+360
+0:29:42,200000 --> 0:29:47,200000
+they want to display the image from the transcription argument.
+
+361
+0:29:48,200000 --> 0:29:52,200000
+Otherwise, we can assume that the transcription went to successfully.
+
+362
+0:29:52,200000 --> 0:29:57,200000
+And we can grab the transcription result from the transcript key.
+
+363
+0:29:57,200000 --> 0:30:01,200000
+Then I'm going to concatenate the image into a single string.
+
+364
+0:30:01,200000 --> 0:30:06,200000
+Then I'll clear the output text box and paste the transcription text.
+
+365
+0:30:06,200000 --> 0:30:13,200000
+Then I'm going to display the building information and the launch code.
+
+366
+0:30:13,200000 --> 0:30:19,200000
+But if the transcription failed, I'm going to enable the buttons.
+
+367
+0:30:19,200000 --> 0:30:24,200000
+Now instead I'm going to simply display the image message.
+
+368
+0:30:24,200000 --> 0:30:28,200000
+Or in the clear text button.
+
+369
+0:30:28,200000 --> 0:30:33,200000
+So let's go ahead and create a method to clear the text.
+
+370
+0:30:33,200000 --> 0:30:34,200000
+And it's pretty straightforward.
+
+371
+0:30:34,200000 --> 0:30:38,200000
+So basically we'll just reference the output text box.
+
+372
+0:30:39,200000 --> 0:30:44,200000
+And we'll assign the method to with the signals.
+
+373
+0:30:46,200000 --> 0:30:48,200000
+Give me a second.
+
+374
+0:30:51,200000 --> 0:30:58,200000
+Right, so I think I haven't created a config signal method under this class.
+
+375
+0:30:58,200000 --> 0:31:03,200000
+So let me go ahead and create a config signal method.
+
+376
+0:31:04,200000 --> 0:31:11,200000
+So I'm going to assign the transcribed voice method to the transcribed button that clicks in the trigger.
+
+377
+0:31:11,200000 --> 0:31:16,200000
+And for the clear button, I'm going to assign the clear text method.
+
+378
+0:31:18,200000 --> 0:31:21,200000
+Right, so let me do a test run.
+
+379
+0:31:21,200000 --> 0:31:23,200000
+And I'll open the file.
+
+380
+0:31:23,200000 --> 0:31:27,200000
+Now I'm going to choose a smaller file.
+
+381
+0:31:27,200000 --> 0:31:32,200000
+Okay, so this one here.
+
+382
+0:31:32,200000 --> 0:31:36,200000
+So I'm going to transcribe this audio right here.
+
+383
+0:31:36,200000 --> 0:31:39,200000
+A woman entire for the digital age.
+
+384
+0:31:45,200000 --> 0:31:52,200000
+Okay, I know why because I the encoder config signal in the constructor.
+
+385
+0:32:03,200000 --> 0:32:07,200000
+Okay, so now I'm showing transcribing in the start spot.
+
+386
+0:32:08,200000 --> 0:32:13,200000
+And I also have a print statement from the GCP module right here.
+
+387
+0:32:19,200000 --> 0:32:22,200000
+And it's like the transcription is a success.
+
+388
+0:32:22,200000 --> 0:32:24,200000
+And here's the output text.
+
+389
+0:32:24,200000 --> 0:32:27,200000
+Now, we'll must finish with the application development.
+
+390
+0:32:27,200000 --> 0:32:31,200000
+The last thing we need to do here is we need to config the file menu.
+
+391
+0:32:33,200000 --> 0:32:46,200000
+Now going back to the config signal method, I'm actually going to add all the file menus ashen inside the config signal method.
+
+392
+0:32:46,200000 --> 0:32:51,200000
+This code block is going to create the, let me put that back.
+
+393
+0:32:51,200000 --> 0:33:00,200000
+So the save us text file ashen is going to create the save us text file submenu.
+
+394
+0:33:01,200000 --> 0:33:05,200000
+And I'm going to create a shortcut key, come to us.
+
+395
+0:33:05,200000 --> 0:33:13,200000
+And from the save us text file ashen object, I'm going to assign a function code save us text file.
+
+396
+0:33:13,200000 --> 0:33:18,200000
+Then I'm going to add the ashen object to the file menu.
+
+397
+0:33:18,200000 --> 0:33:24,200000
+Now, something for the save us srt file ashen.
+
+398
+0:33:24,200000 --> 0:33:30,200000
+And the only thing that's different is the shortcut key and the method that will get executed.
+
+399
+0:33:30,200000 --> 0:33:34,200000
+And you'll have the exit function to close the window.
+
+400
+0:33:38,200000 --> 0:33:48,200000
+Now to create both save us text file and save us srt file method, I'm going to simply paste both functions altogether.
+
+401
+0:33:49,200000 --> 0:33:53,200000
+So first I'm going to run to file dialog.
+
+402
+0:33:53,200000 --> 0:33:58,200000
+I'm going to pump the user to provide a file name.
+
+403
+0:33:58,200000 --> 0:34:04,200000
+And once I have the file name, I can basically save the file using the way open function.
+
+404
+0:34:04,200000 --> 0:34:08,200000
+Now saving the output's regular text file is pretty straightforward.
+
+405
+0:34:08,200000 --> 0:34:16,200000
+We'll simply grab the text string from the output text box and write the content directly to the file.
+
+406
+0:34:16,200000 --> 0:34:22,200000
+Then we'll show the status message, subscription save file by the file location.
+
+407
+0:34:22,200000 --> 0:34:29,200000
+Now for the srt file, I also mentioned that you set the correct file extension.
+
+408
+0:34:29,200000 --> 0:34:36,200000
+Now to save the output as a srt file, and you can put a bookmark right here.
+
+409
+0:34:36,200000 --> 0:34:43,200000
+So we have this convert response to srt function in the gcp module.
+
+410
+0:34:43,200000 --> 0:34:56,200000
+So from the transcription itself on Google speech API, the response will contain the timestamp.
+
+411
+0:34:56,200000 --> 0:35:02,200000
+And the function is going to basically insert the timestamp and concaten everything together.
+
+412
+0:35:02,200000 --> 0:35:12,200000
+So here we'll simply run the convert response to srt function and provide the transcription results object.
+
+413
+0:35:12,200000 --> 0:35:16,200000
+Then save the output as a srt file.
+
+414
+0:35:16,200000 --> 0:35:20,200000
+All right, so I think this is going to be everything.
+
+415
+0:35:20,200000 --> 0:35:23,200000
+And let me just check a couple of things.
+
+416
+0:35:23,200000 --> 0:35:29,200000
+All right, so I think everything is good.
+
+417
+0:35:29,200000 --> 0:35:33,200000
+Now I'm going to do a test run.
+
+418
+0:35:33,200000 --> 0:35:37,200000
+I'm going to open the audio files.
+
+419
+0:35:37,200000 --> 0:35:40,200000
+And this time let's use a different file.
+
+420
+0:35:41,200000 --> 0:35:46,200000
+And let's use the Harvard way file here and slap.
+
+421
+0:35:46,200000 --> 0:35:54,200000
+And this time I'm going to use the shortcut RCT to run the transcription.
+
+422
+0:35:54,200000 --> 0:36:05,200000
+And just turn the transcription to about 18 seconds.
+
+423
+0:36:05,200000 --> 0:36:09,200000
+Now let's test out the file save functionality.
+
+424
+0:36:09,200000 --> 0:36:13,200000
+I'm going to save the output as a text file.
+
+425
+0:36:13,200000 --> 0:36:22,200000
+And our name this is transcription output and save.
+
+426
+0:36:22,200000 --> 0:36:30,200000
+And let me open the text file and here's the transcription output.
+
+427
+0:36:30,200000 --> 0:36:36,200000
+And let me try the srt file function.
+
+428
+0:36:37,200000 --> 0:36:42,200000
+And our name this is output and save.
+
+429
+0:36:42,200000 --> 0:36:50,200000
+Now if you look at the srt file here, we have the timestamp and transcription output.
+
+430
+0:36:50,200000 --> 0:36:55,200000
+All right, so I think this is going to be everything for this tutorial.
+
+431
+0:36:55,200000 --> 0:36:57,200000
+And hopefully you guys find this video useful.
+
+432
+0:36:57,200000 --> 0:37:02,200000
+And feel free to post your question or feedback in the comment section below.
+
+433
+0:37:02,200000 --> 0:37:07,200000
+And if you enjoyed this video, please don't forget to like the video and subscribe to the channel.
+
+434
+0:37:07,200000 --> 0:37:10,200000
+I'll see you guys in the next video.
+

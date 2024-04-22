@@ -1,0 +1,1642 @@
+WEBVTT
+
+1
+0:00:00 --> 0:00:06
+I have no financial relationships to disclose at this time.
+
+2
+0:00:06 --> 0:00:12
+So the learning objectives of today's session are to discuss the dangers of race-based correction
+
+3
+0:00:12 --> 0:00:15
+when applied to kidney function estimation,
+
+4
+0:00:15 --> 0:00:20
+compare and contrast strategies that reduce kidney disease progression,
+
+5
+0:00:20 --> 0:00:28
+and finally, given a patient case, design a management plan for managing CKD complications.
+
+6
+0:00:28 --> 0:00:33
+So in order for us to get started today, let's meet our patient, Ila.
+
+7
+0:00:33 --> 0:00:38
+So Ila comes to the clinic today and presents as a 56-year-old female
+
+8
+0:00:38 --> 0:00:44
+in the pharmacotherapy clinic. She endorses a past medical history of hypertension,
+
+9
+0:00:44 --> 0:00:49
+stroke four years ago, and atrial fibrillation that she's had for eight years.
+
+10
+0:00:49 --> 0:00:54
+Her current medications include hydrochlorothiazide, amlodipine,
+
+11
+0:00:54 --> 0:00:59
+a torvastatin, aspirin, and warfarin 5 milligrams daily.
+
+12
+0:00:59 --> 0:01:07
+Her blood pressure at today's visit is 135 over 82, and laboratory values are as follows.
+
+13
+0:01:07 --> 0:01:16
+Pertinate is a random glucose of 121, serum creatinine of 1.2 with an estimated GFR of 56 mLs per minute,
+
+14
+0:01:16 --> 0:01:22
+and of course, funding hemoglobin A1C of 6.4%.
+
+15
+0:01:22 --> 0:01:26
+So a couple of questions for us to get started.
+
+16
+0:01:26 --> 0:01:32
+So in evaluating Ila today, which of the following equations would be best utilized
+
+17
+0:01:32 --> 0:01:37
+to estimate her GFR for staging purposes?
+
+18
+0:01:37 --> 0:01:46
+Is it Cockroft-Galt, the MDRD equation, CKD, EPI, 2021, or the Jell-F?
+
+19
+0:01:46 --> 0:01:51
+Okay.
+
+20
+0:01:56 --> 0:02:01
+And then which of the following is a potential outcome of eliminating race-based
+
+21
+0:02:01 --> 0:02:04
+correction in the evaluation of GFR?
+
+22
+0:02:04 --> 0:02:10
+Is it A, an increase in CKD diagnoses among patients who identify as black?
+
+23
+0:02:10 --> 0:02:15
+B, increases in CKD diagnoses among patients who identify as white?
+
+24
+0:02:15 --> 0:02:23
+C, reductions in healthcare inequities among historically underrepresented populations?
+
+25
+0:02:23 --> 0:02:27
+Or D, receiving lower doses of dose-adjusted medications?
+
+26
+0:02:27 --> 0:02:36
+And there could be multiple answers to this.
+
+27
+0:02:36 --> 0:02:42
+And based upon Ila's patient presentation, which of the following would be the most appropriate
+
+28
+0:02:42 --> 0:02:50
+to recommend at this time to initiate impagliflosen, initiate with cinapril,
+
+29
+0:02:50 --> 0:02:57
+initiate phenerinone, or initiate semagluetide?
+
+30
+0:02:57 --> 0:03:04
+Okay.
+
+31
+0:03:04 --> 0:03:09
+So in order for us to get started today, we'll begin with a discussion of how we stage CKD.
+
+32
+0:03:09 --> 0:03:18
+So CDKD staging has not changed dramatically in the last several years, except for one major change that I'll bring attention to.
+
+33
+0:03:18 --> 0:03:32
+So the CKD staging occurs along the continuum with a combination of use of estimated GFR with albumin urea estimations to improve the prognostic accuracy of diagnosis.
+
+34
+0:03:32 --> 0:03:42
+So stage one and stage two CKD, when looking at the corresponding GFR, have GFRs of 60 to 89 and greater than 90 respectively.
+
+35
+0:03:42 --> 0:03:57
+In these situations, there may be other requirements of other alterations in kidney biomarkers necessary to establish that diagnosis, because the GFR still remains fairly sufficient.
+
+36
+0:03:57 --> 0:04:06
+Stage three CKD represents a wide array of GFRs anywhere from 30 to 59 mLs per minute.
+
+37
+0:04:06 --> 0:04:24
+And about 10 years ago, there was a distinction made to divide stage three into 3A and 3B, recognizing that those complications of CKD, anemia of CKD, and CKD bone mineral density disorder typically occur in stage 3B and lower.
+
+38
+0:04:24 --> 0:04:36
+Stage four is a severely decreased GFR of 15 to 29, and stage five typically requires renal replacement because of a low GFR of less than 15 mLs per minute.
+
+39
+0:04:36 --> 0:04:50
+As I had mentioned, it's important to also estimate albumin area concentrations, because this is an independent prognostic indicator of cardiovascular disease, even at correspondingly normal GFRs.
+
+40
+0:04:50 --> 0:04:55
+So albumin area of a normal concentration would be less than 30.
+
+41
+0:04:55 --> 0:05:09
+Micro albumin area or moderately increased albumin area occurs from a 30 to 300 mg per deciliter concentration, and then A3 severely increased greater than 300 mg per gram.
+
+42
+0:05:09 --> 0:05:16
+And this is when you typically can pick up that total protein on a urine analysis.
+
+43
+0:05:16 --> 0:05:25
+Now, the evaluation of kidney function is something that we as pharmacists do on a daily basis, oftentimes to estimate drug dosing, right?
+
+44
+0:05:25 --> 0:05:34
+But there are a lot of considerations and implications and things that we have to think about when we are looking at the equations that we are using to evaluate kidney function.
+
+45
+0:05:34 --> 0:05:50
+So the most common measure of kidney function is the glomerular filtration rate, and the gold standard for estimating the glomerular filtration rate is to use exogenous markers such as inulin, iothalamate, or iohexyl.
+
+46
+0:05:50 --> 0:06:04
+This is when an individual is given a continuous infusion, and then serum or urine assays are taken at very timed intervals over 24 hours to therefore predict about how the kidney is functioning.
+
+47
+0:06:04 --> 0:06:10
+Now, obviously, that's a pretty labor intensive process and isn't very practical at the but side.
+
+48
+0:06:10 --> 0:06:18
+So we use endogenous serum markers that are freely filtered by the glomerulus to estimate how our kidneys are functioning.
+
+49
+0:06:18 --> 0:06:28
+The most common biomarkers utilized are siam creatinine, cystatin C, and some studies have suggested you can use serum urea as well.
+
+50
+0:06:28 --> 0:06:46
+Now, when we're thinking of the ideal endogenous filtration markers that were utilized for CKD, you want something that achieves a stable concentration, is therapeutically inert, is not protein bound, freely filtered by the glomerulus, not metabolized by the kidneys,
+
+51
+0:06:46 --> 0:06:54
+and does not undergo tubular secretion. That would be your ideal filtration marker.
+
+52
+0:06:54 --> 0:07:03
+The two most common filtration markers utilized are serum creatinine, and more recently there's an increase in use of serum cystatin C.
+
+53
+0:07:03 --> 0:07:11
+Now, as pharmacists, we are well-versed with what serum creatinine is, right? It's a bi-product of creatinine metabolism.
+
+54
+0:07:11 --> 0:07:15
+The most common biomarker utilized to estimate kidney function.
+
+55
+0:07:15 --> 0:07:23
+It's an endogenous substance eliminated primarily by a glomerular filtration, but it's influenced by multiple factors.
+
+56
+0:07:23 --> 0:07:33
+Now, obviously we know because it's a bi-product of creatinine metabolism, anything that alters muscle mass in the body is going to alter concentrations of serum creatinine.
+
+57
+0:07:33 --> 0:07:41
+So the concentrations can be affected by the gender, the age, race, protein intake, muscle mass, and medications.
+
+58
+0:07:41 --> 0:07:51
+There are two things to consider with the use of serum creatinine. One is it can be fairly reflective of GFR under steady state conditions,
+
+59
+0:07:51 --> 0:07:58
+but when labile situations of kidney functioning, when glomerular filtration rate is going up and down,
+
+60
+0:07:58 --> 0:08:02
+then that evaluation of that serum creatinine becomes less predictable.
+
+61
+0:08:02 --> 0:08:10
+Additionally, in an acute kidney injury, that serum creatinine is greatly delayed in reaching steady state,
+
+62
+0:08:10 --> 0:08:21
+and so it does not have as much predictability because as the GFR drops, it takes time for the corresponding serum creatinine to increase.
+
+63
+0:08:21 --> 0:08:29
+So statin C is a little bit more beneficial because it doesn't, it isn't interfering by all these factors.
+
+64
+0:08:29 --> 0:08:35
+It's produced by all nucleated cells, freely filtered, reabsorbed, and catabolized by the kidney.
+
+65
+0:08:35 --> 0:08:48
+The concentration in the plasma is inversely correlated with the GFR just like serum creatinine, but after glomerular filtration, it is fully catabolized to the proximal renal tubule.
+
+66
+0:08:48 --> 0:08:59
+It is not affected by all of those byproducts of muscle mass that serum creatinine is, but to keep in mind, it is affected by inflammation and the presence of thyroid disease.
+
+67
+0:08:59 --> 0:09:09
+So historically, we know that the gold standard method of estimating kidney function is to estimate the glomerular filtration rate,
+
+68
+0:09:09 --> 0:09:19
+but in clinical practice, oftentimes creatinine clearance and the calculation of creatinine clearance is utilized to estimate glomerular filtration rate.
+
+69
+0:09:19 --> 0:09:30
+Now there are some downfalls when you utilize that method because of the way that creatinine clearance calculations, specifically cockroft golf golf, were initially calculated.
+
+70
+0:09:30 --> 0:09:37
+There was an underrepresentation of patients. Most patients were males. Most patients were under 70 years of age,
+
+71
+0:09:37 --> 0:09:42
+and they had generally healthy or mildly decreased renal function.
+
+72
+0:09:42 --> 0:09:55
+We do know that creatinine clearance results in an over-estimation of GFR in younger patients, primarily because of that tubular secretion of creatinine.
+
+73
+0:09:55 --> 0:10:04
+However, there are some studies that suggest it can potentially lead to under-estimation of GFR in those individuals who are older.
+
+74
+0:10:04 --> 0:10:16
+Other things to keep in mind is those creatinine values that were used for the cockroft golf equation were not standardized, and they were not adjusted for body surface area.
+
+75
+0:10:16 --> 0:10:25
+So there has been an evolution of how we estimate kidney functioning that has occurred over the past 100 years.
+
+76
+0:10:25 --> 0:10:47
+So we use serum creatinine as our biomarker to estimate kidney function on a daily basis, but that was first proposed almost 100 years ago in an article where they suggested that it creatinine clearance could be used as a novel biomarker because it was freely filtered and reabsorbed by the glomerulus.
+
+77
+0:10:48 --> 0:10:54
+Now, there wasn't about until 50 years later when there was some substantial changes.
+
+78
+0:10:54 --> 0:11:00
+So in the 1970s, cystatancy was initially proposed as a biomarker.
+
+79
+0:11:00 --> 0:11:13
+Now, it's only in the last several years that we've really heard about cystatancy coming to the market and potentially replacing serum creatinine, but it was introduced almost 50 years ago.
+
+80
+0:11:14 --> 0:11:30
+The cockroft golf equation was also proposed in the 1970s, and we utilized that for several years as a method to evaluate and reflect GFR until the introduction of the MDRD equation that occurred in 1999.
+
+81
+0:11:31 --> 0:11:44
+To better estimate all spectrums of chronic kidney disease, Leve, which was one of the authors of the MDRD equation, then proposed the CKD at the equation 10 years later.
+
+82
+0:11:45 --> 0:11:59
+It was about five years ago when Beth Israel Medical Center brought attention to the fact that current methods that were utilized to estimate GFR may be perpetuating racial inequities, and that then led the issue of the MDRD equation.
+
+83
+0:12:00 --> 0:12:27
+The American Society of Nephrology and the National Kidney Foundation to form a task force to evaluate how those estimations of GFR were perpetuating healthcare inequities in our society, and that then led to a 2021 new recommendation for the CKD at the equation that has been refit without race to better provide equity, equitable care for patients living with chronic kidney disease.
+
+84
+0:12:28 --> 0:12:33
+So we can dive in a little bit to the history of the kidney estimation equations.
+
+85
+0:12:34 --> 0:12:56
+So the cockroft golf equation was developed in the 1970s, and it was derived from 249 Canadian military patients who were arranged from 18 to 92, although the vast majority were less than 70 years of age, only 4% of the individuals were female, and the vast majority of patients were in the age of 18.
+
+86
+0:12:57 --> 0:13:02
+The age of 18 individuals had very mild stages of CKD if they had CKD at all.
+
+87
+0:13:03 --> 0:13:23
+They used a single measure 24-hour creatinine clearance to then essentially make an equation based on Sam creatinine weight and gender correction to estimate what somebody's creatinine clearance was going to be to estimate GFR.
+
+88
+0:13:23 --> 0:13:28
+Note that the primary goal of the study was to measure creatinine clearance, not GFR.
+
+89
+0:13:29 --> 0:13:44
+In 1999, the MDRD equation was proposed as a secondary outcome from a study of a multi-center trial that was evaluating the effects of dietary protein restriction and blood pressure on the progression of renal disease.
+
+90
+0:13:45 --> 0:13:59
+The secondary outcome of that study was to develop an equation that could improve the prediction of GFR from plasma creatinine because cockroft golf was primarily done in patients with pretty good kidney functioning.
+
+91
+0:14:00 --> 0:14:13
+It wasn't as reflective and accurate in patients with declining GFRs, and so that was the thought of the development of MDRD equation is let's try to find an equation that better reflects individuals with chronic kidney disease.
+
+92
+0:14:14 --> 0:14:40
+The formula was devised based on observations of 1600 patients, middle-aged without diabetes with chronic kidney disease, and they used a direct measure of urinary clearance of iothalamate to fit the equation using six variables, age, serum creatinine, race, blood, BUN, albumin, and gender.
+
+93
+0:14:40 --> 0:14:53
+And researchers ultimately recommended the routine use of this equation for estimation of GFR, citing that it was more accurate over the spectrum of chronic kidney disease.
+
+94
+0:14:54 --> 0:15:10
+In 2009, the CKD EPI equation was introduced, was developed across sectional analysis using a more diverse population of 8,000 individuals of 10 different studies.
+
+95
+0:15:11 --> 0:15:26
+So MDRD was criticized for not being representative of last populations and diverse population sets, so CKD EPI was then introduced utilizing 10 different studies of diverse populations.
+
+96
+0:15:27 --> 0:15:36
+It utilized a different relationship for age, gender, and race, and it was stated that it performed better and with less bias than the MDRD equation.
+
+97
+0:15:37 --> 0:15:51
+In CKD in 2012, the CKD EPI equation was modified using a cross-sectional analysis and a standard essay to incorporate the use of cystatancy.
+
+98
+0:15:52 --> 0:16:02
+So how does the evaluation of kidney function play into the inequities of chronic kidney disease that exist in our society?
+
+99
+0:16:02 --> 0:16:08
+So we know about 15% of the population lives with chronic kidney disease.
+
+100
+0:16:08 --> 0:16:17
+We also know that historically underrepresented populations carry a disproportionate burden of those chronic kidney disease diagnoses.
+
+101
+0:16:17 --> 0:16:26
+Historically marginalized communities carry anywhere from a 1.5 to 3-fold higher risk of progressing to kidney failure.
+
+102
+0:16:26 --> 0:16:37
+Black individuals experience a much faster progression of CKD to kidney failure, and we know that once that diagnosis has occurred,
+
+103
+0:16:38 --> 0:16:43
+individuals of historically underrepresented groups get less optimal care.
+
+104
+0:16:43 --> 0:16:49
+You can see there that black patients have 33% lower odds of receiving nekfrology care,
+
+105
+0:16:49 --> 0:17:03
+are less likely to receive guideline-recommended therapies such as the guideline recommendations for CKD bone mineral density disorder or anemia of CKD.
+
+106
+0:17:04 --> 0:17:11
+And there is a perceived inverse relationship that occurs with discrimination and stigmatization in GFR,
+
+107
+0:17:11 --> 0:17:22
+where multiple studies have hypothesized that individuals that report stigmatization and discrimination in the healthcare encounter have lower GFRs,
+
+108
+0:17:23 --> 0:17:34
+whereas individuals that report no historical discrimination or stigmatization in the healthcare encounter with nephrologists tend to have higher corresponding GFRs.
+
+109
+0:17:34 --> 0:17:44
+What's important to notice and think about with this slide is that even when all social determinants are accounted for,
+
+110
+0:17:44 --> 0:17:55
+individuals who are historically underrepresented by race tend to have much higher rates of all of these, even when all the social determinants are accounted for.
+
+111
+0:17:55 --> 0:18:04
+So it's important to examine the differences of these terms race ancestry genetics and ethnicity.
+
+112
+0:18:04 --> 0:18:13
+So the concepts of race and ancestry are very, very woven into the structural fabric of the United States.
+
+113
+0:18:13 --> 0:18:24
+So we oftentimes think of these terms interchangeably, although they have very nuanced meanings, and we have to be careful with how we are utilizing them.
+
+114
+0:18:24 --> 0:18:33
+So we think back to the development of race, the idea of race reflected back in the 1600s, a kinship and affiliation.
+
+115
+0:18:33 --> 0:18:39
+It reflected more these ideas of culture and shared language and shared values.
+
+116
+0:18:39 --> 0:18:51
+The father of modern taxonomy, Carl Linneas, a biologist and a physician, he proposed the classification of four different races.
+
+117
+0:18:51 --> 0:18:58
+And within those four different races provided perceived value to each of those four races.
+
+118
+0:18:58 --> 0:19:06
+That was the first kind of scientific justification for biological descriptions of race.
+
+119
+0:19:06 --> 0:19:10
+Okay, but we know that race is just a physical phenotype.
+
+120
+0:19:10 --> 0:19:17
+It has no real meaning and doesn't have a biological inherent predictor of disease.
+
+121
+0:19:17 --> 0:19:21
+Ancestry in genetics, sure, of course.
+
+122
+0:19:21 --> 0:19:31
+Where you come from definitely matters and where we're predicting your history and what your risk factors are for developing disease over time.
+
+123
+0:19:31 --> 0:19:38
+Ethnicity, that's a nuanced meaning again, where we're talking about culture, shared norms and language.
+
+124
+0:19:38 --> 0:19:46
+So the takeaway here is that race and ethnicity are primarily social constructs with no biological meaning.
+
+125
+0:19:46 --> 0:19:51
+So they shouldn't be utilized to biologically predict disease.
+
+126
+0:19:51 --> 0:19:55
+Ancestry in genetics, they can be.
+
+127
+0:19:56 --> 0:20:04
+So then we've talked about individuals who are underrepresented and certain races having higher rates of certain diseases.
+
+128
+0:20:04 --> 0:20:10
+But now we've also said that race doesn't have a biological inherent predictor of disease.
+
+129
+0:20:10 --> 0:20:19
+So why do those individuals of certain races have higher prevalences and incidences of chronic disease in the United States?
+
+130
+0:20:19 --> 0:20:32
+Well, race as we've discussed is a social construct that artificially divides people into distinct groups based on certain characteristics such as physical appearance and racial categories of Zoom ethnic groups.
+
+131
+0:20:32 --> 0:20:48
+So the idea of race was developed in the 16 and 1700s to defend the rise of capitalism and basically keep power and keep power and resources with individuals who had a certain skin color.
+
+132
+0:20:49 --> 0:20:54
+It was this concept then that evolved the concept of racism.
+
+133
+0:20:54 --> 0:21:02
+And racism is that systemic subordination of members of targeted racial groups who have relatively little power in the United States.
+
+134
+0:21:02 --> 0:21:06
+So it's not race that predicts disease in many cases.
+
+135
+0:21:06 --> 0:21:17
+It is racism and the power of racism, those structural and systemic vulnerabilities that occur and are subject to individuals of historically underrepresented.
+
+136
+0:21:17 --> 0:21:25
+So we've said that race isn't a biological predictor of disease.
+
+137
+0:21:25 --> 0:21:44
+We have known this for almost 20 years since the Human Genome Project and the Human Genome Project looked at individuals of all different races and suggested that individuals, all in all humans, are 99.5 to 99.9 percent DNA is identical.
+
+138
+0:21:44 --> 0:21:54
+The little heterogeneity that exists is actually greater between two individuals of different races than two individuals of the same race.
+
+139
+0:21:54 --> 0:22:02
+And that theory has been reinforced by several researchers. A recent one came out of Harvard.
+
+140
+0:22:03 --> 0:22:15
+We know that and that there are no identifiable racial genomic clusters, but we continue to utilize race as a biological variable to capture risk of disease.
+
+141
+0:22:15 --> 0:22:25
+This leads to health disparities research. This leads to inaccuracies in diagnostic algorithms and the standards of court care,
+
+142
+0:22:26 --> 0:22:35
+reinforcing that notion that racial and certain minorities are biologically inferior, which is very, very dangerous.
+
+143
+0:22:35 --> 0:22:44
+So the cold hard truth is that racial differences found in data sets do not reflect biological differences in race.
+
+144
+0:22:45 --> 0:23:04
+Instead, they reflect those systemic effects of structural racism and the ability for one to achieve their social determination of health because of those racist and structural policies that have driven resources away from certain underrepresented groups.
+
+145
+0:23:05 --> 0:23:19
+Practice of race-based medicine is a practice where research characterizes race as that biological variable, translates it into clinical practice and leads it to inequitable care.
+
+146
+0:23:19 --> 0:23:33
+So oftentimes when you think back to some of these clinical algorithms, the MDRD equation and estimation of GFR, the JNCA recommendation to not use ACE inhibitors or ARBs and individuals,
+
+147
+0:23:34 --> 0:23:47
+without chronic kidney disease, who identify as black, many of those studies never really had to define why they were using race and what was the hypothesis that they included race.
+
+148
+0:23:47 --> 0:23:55
+And if they did include race, the data in many of these studies is very little, very flawed, methodologically.
+
+149
+0:23:56 --> 0:24:10
+So it relies on this conventional wisdom that people from different races are genetically and biologically different, but the Human Genome Project 20 years ago has shown us that is just not the case.
+
+150
+0:24:10 --> 0:24:13
+We are all biologically very, very similar.
+
+151
+0:24:13 --> 0:24:23
+Race is a social construct and the practice of continued race-based medicine reinforces the fact that race is a biological variable.
+
+152
+0:24:24 --> 0:24:30
+So when we think about why it matters and the evaluation of GFR, let's see it in action.
+
+153
+0:24:30 --> 0:24:36
+So we have a 60-year-old white male with diabetes presenting for primary care checkup.
+
+154
+0:24:36 --> 0:24:42
+His Sam creatinine, looks like it got cut off, was 1.3. It's exactly the same as JK.
+
+155
+0:24:43 --> 0:25:02
+So when we use the MDRD equation that provides that race correction for individuals who are black, there's no race correction for this individual who identifies as white, his GFR is 56.3, which correspondively puts him in stage 3a chronic kidney disease.
+
+156
+0:25:03 --> 0:25:11
+He gets that referral for the patient to see the nephrologist and begin potentially some guideline-directed care.
+
+157
+0:25:11 --> 0:25:22
+In contrast to a JK who's a 60-year-old individual who identifies as black, his Sam creatinine is the same as HH at 1.3.
+
+158
+0:25:23 --> 0:25:34
+His GFR, because of that race correction for MDRD, leads to an increase in it, even though it's at the same serum creatinine.
+
+159
+0:25:34 --> 0:25:42
+So you can see that because he is only stage 2, there's no flag and that recommends follow-up in 6-8 months.
+
+160
+0:25:42 --> 0:25:53
+And this has been shown to lead to inequities in a patient population that is already at high risk of chronic kidney disease because of the social determinants of health.
+
+161
+0:25:53 --> 0:25:57
+So what was the history behind GFR correction?
+
+162
+0:25:57 --> 0:26:07
+So for almost two decades that we've been using those equations that use that race coefficient, the MDRD and the CKD EPI,
+
+163
+0:26:08 --> 0:26:22
+that provide that race correction and ultimately estimate GFR at a higher value for the corresponding equivalent GFR for an individual who identifies as white versus an individual who identifies as black.
+
+164
+0:26:22 --> 0:26:31
+This was historically justified by the assumption that black individuals had a higher serum creatinine because of greater muscle mass.
+
+165
+0:26:32 --> 0:26:41
+And it really was though that the social determinants rather than race was the reason that those disparities exist.
+
+166
+0:26:41 --> 0:26:51
+Now these are the three studies that essentially supported the claim that individuals who were identified as black had higher muscle mass.
+
+167
+0:26:51 --> 0:27:00
+Now I'm not going to spend time in discussing these three studies, but the major takeaway I want you to be aware of is these were three studies that have been widely criticized.
+
+168
+0:27:01 --> 0:27:11
+And the literature of not being well, well the design being flawed, no true causation being established.
+
+169
+0:27:11 --> 0:27:27
+But yet these three small studies have led to this explanation for individuals who identify as black as having greater muscle mass and led to clinical algorithms that have led to health care inequities worldwide.
+
+170
+0:27:28 --> 0:27:37
+So there are certainly benefits that we have now are proposing and trying to evolve the use of race-free estimation.
+
+171
+0:27:37 --> 0:27:54
+So certainly some things to be in consideration is there's the degree of GFR differentiation with the new equations that have been refit without race varies at level of GFR and due to gender.
+
+172
+0:27:55 --> 0:27:58
+But it's an estimation that still is accurate.
+
+173
+0:27:58 --> 0:28:04
+We do know that it will increase CKD diagnoses and individuals who identify as black.
+
+174
+0:28:04 --> 0:28:09
+It may reduce CKD diagnoses and individuals who identify as white.
+
+175
+0:28:09 --> 0:28:18
+But the further identification is, well there's a lot of individuals in our population that don't identify as black or white.
+
+176
+0:28:19 --> 0:28:27
+So these CKD equations that incorporated race just aren't very representative of our global population.
+
+177
+0:28:27 --> 0:28:37
+We know that the removal of race correction will enhance eligibility for transplant list for historically underrepresented populations.
+
+178
+0:28:37 --> 0:28:40
+It will enhance social determinants of health outreach.
+
+179
+0:28:41 --> 0:28:43
+It improves clinical testing.
+
+180
+0:28:43 --> 0:28:51
+It will reduce the medications doses of certain medications that require dose adjustment.
+
+181
+0:28:51 --> 0:28:58
+But overall the benefits seen for promotion of health equity cannot be undermined.
+
+182
+0:28:58 --> 0:29:04
+So in 2021 it has now approached two years.
+
+183
+0:29:04 --> 0:29:15
+The CKD at the creatinine equation was recommended by the American Society of Nephrology and the National Kidney Foundation to be utilized to estimate kidney function.
+
+184
+0:29:15 --> 0:29:19
+This was refit without that race variable.
+
+185
+0:29:19 --> 0:29:31
+And it was recommended that we continue to try to figure out ways to improve and enhance the use of sistatancy as a more reliable biomarker.
+
+186
+0:29:31 --> 0:29:39
+And as usual, utilize it as a confirmatory assessment of GFR or kidney function.
+
+187
+0:29:39 --> 0:29:58
+The ASN and National Kidney Foundation also recommended that national efforts focus on increased access to sistatancy and continued research be done to try to eliminate those health care inequities in chronic kidney disease.
+
+188
+0:29:58 --> 0:30:05
+Now certainly there was a little bit of concern that sistatancy would not be as reliable as a biomarker.
+
+189
+0:30:05 --> 0:30:15
+But these studies were just two meta-analyses that did support the use of diagnostic accuracy of sistatancy with samb creatinine.
+
+190
+0:30:15 --> 0:30:23
+The bottom one actually stating that sistatancy was actually favored over samb creatinine.
+
+191
+0:30:23 --> 0:30:26
+And multiple studies have shown this.
+
+192
+0:30:26 --> 0:30:29
+But yet in practice we continue to lag.
+
+193
+0:30:29 --> 0:30:32
+So just a show of hands.
+
+194
+0:30:32 --> 0:30:37
+Whose institution has changed to CKD-EPI without the race equation?
+
+195
+0:30:37 --> 0:30:42
+Okay, so we're probably at about 50% or so.
+
+196
+0:30:42 --> 0:30:49
+So there are three different equations that were proposed and refit without the race coefficient.
+
+197
+0:30:49 --> 0:30:55
+The American Society of Nephrology and National Kidney Foundation recommend two of them.
+
+198
+0:30:55 --> 0:31:08
+The CKD-EPI 2021 with samb creatinine or the CKD-EPI 2021 using both samb creatinine and sistatancy to improve the diagnostic prognosis.
+
+199
+0:31:08 --> 0:31:16
+However, we do know that many clinical laboratories still do not have the benefit of using sistatancy.
+
+200
+0:31:16 --> 0:31:25
+They developed it in an effort to create that more precise formula to estimate GFR from other parameters outside of race.
+
+201
+0:31:25 --> 0:31:36
+And it really did perform better than the MDRD, especially at higher GFR, with less bias and greater accuracy.
+
+202
+0:31:36 --> 0:31:44
+So something to keep in mind, even with the newer equations of CKD-EPI 2021, bias exists in all equations.
+
+203
+0:31:44 --> 0:31:50
+And nothing can be 100% reflective of actual GFR.
+
+204
+0:31:50 --> 0:31:56
+And when we think about what is acceptable, a coefficient of 30% is acceptable.
+
+205
+0:31:56 --> 0:32:05
+So your actual GFR can differ by an estimated GFR by a 30% and that would still be clinically acceptable.
+
+206
+0:32:05 --> 0:32:15
+So you always want to think and consider bias and percent agreement with measure GFR and do not use estimated GFR in isolation.
+
+207
+0:32:15 --> 0:32:24
+So don't forget about the clinical picture of a patient with chronic kidney disease, because there may be many more factors to consider other biomarkers,
+
+208
+0:32:24 --> 0:32:31
+other things that you can do to give yourself a bigger picture of that patient's condition.
+
+209
+0:32:32 --> 0:32:36
+So this study came out about a year ago.
+
+210
+0:32:36 --> 0:32:42
+There's been very little follow-up as to the adoptability of the CKD-EPI equation.
+
+211
+0:32:42 --> 0:32:50
+There was one more study that came out about six weeks ago, and it still did reflect about this.
+
+212
+0:32:50 --> 0:33:00
+So this study was a year ago, about one year after that recommendation from American Society of Nephrology and National Kidney Foundation
+
+213
+0:33:00 --> 0:33:03
+to recommend a new equation.
+
+214
+0:33:03 --> 0:33:10
+And you can see that about 40, only 30% had adopted it about a year ago.
+
+215
+0:33:10 --> 0:33:22
+And of that, what was probably more alarming was that 75% were aware, but still almost 23% said we have no plans of adopting it.
+
+216
+0:33:22 --> 0:33:32
+And so that is pretty alarming considering the fact that we do know that these equations, these historical methods that utilize race
+
+217
+0:33:32 --> 0:33:37
+do propagate and perpetuate health care inequities.
+
+218
+0:33:39 --> 0:33:49
+All right, so we will switch gears a little bit and talk about slowing CKD progression and optimizing cardiovascular outcomes.
+
+219
+0:33:49 --> 0:34:02
+So the Cardio renal syndrome is a spectrum of disorders involving both the heart and kidneys in which acute or chronic dysfunction in one organ can induce acute or chronic dysfunction in the other organ.
+
+220
+0:34:02 --> 0:34:16
+It represents the confluence of the heart and kidney interactions across several interfaces and really also reflects the importance of the inflammatory and fibrotic processes that occur in kidney disease
+
+221
+0:34:16 --> 0:34:21
+can also lead to inflammatory and fibrotic processes within the heart.
+
+222
+0:34:21 --> 0:34:27
+We do know that cardiovascular disease is the leading cause of death and morbidity in patients with chronic kidney disease.
+
+223
+0:34:27 --> 0:34:34
+So attempts should always be at also making whatever you're doing cardio protective.
+
+224
+0:34:34 --> 0:34:39
+So the pathogenesis of chronic kidney disease is multimodal.
+
+225
+0:34:39 --> 0:34:52
+While that has its downfalls, we also, the benefit of that is that there are different modalities we can utilize to target the treatment of chronic kidney disease from different angles.
+
+226
+0:34:52 --> 0:34:55
+Certainly we'll start at the bottom, hyperglycemia.
+
+227
+0:34:55 --> 0:35:09
+Several clinical trials, DCCT, UKPDS have demonstrated that strict A1C reduction to less than 7% reduces progression of chronic kidney disease and microvascular complications.
+
+228
+0:35:09 --> 0:35:18
+So certainly if your patient has diabetes present, making sure that we are optimizing glycemic management should always be done to protect the kidneys.
+
+229
+0:35:19 --> 0:35:33
+Hypertension, we know that hypertension is an independent risk factor for chronic kidney disease and blood pressure should be aggressively treated to make sure that we are reducing the risk of CKD.
+
+230
+0:35:34 --> 0:35:40
+Hypertiltration, fibrosis, and inflammation have all been newer opportunities for us to target.
+
+231
+0:35:40 --> 0:35:56
+And these are the three areas that are newer agents such as phenyranone and SGLT2 inhibitors are targeting which provide those beneficial effects in both chronic kidney disease as well as cardiovascular disease.
+
+232
+0:35:57 --> 0:36:08
+So this, this pyramid here reflects the 2022 CODIGO guideline update for patients with chronic kidney disease and diabetes.
+
+233
+0:36:08 --> 0:36:25
+And it emphasizes a couple of very important concepts that at the bottom of the pyramid for all patients, we should definitely be reinforcing a healthy diet exercise of 150 minutes a week of physical activity, smoking cessation, and weight loss if any of these patients are in the hospital.
+
+234
+0:36:25 --> 0:36:27
+And weight loss if indicated.
+
+235
+0:36:27 --> 0:36:40
+Now first line drug therapies for all patients with chronic kidney disease and diabetes include metformin, an SGLT2 inhibitor, a RAS inhibitor, as well as a statin.
+
+236
+0:36:41 --> 0:37:00
+If further glycemic control is needed and further reduction in cardiovascular risk where you have patients that are at very high risk of cardiovascular disease and progression of chronic kidney disease, you can consider a GLP1, specifically if further reduction in hyperglycemia is indicated.
+
+237
+0:37:01 --> 0:37:22
+Antiplatelet therapies such as low dose aspirin for those patients who are at very high risk, so not really recommended for primary prevention anymore or for those individuals who need a secondary prevention intervention or a mineral corticoid receptor antagonist if patients have been optimized on that RAS inhibitor and that SGLT2.
+
+238
+0:37:23 --> 0:37:40
+At the top of the pyramid represents the artifacts that regardless of how you get there, emphasizing importance of blood pressure control, blood glucose control, and lipid control are vital to reducing the progression of CKD.
+
+239
+0:37:41 --> 0:37:44
+So let's talk about blood pressure.
+
+240
+0:37:44 --> 0:38:01
+So we know that there's an interesting dichotomy that exists with blood pressure and as GFR declines, the incidence and severity of hypertension increases and hypertension becomes much more challenging to treat as GFR continues to decline.
+
+241
+0:38:02 --> 0:38:15
+Hypertension and CKD are independent risk factors for cardiovascular disease and we know that CV, cardiovascular morbidity and mortality is substantially increased when both exist together.
+
+242
+0:38:15 --> 0:38:22
+So what happens that makes hypertension so difficult to treat with declining GFR?
+
+243
+0:38:23 --> 0:38:36
+So with the declining GFR, you have that upregulation of afferent signaling that leads to an increase in sympathetic tone leading both to increased heart rate as well as increased peripheral vascular resistance.
+
+244
+0:38:36 --> 0:38:51
+Compounding that is an upregulation of the RAS system enhancing aldosterone and water retention which is exacerbated by the fact that individuals with CKD tend to be a little bit more salt sensitive.
+
+245
+0:38:52 --> 0:38:57
+A little bit more salt will lead to more sodium and water retention.
+
+246
+0:38:57 --> 0:39:04
+At all stages of GFR decline, you have endothelial dysfunction and arterial stiffness.
+
+247
+0:39:04 --> 0:39:11
+Arterial stiffness is very important because it's an independent risk factor for cardiovascular death.
+
+248
+0:39:11 --> 0:39:20
+And so finding different modalities to relieve the tension in the arteries is going to be very, very important, which is one of the methods that we, one of the reasons why we use the other method is that we use the other method.
+
+249
+0:39:21 --> 0:39:32
+So this is RAS inhibitors because if you think back to the renin angiotensin aldosterone system, one of the main effects of angiotensin 2 is systemic vasoconstriction.
+
+250
+0:39:32 --> 0:39:36
+So it relieves some of that tension on the arteries.
+
+251
+0:39:36 --> 0:39:43
+Now, there is a little bit of discrepancy in hypertension goals as it relates to patients with chronic kidney disease.
+
+252
+0:39:44 --> 0:39:56
+So in 2017, the American College of Cardiology and American Heart Association recommended that goal of less than 130 over 80 for most patients, including those with chronic kidney disease.
+
+253
+0:39:56 --> 0:40:11
+The Kidegal guidelines were published in 2021 and they recommend a little bit more of an aggressive goal of less than 120 systolic blood pressure with no specific delineation of what diastolic goals should be.
+
+254
+0:40:12 --> 0:40:26
+Now, this is primarily due to the publication of the sprint study that showed a subgroup analysis of patients with chronic kidney disease had a lower incidence of cardiac events with more intensive blood pressure control.
+
+255
+0:40:26 --> 0:40:37
+The important thing to notice about that Kidegal recommendation is there's really no guideline recommendation that a blood pressure of less than 120 reduces kidney disease progression.
+
+256
+0:40:38 --> 0:40:44
+That blood pressure goal is primarily supported by the reduction in cardiovascular events.
+
+257
+0:40:44 --> 0:40:59
+And it is thought that that reduction of cardiovascular events will dramatically outweigh that potential paradoxical effect and the potential detrimental effects that occurs of reducing blood pressure in a patient with CKD.
+
+258
+0:41:00 --> 0:41:11
+That blood pressure goal of less than 120 has a little bit more data in patients with diabetes, in patients with albium and area, and even in those who are a little bit older.
+
+259
+0:41:11 --> 0:41:20
+And so we should continue to feel confident that for patients with CKD, we should be aggressive with blood pressure control.
+
+260
+0:41:20 --> 0:41:25
+We can go slow, but we should try to be aggressive to achieve blood pressure goals.
+
+261
+0:41:25 --> 0:41:44
+The blood pressure goal of less than 130 over 80 is recommended for individuals receiving dialysis with the thought that that reduction, if you have too intensive of a blood pressure goal for individuals on dialysis, you do reduce the GFR to a potentially problematic state.
+
+262
+0:41:45 --> 0:41:53
+Some key components of the Kidegal clinical blood pressure guideline was that blood pressure measurement should be standardized.
+
+263
+0:41:53 --> 0:42:09
+So oftentimes we do routine or in clinic blood pressure checks, right, where we're not standardizing our methods and being very methodical in following the American Heart Association guidelines on how we should check blood pressure.
+
+264
+0:42:10 --> 0:42:28
+Because the data for that blood pressure of less than 120 comes from the sprint trial, which utilized standardized office measurement, it is important that we try to implement standardized office measurement, understanding that it may not always be practical and it is a little bit more labor intensive.
+
+265
+0:42:29 --> 0:42:41
+We do want to augment home blood pressure readings and use automated blood pressure ambulatory blood pressure readings to augment the in office readings.
+
+266
+0:42:41 --> 0:42:51
+Some guidelines for those individuals without chronic kidney disease actually recommend the use of home readings as better indicators of normal blood pressure.
+
+267
+0:42:51 --> 0:42:57
+But keep in mind for patients with chronic kidney disease, that standardized method is very important.
+
+268
+0:42:57 --> 0:43:10
+Targeting that blood pressure of less than 120, and again utilizing this angiotensin receptor blockers and ARBs as first line therapies to reduce kidney disease progression.
+
+269
+0:43:10 --> 0:43:22
+From a hemodinamic standpoint, we know that Rasplocate benefits hypertension reduces sodium and water retention and also reduces glomerular filtration.
+
+270
+0:43:23 --> 0:43:36
+It's thought that it also enhances aldosterone, excretion, reduces inflammation, reduces that oxidative stress, ultimately providing a cardiovascular benefit as well as a kidney disease benefit.
+
+271
+0:43:37 --> 0:43:50
+Now something that I want to bring attention to is in the Kid-Dego guidelines from 2021, there was an update as it relates to the monitoring of potassium and sodium, or potassium and serum creatinine.
+
+272
+0:43:50 --> 0:43:51,820000
+The
+
+273
+0:43:52 --> 0:44:06
+guide lines recommended that it be judiciously monitored from one to four weeks. There was a small modification that now it says two to four weeks after initiation and dose adjustment and a couple of different pertinent factors to consider.
+
+274
+0:44:06 --> 0:44:14
+Obviously we still allow that 30 percent increase in serum creatinine or potassium and feel comfortable in continuing that drug.
+
+275
+0:44:15 --> 0:44:33
+If they do make a distinguished factor here though that if hyperkalemia occurs at a degree of greater than 30 percent, unless that potassium is severely elevated, you don't have to always discontinue or dose reduce the drug right away.
+
+276
+0:44:33 --> 0:44:51
+You should look for other factors that may be causing hyperkalemia. Consider the use of diuretics that may assist in that because the benefits of using that asir are greatly outweigh the risks at mild degrees of hyperkalemia if we can treat it and manage it.
+
+277
+0:44:52 --> 0:45:14
+So we do know that there is a new pharmacotherapeutic target, aldosterone in chronic kidney disease. So there are several molecular and cellular effects that are detrimental that aldosterone contributes to in the development of chronic kidney disease specifically and also in the heart.
+
+278
+0:45:15 --> 0:45:29
+So we know that promotion and enhancement of aldosterone leads to enhanced sodium and water reabsorption, leads to vasoconstrictive, vasoconstriction, oxidative stress, inflammation, fibrosis and decreased glomerular filtration.
+
+279
+0:45:29 --> 0:45:41
+From a clinical perspective the excess concentrations of aldosterone lead to hypertension, protein, urea, chronic kidney disease and acceleration of cardio renal disease.
+
+280
+0:45:42 --> 0:46:07
+Now we certainly know that ras inhibitors reduce aldosterone concentrations but there is this idea of aldosterone breakthrough that even with maximum doses of ras inhibitors for a patient with chronic kidney disease, after about 6-12 months there is some breakthrough that occurs that aldosterone levels increase to that of greater than baseline.
+
+281
+0:46:08 --> 0:46:14
+And that becomes potentially problematic because obviously we want to reduce the detrimental effects of aldosterone.
+
+282
+0:46:14 --> 0:46:24
+So this was the initial foundation for the use of and consideration of aldosterone antagonist and their benefit in chronic kidney disease.
+
+283
+0:46:24 --> 0:46:26
+That was the case for finarinone.
+
+284
+0:46:27 --> 0:46:38
+Finarinone is a novel nonsteroidal mineral corticoid receptor antagonist with high binding affinity, high mineral corticoid receptor selectivity and greater potency.
+
+285
+0:46:38 --> 0:46:52
+Now prior to the introduction and consideration of finarinone for chronic kidney disease, several trials actually had evaluated a player known in spironolactone for their benefits in chronic kidney disease by blocking that aldosterone receptor.
+
+286
+0:46:53 --> 0:46:59
+But the risks of those agents of hypercholemia outweighed the benefits.
+
+287
+0:46:59 --> 0:47:13
+Finarinone then was developed with greater selectivity to reduce the incidence of hypercholemia and reduce the risk of androgen related side effects compared to those steroid based agents.
+
+288
+0:47:14 --> 0:47:24
+Three trials have evaluated the effects of finarinone on progression of kidney disease and cardiovascular outcomes.
+
+289
+0:47:24 --> 0:47:34
+So the Fidelity trial was published in 2012 and it established the effects on a primary composite kidney outcome.
+
+290
+0:47:34 --> 0:47:42
+You had patients with CKD and type 2 diabetes who were randomized to receive either finarinone or placebo.
+
+291
+0:47:42 --> 0:48:09
+Now the thing to think about here is individuals had albium in area that reflected micro albium in area or an EGFR of stage 4 to 3 to 4 and the presence of diabetic nephropathy or they had to have an micro albium in area concentration of overt micro albium in area and a GFR of 25 to 75.
+
+292
+0:48:09 --> 0:48:30
+So it looked at both stages and at the end of three years what they found was that that primary outcome event, individuals that were treated with finarinone had an 18% significant reduction in that kidney composite outcome as opposed to those individuals who were treated with placebo.
+
+293
+0:48:30 --> 0:48:38
+Now hypercholemia as we know did occur to a greater extent but severe incidences of hypercholemia did not occur.
+
+294
+0:48:38 --> 0:48:56
+The Figaro trial deemed to establish finarinone over a broader spectrum of cardiovascular of over a broader spectrum of CKD and also established the cardiovascular outcomes with that secondary outcome than being that composite kidney outcome.
+
+295
+0:48:56 --> 0:49:12
+So you had patients with chronic kidney disease and type 2 diabetes just like the previous Fidelio trial and individuals had to have a micro albium in area of 30 to 300 and a GFR could be even reflective of stage 2.
+
+296
+0:49:12 --> 0:49:26
+So it allowed a GFR to go into higher stage or less severe stages of chronic kidney disease or a micro albium in area concentration of 300 to 5000 and a GFR of at least 60.
+
+297
+0:49:26 --> 0:49:32
+So again this trial primarily establishing the benefits in less severe forms of CKD.
+
+298
+0:49:32 --> 0:49:40
+So at the end of 2 and a half years there was a 13% reduction in that primary composite cardiovascular outcome.
+
+299
+0:49:40 --> 0:49:54
+And as far as the kidney outcome although it was a non-significant reduction there was a 13% reduction in the kidney composite outcome with finarinone at all stages of chronic kidney disease.
+
+300
+0:49:54 --> 0:50:09
+The Fidelity trial was a pooled analysis of the Fidelio and the Figaro trials and it basically was established to assess the spectrum, the benefit of finarinone across a wide spectrum of CKD
+
+301
+0:50:09 --> 0:50:14
+and basically provide more robust estimates of the safety and efficacy.
+
+302
+0:50:14 --> 0:50:35
+So they used a time to event efficacy outcome and among the 13,000 patients with a medium follow-up of 3 years that cardiovascular composite outcome was reduced by 14% with finarinone and the kidney outcome was reduced by 23% with finarinone.
+
+303
+0:50:35 --> 0:50:39
+Again establishing the benefits of this medication.
+
+304
+0:50:39 --> 0:50:54
+So as far as guideline recommendations, finarinone is recommended to indicate and indicated to reduce the risk of GFR decline, end stage kidney disease and cardiovascular death in patients with type 2 diabetes.
+
+305
+0:50:54 --> 0:51:04
+Most recommendations state that patients need to be optimized on a RAS inhibitor and the cadigo guidelines also suggest that patients should be on that SGLT2 inhibitor first.
+
+306
+0:51:04 --> 0:51:12
+So finarinone comes after the optimization of the RAS inhibitor and that SGLT2.
+
+307
+0:51:13 --> 0:51:26
+Initial dosing is 10 milligrams or 20 milligrams a day based on GFR and subsequent titrations are made based on both GFR and potassium concentrations.
+
+308
+0:51:26 --> 0:51:39
+So it is prudent to monitor potassium appropriately and ensure other medications that potentially can contribute to hypercholemia are being used very conservatively.
+
+309
+0:51:40 --> 0:51:46
+Now the last agents that we're going to talk about are sodium glucose transport 2 inhibitors.
+
+310
+0:51:46 --> 0:51:52
+Now the introduction of these agents to the diabetes arm and aterium has really kind of changed the landscape.
+
+311
+0:51:52 --> 0:51:59
+And now they have been shown to have benefits outside of these agents benefits in reducing hyperglycemia.
+
+312
+0:51:59 --> 0:52:07
+So they have kidney protective and heart protective benefits that are independent of their ability to reduce blood glucose.
+
+313
+0:52:08 --> 0:52:17
+SGLT2 works in the proximal tubule. It's the enzyme that's responsible for 90% of glucose reabsorption in the kidney.
+
+314
+0:52:17 --> 0:52:24
+So by blocking that enzyme it's thought that you basically reduce glomerular hyperfiltration.
+
+315
+0:52:24 --> 0:52:29
+You reduce tubular feedback. You reduce glomerular tubular workload.
+
+316
+0:52:29 --> 0:52:37
+And you reduce oxidative stress and improve oxygenation to both the kidneys and then the heart.
+
+317
+0:52:37 --> 0:52:46
+And which is why we're seeing these anti-inflammatory, antifibratic effects in both of these organ systems.
+
+318
+0:52:46 --> 0:52:56
+Now the first kidney benefits of the SGLT2 inhibitors were first introduced and saw in the cardiovascular outcomes trials.
+
+319
+0:52:56 --> 0:53:01
+And in the interest of time I'm not going to go through all of these cardiovascular outcomes trials.
+
+320
+0:53:01 --> 0:53:12
+But Canvas, Declare, Timmy, Empere, Verdes and Scored all did suggest positive kidney outcomes as it relates to SGLT2 inhibitors.
+
+321
+0:53:12 --> 0:53:22
+And these are secondary outcomes served as sounding boards for renal trials focused on the benefits of these agents in patients with CKD.
+
+322
+0:53:23 --> 0:53:33
+The Credence Trial evaluated the benefits of conagloflosen on renal outcomes and they used a composite kidney outcome of end stage kidney disease,
+
+323
+0:53:33 --> 0:53:38
+a doubling of serum creatinine or death from renal or cardiovascular disease.
+
+324
+0:53:38 --> 0:53:51
+And patients were essentially randomized to receive either conagloflosen or placebo if they had type 2 diabetes and albiumoneuric chronic kidney disease.
+
+325
+0:53:51 --> 0:53:56
+Now the primary outcome was reduced by 30% with conagloflosen.
+
+326
+0:53:56 --> 0:54:02
+So again demonstrating that benefit of the renal benefit.
+
+327
+0:54:02 --> 0:54:14
+In the DAPA CKD trial, the same idea, so they tried to look in this trial, establish the effects of diagloflosen in patients with or without diabetes.
+
+328
+0:54:15 --> 0:54:26
+So basically again suggesting the benefits of these individuals, the renal benefits would be independent of their ability to reduce hyperglycemia.
+
+329
+0:54:26 --> 0:54:34
+And at the conclusion of the DAPA CKD trial, there was a 39% reduction in that composite kidney outcome.
+
+330
+0:54:35 --> 0:54:45
+And but kidney sought to establish the benefits of impactloflosen over a broad spectrum of chronic kidney disease.
+
+331
+0:54:45 --> 0:54:55
+So even in those individuals that had more substantial and not reduced GFR, so you can see it included GFR of 45 to 90.
+
+332
+0:54:55 --> 0:54:58
+So stage 1 and stage 2 chronic kidney disease.
+
+333
+0:54:58 --> 0:55:05
+And in the trial there again was a 28% reduction in that primary composite outcome.
+
+334
+0:55:05 --> 0:55:17
+And then scored, I felt I needed to include citagloflosen because it's a novel SGLT21 and SGLT2 inhibitor that has just recently been introduced to the market.
+
+335
+0:55:18 --> 0:55:26
+The renal outcome trial has not been published yet, but it has a secondary outcome in the scored trial and the soloist trial.
+
+336
+0:55:26 --> 0:55:29
+It did show promise as well.
+
+337
+0:55:29 --> 0:55:40
+So obviously we know that we want to consider SGLT2 inhibitors in patients with chronic kidney disease independent of their glucose lowering effect.
+
+338
+0:55:41 --> 0:55:48
+So we can, the cadigo guidelines recommend the use of these agents in GFR greater than 20.
+
+339
+0:55:48 --> 0:56:01
+And if GFR drops below 20, the cadigo guidelines say that you can safely still use them, making sure that you're still assessing and continually assessing for side effects and volume status.
+
+340
+0:56:02 --> 0:56:23
+You want to consider the potential degrees of hypoglycemia, so when reduced in more severe stages of chronic kidney disease, consider the risks of hypoglycemia during hospitalization and severe illness, consider the potential risks of volume depletion in AKI, and consider the potential infection risk.
+
+341
+0:56:23 --> 0:56:31
+And always monitor kidneys, volume static, and volume status in the glycemic and blood pressure control.
+
+342
+0:56:31 --> 0:56:44
+And this is more just a reference slide looking at the dosing monitoring and the indications of the five agents that are currently available on the market.
+
+343
+0:56:45 --> 0:56:51
+So going back to Isla, so in conclusion, let's head back to Isla.
+
+344
+0:56:51 --> 0:56:56
+She's a 57 year old female with hypertension, stroke, and atrial fibrillation.
+
+345
+0:56:56 --> 0:57:02
+She's currently on hydrochlorothiazide, amlodopine, atorvastatin, aspirin, and warfarin.
+
+346
+0:57:02 --> 0:57:09
+Blood pressure is 135 over 82, and her laboratory values are as follows.
+
+347
+0:57:09 --> 0:57:15
+So in consideration, which of the following would be the best to estimate Isla's GFR?
+
+348
+0:57:18 --> 0:57:19
+Perfect.
+
+349
+0:57:19 --> 0:57:36
+So we definitely want to encourage the use of CKD-EPI, the race-free equation that has been refit, as it will mitigate and reduce the perpetuation of healthcare inequities in already vulnerable potential populations.
+
+350
+0:57:37 --> 0:57:42
+So which of the following would be a potential outcome of eliminating race-based correction?
+
+351
+0:57:42 --> 0:57:45
+I'm not sure if you can have multiple answers.
+
+352
+0:57:47 --> 0:57:52
+So it certainly would increase CKD.
+
+353
+0:57:54 --> 0:58:05
+It will increase CKD diagnoses among patients who identify as black, which is beneficial because individuals were inappropriately misclassified with race-based equations.
+
+354
+0:58:06 --> 0:58:12
+It would reduce healthcare inequities among historically underrepresented populations.
+
+355
+0:58:12 --> 0:58:25
+It will result in some potential patients receiving lower doses of dose-adjusted medications, but it would not increase the CKD diagnoses among patients who identify as white.
+
+356
+0:58:25 --> 0:58:29
+There is theory that it may actually reduce those diagnoses.
+
+357
+0:58:30 --> 0:58:36
+And finally, which of the following would be the best to recommend at this time for her CKD?
+
+358
+0:58:36 --> 0:58:41
+Would it be Lissenapril, Phinereanone, Impaglaflosen, or semaglutide?
+
+359
+0:58:45 --> 0:58:48
+Yes, so I would agree with this.
+
+360
+0:58:48 --> 0:58:56
+So she is not on a RAS inhibitor, so that would be the foundation for reducing progression of chronic kidney disease.
+
+361
+0:58:57 --> 0:59:02
+Impaglaflosen, she doesn't have a diagnosis of diabetes right now.
+
+362
+0:59:02 --> 0:59:08
+She's kind of lingering, so technically you could consider it, but it wouldn't be.
+
+363
+0:59:08 --> 0:59:13
+The benefits of a RAS inhibitor would be more prudent right now.
+
+364
+0:59:15 --> 0:59:17
+So our key takeaways are there.
+
+365
+0:59:18 --> 0:59:21
+And I thank you, and I'll take any questions.
+
+366
+0:59:26 --> 0:59:27
+Thank you.
+
+367
+0:59:36 --> 0:59:37
+Hi, thank you.
+
+368
+0:59:37 --> 0:59:38
+I think that's fine.
+
+369
+0:59:38 --> 0:59:40
+Thank you for the wonderful presentation today.
+
+370
+0:59:40 --> 0:59:48
+I was just wondering your opinion, especially with Phinereanone, and if we're optimizing our, like, ACE or ARB,
+
+371
+0:59:49 --> 0:59:56
+and we're running into hyperkalemia, do you see where we would potentially be using potassium binders,
+
+372
+0:59:56 --> 0:59:59
+similarly to what they've started doing in heart failure patients?
+
+373
+0:59:59 --> 1:00:00
+Potentially, yes.
+
+374
+1:00:00 --> 1:00:07
+There hasn't been, like, a lot of studies, and I think the potential, the problem is with Phinereanone,
+
+375
+1:00:07 --> 1:00:14
+and I didn't mention this in it, is adoptability of Phinereanone for CKD has been lagging.
+
+376
+1:00:14 --> 1:00:24
+So it's only about, the estimations are that about 25 to 30% of patients who qualify Phinereanone may be receiving that right now.
+
+377
+1:00:24 --> 1:00:31
+And so as far as the management strategies for hyperkalemia, I don't think we have enough data to support one over the other,
+
+378
+1:00:31 --> 1:00:35
+but I do think we can use potassium binders and it would reap the same effects.
+
+379
+1:00:38 --> 1:00:39
+Hi, thanks.
+
+380
+1:00:39 --> 1:00:46
+I've got a lot of Medicare population that I deal with, and so when you have diabetes and all these other chronic kidney disease,
+
+381
+1:00:46 --> 1:00:48
+the donut hole comes into play.
+
+382
+1:00:48 --> 1:00:53
+Is there any data on spironolactone or Phinereanone instead of Phinereanone,
+
+383
+1:00:53 --> 1:00:55
+when we're trying to go, like, cost effective?
+
+384
+1:00:56 --> 1:01:01
+So, yes, there is data on spironolactone and a Phinereanone,
+
+385
+1:01:01 --> 1:01:10
+but the risks of hyperkalemia outweigh the benefits with it in patients with chronic kidney disease, specifically at lower GFRs.
+
+386
+1:01:10 --> 1:01:12
+So, you know, there is some thought.
+
+387
+1:01:12 --> 1:01:19
+Obviously, if your patient has corresponding heart failure and the GFR is at a higher level, you could use it, right?
+
+388
+1:01:19 --> 1:01:22
+But you just have to be very prudent with potassium.
+
+389
+1:01:23 --> 1:01:26
+For patients with CKD without that corresponding heart failure,
+
+390
+1:01:26 --> 1:01:32
+I would still focus on potential benefits of Phinereanone just because of that mineral acorticoid selectivity.
+
+391
+1:01:32 --> 1:01:34
+Thanks, appreciate it.
+
+392
+1:01:43 --> 1:01:45
+First of all, thank you. I really enjoyed your presentation.
+
+393
+1:01:45 --> 1:01:49
+I kind of just wanted an opinion, maybe in the room and from you.
+
+394
+1:01:50 --> 1:01:58
+Currently, at my practice site, I see that if a patient has had angioedema to an ACE inhibitor, they're skipping ARBs altogether.
+
+395
+1:01:58 --> 1:02:09
+So, I have a lot of patients with heart failure and CKD, and I have one provider I've talked to that says he's completely fine with re-challenging with an ARB.
+
+396
+1:02:09 --> 1:02:11
+So, I just want your take on that.
+
+397
+1:02:11 --> 1:02:17
+So, we're skipping some beneficial classes in these patients that could really stand a lot of gain from them.
+
+398
+1:02:18 --> 1:02:20
+So, what do you see and what's your opinion on that?
+
+399
+1:02:20 --> 1:02:29
+So, I will say the newer data actually suggests that if a patient has angioedema, you can re-challenge with an ARB.
+
+400
+1:02:29 --> 1:02:35
+I will say that our clinicians at my institution still feel very hesitant about that,
+
+401
+1:02:35 --> 1:02:44
+but the principle on the data really supports that if the angioedema didn't initially result in respiratory compromise or need for intubation,
+
+402
+1:02:44 --> 1:02:48
+then you could potentially challenge with the ARB.
+
+403
+1:02:48 --> 1:02:55
+I think that in our patients with CKD and heart failure, we should be pushing it because of the benefits of it.
+
+404
+1:02:55 --> 1:02:58
+I'm with you on that. Thank you.
+
+405
+1:02:58 --> 1:03:00
+Okay.
+
+406
+1:03:00 --> 1:03:01
+All right.
+
+407
+1:03:01 --> 1:03:05
+Well, I think we have to wrap up for the next presentation.
+
+408
+1:03:05 --> 1:03:08
+So, I will be here in case there are other questions.
+
+409
+1:03:08 --> 1:03:10
+So, thank you so much.
+
+410
+1:03:10 --> 1:03:15
+Bye.
+

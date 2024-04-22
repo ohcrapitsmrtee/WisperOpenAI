@@ -1,0 +1,550 @@
+WEBVTT
+
+1
+0:00:00 --> 0:00:06,600000
+All right, so in this tutorial, I'm going to show you how to automate PDF data entry
+
+2
+0:00:06,600000 --> 0:00:08,640000
+using Python.
+
+3
+0:00:08,640000 --> 0:00:14,640000
+So this is actually related to a project that I just finished, and I chose the client around
+
+4
+0:00:14,640000 --> 0:00:19,400000
+12 to $5000 to automate the data entry test.
+
+5
+0:00:19,400000 --> 0:00:24,980000
+So basically my client had a list of spreadsheets, and each spreadsheet has a list of
+
+6
+0:00:24,980000 --> 0:00:29,940000
+come tests that need to populate into a PDF form.
+
+7
+0:00:29,940000 --> 0:00:34,540000
+Now imagine that I need to do this one by one mainly, then it's going to take hours or
+
+8
+0:00:34,540000 --> 0:00:36,100000
+even days.
+
+9
+0:00:36,100000 --> 0:00:42,220000
+Anyway, I'll be using this Python library called PyMew PDF.
+
+10
+0:00:42,220000 --> 0:00:50,580000
+In my opinion, this is probably the most powerful PDF Python package that I've used so far.
+
+11
+0:00:50,580000 --> 0:00:59,420000
+But the major drawback with using PyMew PDF is that the license is based on a GPL license.
+
+12
+0:00:59,420000 --> 0:01:05,340000
+What I mean is if you build a software and if you distribute a software, you need to measure
+
+13
+0:01:05,340000 --> 0:01:11,540000
+that your source code is also available to anyone who is going to be using your software.
+
+14
+0:01:11,540000 --> 0:01:16,700000
+Unless you purchase a commercial license with the provider.
+
+15
+0:01:16,700000 --> 0:01:21,700000
+For internal uses, then I don't need to share the source code since you're not actually
+
+16
+0:01:21,700000 --> 0:01:24,300000
+distributing the software.
+
+17
+0:01:24,300000 --> 0:01:34,060000
+Now for this exercise, I'm going to use this StarPamen request order PDF form, a demonstration.
+
+18
+0:01:34,060000 --> 0:01:37,860000
+And you can download the form from Silver Lake Bank.
+
+19
+0:01:37,860000 --> 0:01:44,420000
+I'm not going to link the link for this page since I'm not affiliated with the company.
+
+20
+0:01:44,420000 --> 0:01:54,900000
+But here you can download a variety of PDF forms for testing or experimenting.
+
+21
+0:01:54,900000 --> 0:01:57,660000
+Now I'm going to install the package.
+
+22
+0:01:57,660000 --> 0:02:08,460000
+When I start PyMew PDF, we're going to type, put install PyMew PDF.
+
+23
+0:02:08,460000 --> 0:02:12,020000
+And I don't know if I pronounce it correctly.
+
+24
+0:02:12,020000 --> 0:02:18,060000
+I'm going to create my script, demo.py.
+
+25
+0:02:18,060000 --> 0:02:36,700000
+Now go ahead and open the file.
+
+26
+0:02:36,700000 --> 0:02:42,660000
+I'm going to walk you to the entire process from high approach trying to figure out which
+
+27
+0:02:42,660000 --> 0:02:44,300000
+field to fill in.
+
+28
+0:02:44,300000 --> 0:02:48,540000
+The source is I also show you how to insert a signature.
+
+29
+0:02:48,540000 --> 0:02:51,580000
+So here's my signature file image file.
+
+30
+0:02:51,580000 --> 0:02:58,300000
+Alright, so let me close this file first.
+
+31
+0:02:58,300000 --> 0:03:03,140000
+Now before you start any data entry task using PyMew PDF, you want to make sure that you
+
+32
+0:03:03,140000 --> 0:03:07,100000
+make a copy of the original document.
+
+33
+0:03:07,100000 --> 0:03:10,500000
+Then going back to the Python script.
+
+34
+0:03:10,500000 --> 0:03:15,220000
+To automate this task, I'll be using two libraries.
+
+35
+0:03:15,220000 --> 0:03:23,020000
+Once the path class, which is to construct a folder path to where my files are located.
+
+36
+0:03:23,020000 --> 0:03:28,620000
+And to use PyMew PDF, PyMew package will import first.
+
+37
+0:03:28,620000 --> 0:03:33,100000
+Now because most of the fields are almost identical, I'm going to do this.
+
+38
+0:03:33,100000 --> 0:03:37,020000
+I'm going to show you how to populate the first seven fields.
+
+39
+0:03:37,020000 --> 0:03:41,660000
+So we have a text field as well as a couple check boxes.
+
+40
+0:03:41,660000 --> 0:03:47,100000
+And I think that will cover almost 90% of the use cases.
+
+41
+0:03:47,100000 --> 0:03:56,820000
+Alright, so here I'm going to insert function to pre-populate the data entry value.
+
+42
+0:03:56,820000 --> 0:04:00,100000
+Now here each field represents an index.
+
+43
+0:04:00,100000 --> 0:04:07,700000
+So this is going to be index 0, this is going to be index 1, index 2, index 3.
+
+44
+0:04:07,700000 --> 0:04:12,220000
+And the way how you can figure out the index, which I'll show you in a second.
+
+45
+0:04:12,220000 --> 0:04:19,540000
+But here me define my target path, which is where my documents are sitting.
+
+46
+0:04:19,540000 --> 0:04:25,620000
+Then I'm going to create two variables.
+
+47
+0:04:25,620000 --> 0:04:30,900000
+One is going to be the source file, and we name this to source file name.
+
+48
+0:04:30,900000 --> 0:04:39,540000
+And another variable will be the file path where the field PDF is going to get safe.
+
+49
+0:04:39,540000 --> 0:04:43,740000
+And here I'm going to load the values corresponding to each field.
+
+50
+0:04:43,740000 --> 0:04:47,300000
+In this case, it's going to be based on the fields index.
+
+51
+0:04:47,300000 --> 0:04:54,340000
+Now I'm going to open the source PDF file, and that's going to be the template.
+
+52
+0:04:54,340000 --> 0:05:02,500000
+Now assuming that you have 10,000 records, any to create 10,000 PDF forms for those 10,000
+
+53
+0:05:02,500000 --> 0:05:09,700000
+records, the source file name is going to be the file that represents the template.
+
+54
+0:05:09,700000 --> 0:05:14,300000
+And we fix the file path.
+
+55
+0:05:14,300000 --> 0:05:21,020000
+So first we're going to open the document using first.open and providing the templates
+
+56
+0:05:21,020000 --> 0:05:23,820000
+file path, first.
+
+57
+0:05:23,820000 --> 0:05:28,420000
+Now for this demo, my PDF only has one page.
+
+58
+0:05:28,420000 --> 0:05:35,220000
+So we can reference the first page by referencing the dark object, followed by the page index.
+
+59
+0:05:35,220000 --> 0:05:38,180000
+And it's going to be zero base index.
+
+60
+0:05:38,180000 --> 0:05:41,660000
+So this will represent a page one.
+
+61
+0:05:41,660000 --> 0:05:45,740000
+And our name page one is target page.
+
+62
+0:05:45,740000 --> 0:05:53,020000
+Now the first step is we need to confirm the index of each field, including the checkboxes.
+
+63
+0:05:53,020000 --> 0:05:58,220000
+So here I created this procedure.
+
+64
+0:05:58,220000 --> 0:06:03,940000
+So from target page, in the target page object, I represent the page here.
+
+65
+0:06:03,940000 --> 0:06:10,220000
+And I can reference all the data entry fields by referencing the widget method.
+
+66
+0:06:10,220000 --> 0:06:14,940000
+Then I'm going to use the enumerate function to wrap the output.
+
+67
+0:06:14,940000 --> 0:06:19,140000
+This will return both the elements index and the elements self.
+
+68
+0:06:19,500000 --> 0:06:24,420000
+Oh, and we forgot to show one thing.
+
+69
+0:06:24,420000 --> 0:06:30,420000
+Now I'll link the documentations in the description below.
+
+70
+0:06:30,420000 --> 0:06:35,580000
+Now, because a PDF form can have multiple different types of widgets.
+
+71
+0:06:39,500000 --> 0:06:42,700000
+And we do a quick search.
+
+72
+0:06:42,700000 --> 0:06:49,100000
+Under which constants, these are the enumerations tied to each widget type.
+
+73
+0:06:49,460000 --> 0:06:58,220000
+We have unknown button, checkbox, combo box, list box, radio button, signature is also a pretty important one and text.
+
+74
+0:07:00,580000 --> 0:07:06,060000
+So here I'm going to erase each field and there will be code widgets.
+
+75
+0:07:06,060000 --> 0:07:11,260000
+So here I'm going to check if the field type is a text box.
+
+76
+0:07:11,340000 --> 0:07:19,020000
+Then I'm going to insert a text label in the PDF file, where the fields index number and the
+
+77
+0:07:19,020000 --> 0:07:22,460000
+issue I'm going to remove field type.
+
+78
+0:07:22,460000 --> 0:07:24,060000
+This is basically giving.
+
+79
+0:07:26,340000 --> 0:07:29,900000
+So we can populate the value by referencing the widget.
+
+80
+0:07:29,900000 --> 0:07:35,140000
+In this case, I'm going to name the widget field using field field value.
+
+81
+0:07:35,140000 --> 0:07:39,020000
+This will be the data entry value that I want to populate.
+
+82
+0:07:39,020000 --> 0:07:43,180000
+They'll need to run the update method to confirm the value.
+
+83
+0:07:43,180000 --> 0:07:49,220000
+Now, if the field type is a checkbox field for the field value, we need to send that to true.
+
+84
+0:07:49,220000 --> 0:07:52,580000
+Now here, notice that I'm entering the value as a stream.
+
+85
+0:07:52,580000 --> 0:08:02,860000
+So if we go back to the data entry data function here for the account number field, which is going to be indexed for right here.
+
+86
+0:08:02,860000 --> 0:08:05,700000
+And now that one, this one here.
+
+87
+0:08:05,700000 --> 0:08:09,620000
+The account number is going to be numbers.
+
+88
+0:08:09,620000 --> 0:08:13,180000
+But because it's a text field, I need to measure that.
+
+89
+0:08:13,180000 --> 0:08:15,900000
+I enter the data as a text string.
+
+90
+0:08:15,900000 --> 0:08:20,220000
+But for checkboxes, it's going to be true or false.
+
+91
+0:08:20,220000 --> 0:08:30,500000
+And for the checkboxes fields, because they don't have a field to allow you to enter the label to display the fields index.
+
+92
+0:08:30,500000 --> 0:08:35,940000
+So I'm going to insert an annotation by referencing the page's object.
+
+93
+0:08:35,940000 --> 0:08:44,380000
+In this case, it will be target page that insert text and field.rest.to is going to basically
+
+94
+0:08:44,380000 --> 0:08:47,420000
+represent the location of the widget.
+
+95
+0:08:47,420000 --> 0:08:56,060000
+I'm going to insert the text down to display, and which is going to be just the index followed by the index number for that field.
+
+96
+0:08:56,060000 --> 0:09:01,780000
+Then we can insert the font size and the font scale value.
+
+97
+0:09:01,780000 --> 0:09:12,780000
+Now, because I don't want to populate everything, so I'm going to stop when the iteration ends, where the last entry is rich.
+
+98
+0:09:12,780000 --> 0:09:17,260000
+Let me take a look.
+
+99
+0:09:17,260000 --> 0:09:22,260000
+Then we're going to save the document as a new file.
+
+100
+0:09:22,260000 --> 0:09:29,980000
+Now, if I go in the run the script, it took about less than a second to finish.
+
+101
+0:09:29,980000 --> 0:09:33,700000
+And it's really quick, to be honest.
+
+102
+0:09:33,700000 --> 0:09:40,980000
+Now, if we look at the PDF form here, so this text box is going to be indexed here.
+
+103
+0:09:40,980000 --> 0:09:52,220000
+And I know the annotations are going to be a little bit difficult to see, but we can see that this checkbox here is going to be indexed to index three, four, five, and six.
+
+104
+0:09:53,220000 --> 0:10:00,220000
+Now, once we figure out the fields index, now we can populate the values accordingly.
+
+105
+0:10:00,220000 --> 0:10:04,220000
+So I'm going to come out this code block.
+
+106
+0:10:04,220000 --> 0:10:10,220000
+Since I did figure out the corresponding index numbers for each field.
+
+107
+0:10:10,220000 --> 0:10:16,220000
+Now instead, I'm going to insert this code block.
+
+108
+0:10:16,220000 --> 0:10:27,220000
+And basically, I'm doing a very similar task, except that I can return the corresponding value by referencing the data entry data dictionary that gets.
+
+109
+0:10:27,220000 --> 0:10:37,220000
+And I'll provide the index, which is going to be the key value from my data entry record.
+
+110
+0:10:37,220000 --> 0:10:45,220000
+And again, measure that you convert the value to string when the field is a text field.
+
+111
+0:10:45,220000 --> 0:10:50,220000
+And for checkboxes, it's going to be true of us.
+
+112
+0:10:50,220000 --> 0:10:54,220000
+Now, to insert the signature.
+
+113
+0:10:54,220000 --> 0:11:01,220000
+So first, I need to measure that you have an image that has your signature in it.
+
+114
+0:11:07,220000 --> 0:11:10,220000
+Then this code block right here.
+
+115
+0:11:10,220000 --> 0:11:16,220000
+And you may need to pair on with the location in the signature size.
+
+116
+0:11:16,220000 --> 0:11:22,220000
+So basically, we need to define the location where the signature is going to be placed.
+
+117
+0:11:22,220000 --> 0:11:27,220000
+So this top right here is going to be your X0 and Y0 coordinate.
+
+118
+0:11:27,220000 --> 0:11:33,220000
+And this will be the destination, which is going to be X1 and Y1.
+
+119
+0:11:33,220000 --> 0:11:37,220000
+And I send a screenshot I took.
+
+120
+0:11:37,220000 --> 0:11:40,220000
+I should go back.
+
+121
+0:11:40,220000 --> 0:11:44,220000
+All right here.
+
+122
+0:11:44,220000 --> 0:11:47,220000
+So the top right here.
+
+123
+0:11:47,220000 --> 0:11:53,220000
+Represent the writing area that I want to insert in this case will be the image.
+
+124
+0:11:53,220000 --> 0:12:02,220000
+Now, keep in mind that based on the corners that you set, you also automatically resize the image.
+
+125
+0:12:03,220000 --> 0:12:08,220000
+And signature image is going to be the image file path.
+
+126
+0:12:08,220000 --> 0:12:13,220000
+Then we need to open the signature file as a binary.
+
+127
+0:12:13,220000 --> 0:12:21,220000
+Then from target page that insert image, we need to insert the location where the signature is going to get placed.
+
+128
+0:12:21,220000 --> 0:12:27,220000
+Then we need to provide the signature image binary to the string parameter.
+
+129
+0:12:27,220000 --> 0:12:30,220000
+Then save the file.
+
+130
+0:12:31,220000 --> 0:12:35,220000
+Now let me put this sub-size.
+
+131
+0:12:35,220000 --> 0:12:41,220000
+And since I'm overriding the existing file, so I'm going to run the script.
+
+132
+0:12:41,220000 --> 0:12:46,220000
+And I can simply refresh the page.
+
+133
+0:12:46,220000 --> 0:12:54,220000
+Now here we can see that based on the key value pairs, the form is now auto-populated using Python.
+
+134
+0:12:54,220000 --> 0:12:58,220000
+So this is going to be able to cover in this tutorial.
+
+135
+0:12:58,220000 --> 0:13:00,220000
+And hopefully you guys find this video useful.
+
+136
+0:13:00,220000 --> 0:13:05,220000
+And if you enjoyed this video, please don't forget to like the video and subscribe to the channel.
+
+137
+0:13:05,220000 --> 0:13:08,220000
+I'll see you guys in the next video.
+
